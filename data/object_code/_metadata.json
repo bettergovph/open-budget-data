@@ -1,0 +1,36 @@
+[
+  {
+    "entity": "object_code",
+    "total_classifications": 5,
+    "total_sub_classes": 29,
+    "total_groups": 97,
+    "total_objects": 682,
+    "total_sub_objects": 671,
+    "conversion_date": "2025-10-05T12:21:54.465730",
+    "source_file": "subobjectcode.json",
+    "output_files": [
+      "classifications.json",
+      "sub_classes.json",
+      "groups.json",
+      "objects.json",
+      "sub_objects.json"
+    ],
+    "uacs_structure": {
+      "total_digits": 10,
+      "format": "[C][SS][GG][OOO][SO]",
+      "position_0": "Classification (1 digit)",
+      "positions_1_2": "Sub-Class (2 digits)",
+      "positions_3_4": "Group (2 digits)",
+      "positions_5_7": "Object (3 digits)",
+      "positions_8_9": "Sub-Object (2 digits)",
+      "hierarchy_indicator": "Trailing zeros indicate level"
+    },
+    "classifications": {
+      "1": "Assets",
+      "2": "Liabilities",
+      "3": "Equity",
+      "4": "Revenue/Income",
+      "5": "Expenses"
+    }
+  }
+]

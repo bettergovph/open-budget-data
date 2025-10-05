@@ -1,0 +1,242 @@
+[
+  {
+    "code": "01",
+    "description": "Congress of the Philippines (CONGRESS)",
+    "abbreviation": "CONGRESS",
+    "status": "Active"
+  },
+  {
+    "code": "02",
+    "description": "Office of the President (OP)",
+    "abbreviation": "OP",
+    "status": "Active"
+  },
+  {
+    "code": "03",
+    "description": "Office of the Vice-President (OVP)",
+    "abbreviation": "OVP",
+    "status": "Active"
+  },
+  {
+    "code": "04",
+    "description": "Department of Agrarian Reform (DAR)",
+    "abbreviation": "DAR",
+    "status": "Active"
+  },
+  {
+    "code": "05",
+    "description": "Department of Agriculture (DA)",
+    "abbreviation": "DA",
+    "status": "Active"
+  },
+  {
+    "code": "06",
+    "description": "Department of Budget and Management (DBM)",
+    "abbreviation": "DBM",
+    "status": "Active"
+  },
+  {
+    "code": "07",
+    "description": "Department of Education (DepEd)",
+    "abbreviation": "DepEd",
+    "status": "Active"
+  },
+  {
+    "code": "08",
+    "description": "State Universities and Colleges (SUCs)",
+    "abbreviation": "SUCs",
+    "status": "Active"
+  },
+  {
+    "code": "09",
+    "description": "Department of Energy (DOE)",
+    "abbreviation": "DOE",
+    "status": "Active"
+  },
+  {
+    "code": "10",
+    "description": "Department of Environment and Natural Resources (DENR)",
+    "abbreviation": "DENR",
+    "status": "Active"
+  },
+  {
+    "code": "11",
+    "description": "Department of Finance (DOF)",
+    "abbreviation": "DOF",
+    "status": "Active"
+  },
+  {
+    "code": "12",
+    "description": "Department of Foreign Affairs (DFA)",
+    "abbreviation": "DFA",
+    "status": "Active"
+  },
+  {
+    "code": "13",
+    "description": "Department of Health (DOH)",
+    "abbreviation": "DOH",
+    "status": "Active"
+  },
+  {
+    "code": "14",
+    "description": "Department of the Interior and Local Government (DILG)",
+    "abbreviation": "DILG",
+    "status": "Active"
+  },
+  {
+    "code": "15",
+    "description": "Department of Justice (DOJ)",
+    "abbreviation": "DOJ",
+    "status": "Active"
+  },
+  {
+    "code": "16",
+    "description": "Department of Labor and Employment (DOLE)",
+    "abbreviation": "DOLE",
+    "status": "Active"
+  },
+  {
+    "code": "17",
+    "description": "Department of National Defense (DND)",
+    "abbreviation": "DND",
+    "status": "Active"
+  },
+  {
+    "code": "18",
+    "description": "Department of Public Works and Highways (DPWH)",
+    "abbreviation": "DPWH",
+    "status": "Active"
+  },
+  {
+    "code": "19",
+    "description": "Department of Science and Technology (DOST)",
+    "abbreviation": "DOST",
+    "status": "Active"
+  },
+  {
+    "code": "20",
+    "description": "Department of Social Welfare and Development (DSWD)",
+    "abbreviation": "DSWD",
+    "status": "Active"
+  },
+  {
+    "code": "21",
+    "description": "Department of Tourism (DOT)",
+    "abbreviation": "DOT",
+    "status": "Active"
+  },
+  {
+    "code": "22",
+    "description": "Department of Trade and Industry (DTI)",
+    "abbreviation": "DTI",
+    "status": "Active"
+  },
+  {
+    "code": "23",
+    "description": "Department of Transportation and Communications (DOTC)",
+    "abbreviation": "DOTC",
+    "status": "Inactive"
+  },
+  {
+    "code": "24",
+    "description": "Department of Economy, Planning, and Development (DEPDev)",
+    "abbreviation": "DEPDev",
+    "status": "Active"
+  },
+  {
+    "code": "25",
+    "description": "Presidential Communications Office (PCO)",
+    "abbreviation": "PCO",
+    "status": "Active"
+  },
+  {
+    "code": "26",
+    "description": "Other Executive Offices (OEOs)",
+    "abbreviation": "OEOs",
+    "status": "Active"
+  },
+  {
+    "code": "27",
+    "description": "Autonomous Region in Muslim Mindanao (ARMM)",
+    "abbreviation": "ARMM",
+    "status": "Active"
+  },
+  {
+    "code": "28",
+    "description": "Joint Legislative-Executive Councils (JLEC)",
+    "abbreviation": "JLEC",
+    "status": "Inactive"
+  },
+  {
+    "code": "29",
+    "description": "The Judiciary (JUD)",
+    "abbreviation": "JUD",
+    "status": "Active"
+  },
+  {
+    "code": "30",
+    "description": "Civil Service Commission (CSC)",
+    "abbreviation": "CSC",
+    "status": "Active"
+  },
+  {
+    "code": "31",
+    "description": "Commission on Audit (COA)",
+    "abbreviation": "COA",
+    "status": "Active"
+  },
+  {
+    "code": "32",
+    "description": "Commission on Elections (COMELEC)",
+    "abbreviation": "COMELEC",
+    "status": "Active"
+  },
+  {
+    "code": "33",
+    "description": "Office of the Ombudsman (OMB)",
+    "abbreviation": "OMB",
+    "status": "Active"
+  },
+  {
+    "code": "34",
+    "description": "Commission on Human Rights (CHR)",
+    "abbreviation": "CHR",
+    "status": "Active"
+  },
+  {
+    "code": "35",
+    "description": "Budgetary Support to Government Corporations (BSGC)",
+    "abbreviation": "BSGC",
+    "status": "Active"
+  },
+  {
+    "code": "36",
+    "description": "Allocations to Local Government Units (ALGU)",
+    "abbreviation": "ALGU",
+    "status": "Active"
+  },
+  {
+    "code": "37",
+    "description": "Department of Information and Communications Technology (DICT)",
+    "abbreviation": "DICT",
+    "status": "Active"
+  },
+  {
+    "code": "38",
+    "description": "Department of Transportation (DOTr)",
+    "abbreviation": "DOTr",
+    "status": "Active"
+  },
+  {
+    "code": "39",
+    "description": "Department of Human Settlements and Urban Development (DHSUD)",
+    "abbreviation": "DHSUD",
+    "status": "Active"
+  },
+  {
+    "code": "40",
+    "description": "Department of Migrant Workers (DMW)",
+    "abbreviation": "DMW",
+    "status": "Active"
+  }
+]

@@ -1,0 +1,442 @@
+[
+  {
+    "code": "100",
+    "type": "Sector",
+    "description": "General public services"
+  },
+  {
+    "code": "101",
+    "type": "Sub-Sector",
+    "description": "Executive and legislative organs, financial and fiscal affairs, external affairs"
+  },
+  {
+    "code": "102",
+    "type": "Sub-Sector",
+    "description": "Foreign economic aid"
+  },
+  {
+    "code": "103",
+    "type": "Sub-Sector",
+    "description": "General services"
+  },
+  {
+    "code": "104",
+    "type": "Sub-Sector",
+    "description": "Basic research"
+  },
+  {
+    "code": "105",
+    "type": "Sub-Sector",
+    "description": "R&D General public services"
+  },
+  {
+    "code": "106",
+    "type": "Sub-Sector",
+    "description": "General public services n.e.c."
+  },
+  {
+    "code": "107",
+    "type": "Sub-Sector",
+    "description": "Public debt transactions"
+  },
+  {
+    "code": "108",
+    "type": "Sub-Sector",
+    "description": "Transfers of a general character between different levels of government"
+  },
+  {
+    "code": "109",
+    "type": "Sub-Sector",
+    "description": "Governance / Government Institutions and Regulatory Regime"
+  },
+  {
+    "code": "120",
+    "type": "Sector",
+    "description": "Defense"
+  },
+  {
+    "code": "121",
+    "type": "Sub-Sector",
+    "description": "Military Defense"
+  },
+  {
+    "code": "122",
+    "type": "Sub-Sector",
+    "description": "Civil Defense"
+  },
+  {
+    "code": "123",
+    "type": "Sub-Sector",
+    "description": "Foreign military aid"
+  },
+  {
+    "code": "124",
+    "type": "Sub-Sector",
+    "description": "R&D Defense"
+  },
+  {
+    "code": "125",
+    "type": "Sub-Sector",
+    "description": "Territorial integrity"
+  },
+  {
+    "code": "126",
+    "type": "Sub-Sector",
+    "description": "Defense against cybercrimes"
+  },
+  {
+    "code": "127",
+    "type": "Sub-Sector",
+    "description": "Defense n.e.c."
+  },
+  {
+    "code": "140",
+    "type": "Sector",
+    "description": "Public order and safety"
+  },
+  {
+    "code": "141",
+    "type": "Sub-Sector",
+    "description": "Police services"
+  },
+  {
+    "code": "142",
+    "type": "Sub-Sector",
+    "description": "Fire-protection services"
+  },
+  {
+    "code": "143",
+    "type": "Sub-Sector",
+    "description": "Law courts"
+  },
+  {
+    "code": "144",
+    "type": "Sub-Sector",
+    "description": "Prisons"
+  },
+  {
+    "code": "145",
+    "type": "Sub-Sector",
+    "description": "R&D Public order and safety"
+  },
+  {
+    "code": "146",
+    "type": "Sub-Sector",
+    "description": "Public order and safety n.e.c."
+  },
+  {
+    "code": "160",
+    "type": "Sector",
+    "description": "Economic affairs"
+  },
+  {
+    "code": "161",
+    "type": "Sub-Sector",
+    "description": "General economic, commercial and labor affairs"
+  },
+  {
+    "code": "162",
+    "type": "Sub-Sector",
+    "description": "Agriculture, forestry, fishing and hunting"
+  },
+  {
+    "code": "163",
+    "type": "Sub-Sector",
+    "description": "Fuel and energy"
+  },
+  {
+    "code": "164",
+    "type": "Sub-Sector",
+    "description": "Mining, manufacturing and construction"
+  },
+  {
+    "code": "165",
+    "type": "Sub-Sector",
+    "description": "Transport"
+  },
+  {
+    "code": "166",
+    "type": "Sub-Sector",
+    "description": "Communication"
+  },
+  {
+    "code": "167",
+    "type": "Sub-Sector",
+    "description": "Other industries"
+  },
+  {
+    "code": "168",
+    "type": "Sub-Sector",
+    "description": "R&D Economic affairs"
+  },
+  {
+    "code": "169",
+    "type": "Sub-Sector",
+    "description": "Economic affairs n.e.c."
+  },
+  {
+    "code": "180",
+    "type": "Sector",
+    "description": "Environmental protection"
+  },
+  {
+    "code": "181",
+    "type": "Sub-Sector",
+    "description": "Waste management"
+  },
+  {
+    "code": "182",
+    "type": "Sub-Sector",
+    "description": "Waste water management"
+  },
+  {
+    "code": "183",
+    "type": "Sub-Sector",
+    "description": "Pollution abatement"
+  },
+  {
+    "code": "184",
+    "type": "Sub-Sector",
+    "description": "Protection of biodiversity and landscape"
+  },
+  {
+    "code": "185",
+    "type": "Sub-Sector",
+    "description": "R&D Environmental protection"
+  },
+  {
+    "code": "186",
+    "type": "Sub-Sector",
+    "description": "Environmental protection n.e.c."
+  },
+  {
+    "code": "200",
+    "type": "Sector",
+    "description": "Housing and community amenities"
+  },
+  {
+    "code": "201",
+    "type": "Sub-Sector",
+    "description": "Housing development"
+  },
+  {
+    "code": "202",
+    "type": "Sub-Sector",
+    "description": "Community development"
+  },
+  {
+    "code": "203",
+    "type": "Sub-Sector",
+    "description": "Water supply"
+  },
+  {
+    "code": "204",
+    "type": "Sub-Sector",
+    "description": "Street lighting"
+  },
+  {
+    "code": "205",
+    "type": "Sub-Sector",
+    "description": "R&D Housing and community amenities"
+  },
+  {
+    "code": "206",
+    "type": "Sub-Sector",
+    "description": "Housing and community amenities n.e.c."
+  },
+  {
+    "code": "220",
+    "type": "Sector",
+    "description": "Health"
+  },
+  {
+    "code": "221",
+    "type": "Sub-Sector",
+    "description": "Medical products, appliances and equipment"
+  },
+  {
+    "code": "222",
+    "type": "Sub-Sector",
+    "description": "Outpatient services"
+  },
+  {
+    "code": "223",
+    "type": "Sub-Sector",
+    "description": "Hospital services"
+  },
+  {
+    "code": "224",
+    "type": "Sub-Sector",
+    "description": "Public health services"
+  },
+  {
+    "code": "225",
+    "type": "Sub-Sector",
+    "description": "R&D Health"
+  },
+  {
+    "code": "226",
+    "type": "Sub-Sector",
+    "description": "Health insurance"
+  },
+  {
+    "code": "227",
+    "type": "Sub-Sector",
+    "description": "Health n.e.c."
+  },
+  {
+    "code": "240",
+    "type": "Sector",
+    "description": "Recreation and culture"
+  },
+  {
+    "code": "241",
+    "type": "Sub-Sector",
+    "description": "Recreational and sporting services"
+  },
+  {
+    "code": "242",
+    "type": "Sub-Sector",
+    "description": "Cultural services"
+  },
+  {
+    "code": "243",
+    "type": "Sub-Sector",
+    "description": "Broadcasting and publishing services"
+  },
+  {
+    "code": "244",
+    "type": "Sub-Sector",
+    "description": "Other community services"
+  },
+  {
+    "code": "245",
+    "type": "Sub-Sector",
+    "description": "R&D Recreation and, culture"
+  },
+  {
+    "code": "246",
+    "type": "Sub-Sector",
+    "description": "Recreation and, culture n.e.c."
+  },
+  {
+    "code": "260",
+    "type": "Sector",
+    "description": "Education"
+  },
+  {
+    "code": "261",
+    "type": "Sub-Sector",
+    "description": "Pre-primary and primary education"
+  },
+  {
+    "code": "262",
+    "type": "Sub-Sector",
+    "description": "Secondary education"
+  },
+  {
+    "code": "263",
+    "type": "Sub-Sector",
+    "description": "Post-secondary non-tertiary education"
+  },
+  {
+    "code": "264",
+    "type": "Sub-Sector",
+    "description": "Tertiary education"
+  },
+  {
+    "code": "265",
+    "type": "Sub-Sector",
+    "description": "Education not definable by level"
+  },
+  {
+    "code": "266",
+    "type": "Sub-Sector",
+    "description": "Subsidiary services to education"
+  },
+  {
+    "code": "267",
+    "type": "Sub-Sector",
+    "description": "R&D Education"
+  },
+  {
+    "code": "268",
+    "type": "Sub-Sector",
+    "description": "School Buildings"
+  },
+  {
+    "code": "269",
+    "type": "Sub-Sector",
+    "description": "Education n.e.c."
+  },
+  {
+    "code": "270",
+    "type": "Sub-Sector",
+    "description": "Pre-Primary, Primary, and Secondary Education"
+  },
+  {
+    "code": "280",
+    "type": "Sector",
+    "description": "Social protection"
+  },
+  {
+    "code": "281",
+    "type": "Sub-Sector",
+    "description": "Sickness and disability"
+  },
+  {
+    "code": "282",
+    "type": "Sub-Sector",
+    "description": "Old age"
+  },
+  {
+    "code": "283",
+    "type": "Sub-Sector",
+    "description": "Survivors"
+  },
+  {
+    "code": "284",
+    "type": "Sub-Sector",
+    "description": "Family and children"
+  },
+  {
+    "code": "285",
+    "type": "Sub-Sector",
+    "description": "Unemployment"
+  },
+  {
+    "code": "286",
+    "type": "Sub-Sector",
+    "description": "Housing"
+  },
+  {
+    "code": "287",
+    "type": "Sub-Sector",
+    "description": "Pantawid Pamilya Program or the Conditional Cash Transfer (CCT)"
+  },
+  {
+    "code": "288",
+    "type": "Sub-Sector",
+    "description": "Social exclusion n.e.c"
+  },
+  {
+    "code": "289",
+    "type": "Sub-Sector",
+    "description": "R&D Social protection"
+  },
+  {
+    "code": "290",
+    "type": "Sub-Sector",
+    "description": "Local membership to insurance"
+  },
+  {
+    "code": "291",
+    "type": "Sub-Sector",
+    "description": "Conflict-affected areas"
+  },
+  {
+    "code": "292",
+    "type": "Sub-Sector",
+    "description": "Social protection n.e.c."
+  }
+]

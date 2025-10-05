@@ -1,0 +1,3730 @@
+[
+  {
+    "code": "001",
+    "description": "Senate",
+    "department_code": "01",
+    "uacs_code": "01001",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "002",
+    "description": "Senate Electoral Tribunal",
+    "department_code": "01",
+    "uacs_code": "01002",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "003",
+    "description": "Commission on Appointments",
+    "department_code": "01",
+    "uacs_code": "01003",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "004",
+    "description": "House of Representatives",
+    "department_code": "01",
+    "uacs_code": "01004",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "005",
+    "description": "House of Representatives Electoral Tribunal",
+    "department_code": "01",
+    "uacs_code": "01005",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "001",
+    "description": "The President's Offices",
+    "department_code": "02",
+    "uacs_code": "02001",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "000",
+    "description": "Office of the Vice-President (OVP)",
+    "department_code": "03",
+    "uacs_code": "03000",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "001",
+    "description": "Office of the Secretary",
+    "department_code": "04",
+    "uacs_code": "04001",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "001",
+    "description": "Office of the Secretary",
+    "department_code": "05",
+    "uacs_code": "05001",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "002",
+    "description": "Agricultural Credit Policy Council",
+    "department_code": "05",
+    "uacs_code": "05002",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "003",
+    "description": "Bureau of Fisheries and Aquatic Resources",
+    "department_code": "05",
+    "uacs_code": "05003",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "004",
+    "description": "Cotton Development Administration",
+    "department_code": "05",
+    "uacs_code": "05004",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "005",
+    "description": "Fertilizer and Pesticide Authority",
+    "department_code": "05",
+    "uacs_code": "05005",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "006",
+    "description": "Fiber Industry Development Authority",
+    "department_code": "05",
+    "uacs_code": "05006",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "007",
+    "description": "Livestock Development Council",
+    "department_code": "05",
+    "uacs_code": "05007",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "008",
+    "description": "National Agricultural and Fishery Council",
+    "department_code": "05",
+    "uacs_code": "05008",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "009",
+    "description": "National Meat Inspection Service",
+    "department_code": "05",
+    "uacs_code": "05009",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "010",
+    "description": "Philippine Carabao Center",
+    "department_code": "05",
+    "uacs_code": "05010",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "011",
+    "description": "Philippine Center For Postharvest Development and Mechanization",
+    "department_code": "05",
+    "uacs_code": "05011",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "012",
+    "description": "Philippine Fiber Industry Development Authority",
+    "department_code": "05",
+    "uacs_code": "05012",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "013",
+    "description": "Philippine Council for Agriculture and Fisheries",
+    "department_code": "05",
+    "uacs_code": "05013",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "014",
+    "description": "National Fisheries Research and Development Institute",
+    "department_code": "05",
+    "uacs_code": "05014",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "001",
+    "description": "Office of the Secretary",
+    "department_code": "06",
+    "uacs_code": "06001",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "002",
+    "description": "Government Procurement Policy Board-Technical Support Office",
+    "department_code": "06",
+    "uacs_code": "06002",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "003",
+    "description": "Procurement Service",
+    "department_code": "06",
+    "uacs_code": "06003",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "001",
+    "description": "Office of the Secretary",
+    "department_code": "07",
+    "uacs_code": "07001",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "002",
+    "description": "National Book Development Board",
+    "department_code": "07",
+    "uacs_code": "07002",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "003",
+    "description": "National Council for Children's Television",
+    "department_code": "07",
+    "uacs_code": "07003",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "004",
+    "description": "National Museum of the Philippines",
+    "department_code": "07",
+    "uacs_code": "07004",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "005",
+    "description": "Philippine High School for the Arts",
+    "department_code": "07",
+    "uacs_code": "07005",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "006",
+    "description": "Early Childhood Care and Development Council",
+    "department_code": "07",
+    "uacs_code": "07006",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "007",
+    "description": "National Academy of Sports",
+    "department_code": "07",
+    "uacs_code": "07007",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "008",
+    "description": "Teacher Education Council",
+    "department_code": "07",
+    "uacs_code": "07008",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "001",
+    "description": "Eulogio 'Amang' Rodriguez Institute of Science and Technology",
+    "department_code": "08",
+    "uacs_code": "08001",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "002",
+    "description": "Marikina Polytechnic College",
+    "department_code": "08",
+    "uacs_code": "08002",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "003",
+    "description": "Philippine Normal University",
+    "department_code": "08",
+    "uacs_code": "08003",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "004",
+    "description": "Philippine State College of Aeronautics",
+    "department_code": "08",
+    "uacs_code": "08004",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "005",
+    "description": "Polytechnic University of the Philippines",
+    "department_code": "08",
+    "uacs_code": "08005",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "006",
+    "description": "Rizal Technological University",
+    "department_code": "08",
+    "uacs_code": "08006",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "007",
+    "description": "Technological University of the Philippines",
+    "department_code": "08",
+    "uacs_code": "08007",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "008",
+    "description": "University of the Philippines System",
+    "department_code": "08",
+    "uacs_code": "08008",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "009",
+    "description": "Don Mariano Marcos Memorial State University",
+    "department_code": "08",
+    "uacs_code": "08009",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "010",
+    "description": "Ilocos Sur Polytechnic State College",
+    "department_code": "08",
+    "uacs_code": "08010",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "011",
+    "description": "Mariano Marcos State University",
+    "department_code": "08",
+    "uacs_code": "08011",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "012",
+    "description": "North Luzon Philippines State College",
+    "department_code": "08",
+    "uacs_code": "08012",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "013",
+    "description": "Pangasinan State University",
+    "department_code": "08",
+    "uacs_code": "08013",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "014",
+    "description": "University of Northern Philippines",
+    "department_code": "08",
+    "uacs_code": "08014",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "015",
+    "description": "Abra State Institute of Sciences and Technology",
+    "department_code": "08",
+    "uacs_code": "08015",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "016",
+    "description": "Apayao State College",
+    "department_code": "08",
+    "uacs_code": "08016",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "017",
+    "description": "Benguet State University",
+    "department_code": "08",
+    "uacs_code": "08017",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "018",
+    "description": "Ifugao State University",
+    "department_code": "08",
+    "uacs_code": "08018",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "019",
+    "description": "Kalinga State University",
+    "department_code": "08",
+    "uacs_code": "08019",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "020",
+    "description": "Mountain Province State University",
+    "department_code": "08",
+    "uacs_code": "08020",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "021",
+    "description": "Batanes State College",
+    "department_code": "08",
+    "uacs_code": "08021",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "022",
+    "description": "Cagayan State University",
+    "department_code": "08",
+    "uacs_code": "08022",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "023",
+    "description": "Isabela State University",
+    "department_code": "08",
+    "uacs_code": "08023",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "024",
+    "description": "Nueva Vizcaya State University",
+    "department_code": "08",
+    "uacs_code": "08024",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "025",
+    "description": "Quirino State University",
+    "department_code": "08",
+    "uacs_code": "08025",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "026",
+    "description": "Aurora State College of Technology",
+    "department_code": "08",
+    "uacs_code": "08026",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "027",
+    "description": "Bataan Peninsula State University",
+    "department_code": "08",
+    "uacs_code": "08027",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "028",
+    "description": "Bulacan Agricultural State College",
+    "department_code": "08",
+    "uacs_code": "08028",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "029",
+    "description": "Bulacan State University",
+    "department_code": "08",
+    "uacs_code": "08029",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "030",
+    "description": "Central Luzon State University",
+    "department_code": "08",
+    "uacs_code": "08030",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "031",
+    "description": "Don Honorio Ventura State University",
+    "department_code": "08",
+    "uacs_code": "08031",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "032",
+    "description": "Nueva Ecija University of Science and Technology",
+    "department_code": "08",
+    "uacs_code": "08032",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "033",
+    "description": "Pampanga State Agricultural University",
+    "department_code": "08",
+    "uacs_code": "08033",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "034",
+    "description": "Philippine Merchant Marine Academy",
+    "department_code": "08",
+    "uacs_code": "08034",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "035",
+    "description": "President Ramon Magsaysay State University",
+    "department_code": "08",
+    "uacs_code": "08035",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "036",
+    "description": "Tarlac Agricultural University",
+    "department_code": "08",
+    "uacs_code": "08036",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "037",
+    "description": "Tarlac State University",
+    "department_code": "08",
+    "uacs_code": "08037",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "038",
+    "description": "Batangas State University",
+    "department_code": "08",
+    "uacs_code": "08038",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "039",
+    "description": "Cavite State University",
+    "department_code": "08",
+    "uacs_code": "08039",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "040",
+    "description": "Laguna State Polytechnic University",
+    "department_code": "08",
+    "uacs_code": "08040",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "041",
+    "description": "Southern Luzon State University",
+    "department_code": "08",
+    "uacs_code": "08041",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "042",
+    "description": "University of Rizal System",
+    "department_code": "08",
+    "uacs_code": "08042",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "043",
+    "description": "Marinduque State University",
+    "department_code": "08",
+    "uacs_code": "08043",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "044",
+    "description": "Mindoro State University",
+    "department_code": "08",
+    "uacs_code": "08044",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "045",
+    "description": "Occidental Mindoro State College",
+    "department_code": "08",
+    "uacs_code": "08045",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "046",
+    "description": "Palawan State University",
+    "department_code": "08",
+    "uacs_code": "08046",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "047",
+    "description": "Romblon State University",
+    "department_code": "08",
+    "uacs_code": "08047",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "048",
+    "description": "Western Philippines University",
+    "department_code": "08",
+    "uacs_code": "08048",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "049",
+    "description": "Bicol University",
+    "department_code": "08",
+    "uacs_code": "08049",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "050",
+    "description": "Bicol State College of Applied Sciences and Technology",
+    "department_code": "08",
+    "uacs_code": "08050",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "051",
+    "description": "Camarines Norte State College",
+    "department_code": "08",
+    "uacs_code": "08051",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "052",
+    "description": "Camarines Sur Polytechnic Colleges",
+    "department_code": "08",
+    "uacs_code": "08052",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "053",
+    "description": "Catanduanes State University",
+    "department_code": "08",
+    "uacs_code": "08053",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "054",
+    "description": "Central Bicol State University of Agriculture",
+    "department_code": "08",
+    "uacs_code": "08054",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "055",
+    "description": "Dr. Emilio B. Espinosa, Sr. Memorial State College of Agriculture and Technology",
+    "department_code": "08",
+    "uacs_code": "08055",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "056",
+    "description": "Partido State University",
+    "department_code": "08",
+    "uacs_code": "08056",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "057",
+    "description": "Sorsogon State University",
+    "department_code": "08",
+    "uacs_code": "08057",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "058",
+    "description": "Aklan State University",
+    "department_code": "08",
+    "uacs_code": "08058",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "059",
+    "description": "Capiz State University",
+    "department_code": "08",
+    "uacs_code": "08059",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "060",
+    "description": "Carlos Hilado Memorial State University",
+    "department_code": "08",
+    "uacs_code": "08060",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "061",
+    "description": "Guimaras State University",
+    "department_code": "08",
+    "uacs_code": "08061",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "062",
+    "description": "Iloilo State University of Fisheries Science and Technology",
+    "department_code": "08",
+    "uacs_code": "08062",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "063",
+    "description": "Central Philippines State University",
+    "department_code": "08",
+    "uacs_code": "08063",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "064",
+    "description": "Northern Iloilo State University",
+    "department_code": "08",
+    "uacs_code": "08064",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "065",
+    "description": "State University of Northern Negros",
+    "department_code": "08",
+    "uacs_code": "08065",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "066",
+    "description": "University of Antique",
+    "department_code": "08",
+    "uacs_code": "08066",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "067",
+    "description": "Iloilo Science and Technology University",
+    "department_code": "08",
+    "uacs_code": "08067",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "068",
+    "description": "West Visayas State University",
+    "department_code": "08",
+    "uacs_code": "08068",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "069",
+    "description": "Bohol Island State University",
+    "department_code": "08",
+    "uacs_code": "08069",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "070",
+    "description": "Cebu Normal University",
+    "department_code": "08",
+    "uacs_code": "08070",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "071",
+    "description": "Cebu Technological University",
+    "department_code": "08",
+    "uacs_code": "08071",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "072",
+    "description": "Negros Oriental State University",
+    "department_code": "08",
+    "uacs_code": "08072",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "073",
+    "description": "Siquijor State College",
+    "department_code": "08",
+    "uacs_code": "08073",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "074",
+    "description": "Eastern Samar State University",
+    "department_code": "08",
+    "uacs_code": "08074",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "075",
+    "description": "Eastern Visayas State University",
+    "department_code": "08",
+    "uacs_code": "08075",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "076",
+    "description": "Leyte Normal University",
+    "department_code": "08",
+    "uacs_code": "08076",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "077",
+    "description": "Biliran Province State University",
+    "department_code": "08",
+    "uacs_code": "08077",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "078",
+    "description": "Northwest Samar State University",
+    "department_code": "08",
+    "uacs_code": "08078",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "079",
+    "description": "Palompon Institute of Technology",
+    "department_code": "08",
+    "uacs_code": "08079",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "080",
+    "description": "Samar State University",
+    "department_code": "08",
+    "uacs_code": "08080",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "081",
+    "description": "Southern Leyte State University",
+    "department_code": "08",
+    "uacs_code": "08081",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "082",
+    "description": "University of Eastern Philippines",
+    "department_code": "08",
+    "uacs_code": "08082",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "083",
+    "description": "Visayas State University",
+    "department_code": "08",
+    "uacs_code": "08083",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "084",
+    "description": "J. H. Cerilles State College",
+    "department_code": "08",
+    "uacs_code": "08084",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "085",
+    "description": "Jose Rizal Memorial State University",
+    "department_code": "08",
+    "uacs_code": "08085",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "086",
+    "description": "Western Mindanao State University",
+    "department_code": "08",
+    "uacs_code": "08086",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "087",
+    "description": "Zamboanga Peninsula Polytechnic State University",
+    "department_code": "08",
+    "uacs_code": "08087",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "088",
+    "description": "Zamboanga State College of Marine Sciences and Technology",
+    "department_code": "08",
+    "uacs_code": "08088",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "089",
+    "description": "Bukidnon State University",
+    "department_code": "08",
+    "uacs_code": "08089",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "090",
+    "description": "Camiguin Polytechnic State College",
+    "department_code": "08",
+    "uacs_code": "08090",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "091",
+    "description": "Central Mindanao University",
+    "department_code": "08",
+    "uacs_code": "08091",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "092",
+    "description": "University of Science and Technology of Southern Philippines - Cagayan de Oro Campus",
+    "department_code": "08",
+    "uacs_code": "08092",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "093",
+    "description": "MSU-Iligan Institute of Technology",
+    "department_code": "08",
+    "uacs_code": "08093",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "094",
+    "description": "University of Science and Technology of Southern Philippines - Claveria Campus",
+    "department_code": "08",
+    "uacs_code": "08094",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "095",
+    "description": "Northwestern Mindanao State College of Science and Technology",
+    "department_code": "08",
+    "uacs_code": "08095",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "096",
+    "description": "Davao del Norte State College",
+    "department_code": "08",
+    "uacs_code": "08096",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "097",
+    "description": "Davao Oriental State University",
+    "department_code": "08",
+    "uacs_code": "08097",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "098",
+    "description": "Southern Philippines Agri-Business and Marine and Aquatic School of Technology",
+    "department_code": "08",
+    "uacs_code": "08098",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "099",
+    "description": "University of Southeastern Philippines",
+    "department_code": "08",
+    "uacs_code": "08099",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "100",
+    "description": "Cotabato State University",
+    "department_code": "08",
+    "uacs_code": "08100",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "101",
+    "description": "Cotabato Foundation College of Science and Technology",
+    "department_code": "08",
+    "uacs_code": "08101",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "102",
+    "description": "Sultan Kudarat State University",
+    "department_code": "08",
+    "uacs_code": "08102",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "103",
+    "description": "University of Southern Mindanao",
+    "department_code": "08",
+    "uacs_code": "08103",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "104",
+    "description": "Agusan del Sur State College of Agriculture and Technology",
+    "department_code": "08",
+    "uacs_code": "08104",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "105",
+    "description": "Caraga State University",
+    "department_code": "08",
+    "uacs_code": "08105",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "106",
+    "description": "North Eastern Mindanao State University",
+    "department_code": "08",
+    "uacs_code": "08106",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "107",
+    "description": "Surigao del Norte State University",
+    "department_code": "08",
+    "uacs_code": "08107",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "108",
+    "description": "Adiong Memorial State College",
+    "department_code": "08",
+    "uacs_code": "08108",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "109",
+    "description": "Basilan State College",
+    "department_code": "08",
+    "uacs_code": "08109",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "110",
+    "description": "Mindanao State University",
+    "department_code": "08",
+    "uacs_code": "08110",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "111",
+    "description": "MSU-Tawi-Tawi College of Technology and Oceanography",
+    "department_code": "08",
+    "uacs_code": "08111",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "112",
+    "description": "Sulu State College",
+    "department_code": "08",
+    "uacs_code": "08112",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "113",
+    "description": "Tawi-Tawi Regional Agricultural College",
+    "department_code": "08",
+    "uacs_code": "08113",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "114",
+    "description": "Davao de Oro State College",
+    "department_code": "08",
+    "uacs_code": "08114",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "115",
+    "description": "Davao del Sur State College",
+    "department_code": "08",
+    "uacs_code": "08115",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "116",
+    "description": "Northern Bukidnon State College",
+    "department_code": "08",
+    "uacs_code": "08116",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "117",
+    "description": "South Cotabato State College",
+    "department_code": "08",
+    "uacs_code": "08117",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "118",
+    "description": "Ilocos Sur Polytechnic State College",
+    "department_code": "08",
+    "uacs_code": "08118",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "119",
+    "description": "Philippine Energy Research and Policy Institute",
+    "department_code": "08",
+    "uacs_code": "08119",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "120",
+    "description": "University of Science and Technology of Southern Philippines",
+    "department_code": "08",
+    "uacs_code": "08120",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "001",
+    "description": "Office of the Secretary",
+    "department_code": "09",
+    "uacs_code": "09001",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "001",
+    "description": "Office of the Secretary",
+    "department_code": "10",
+    "uacs_code": "10001",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "002",
+    "description": "Environmental Management Bureau",
+    "department_code": "10",
+    "uacs_code": "10002",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "003",
+    "description": "Mines and Geosciences Bureau",
+    "department_code": "10",
+    "uacs_code": "10003",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "004",
+    "description": "National Mapping and Resource Information Authority",
+    "department_code": "10",
+    "uacs_code": "10004",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "005",
+    "description": "National Water Resources Board",
+    "department_code": "10",
+    "uacs_code": "10005",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "006",
+    "description": "Palawan Council for Sustainable Development Staff",
+    "department_code": "10",
+    "uacs_code": "10006",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "001",
+    "description": "Office of the Secretary",
+    "department_code": "11",
+    "uacs_code": "11001",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "002",
+    "description": "Bureau of Customs",
+    "department_code": "11",
+    "uacs_code": "11002",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "003",
+    "description": "Bureau of Internal Revenue",
+    "department_code": "11",
+    "uacs_code": "11003",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "004",
+    "description": "Bureau of Local Government Finance",
+    "department_code": "11",
+    "uacs_code": "11004",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "005",
+    "description": "Bureau of the Treasury",
+    "department_code": "11",
+    "uacs_code": "11005",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "006",
+    "description": "Central Board of Assessment Appeals",
+    "department_code": "11",
+    "uacs_code": "11006",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "007",
+    "description": "Cooperative Development Authority",
+    "department_code": "11",
+    "uacs_code": "11007",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "008",
+    "description": "Insurance Commission",
+    "department_code": "11",
+    "uacs_code": "11008",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "009",
+    "description": "National Tax Research Center",
+    "department_code": "11",
+    "uacs_code": "11009",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "010",
+    "description": "Privatization and Management Office",
+    "department_code": "11",
+    "uacs_code": "11010",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "011",
+    "description": "Securities and Exchange Commission",
+    "department_code": "11",
+    "uacs_code": "11011",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "001",
+    "description": "Office of the Secretary",
+    "department_code": "12",
+    "uacs_code": "12001",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "002",
+    "description": "Foreign Service Institute",
+    "department_code": "12",
+    "uacs_code": "12002",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "003",
+    "description": "Technical Cooperation Council of the Philippines",
+    "department_code": "12",
+    "uacs_code": "12003",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "004",
+    "description": "UNESCO National Commission of the Philippines",
+    "department_code": "12",
+    "uacs_code": "12004",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "005",
+    "description": "Presidential Commission on Visiting Forces",
+    "department_code": "12",
+    "uacs_code": "12005",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "001",
+    "description": "Office of the Secretary",
+    "department_code": "13",
+    "uacs_code": "13001",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "002",
+    "description": "Commission on Population",
+    "department_code": "13",
+    "uacs_code": "13002",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "003",
+    "description": "National Nutrition Council",
+    "department_code": "13",
+    "uacs_code": "13003",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "004",
+    "description": "Philippine National AIDS Council",
+    "department_code": "13",
+    "uacs_code": "13004",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "001",
+    "description": "Office of the Secretary",
+    "department_code": "14",
+    "uacs_code": "14001",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "002",
+    "description": "Bureau of Fire Protection",
+    "department_code": "14",
+    "uacs_code": "14002",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "003",
+    "description": "Bureau of Jail Management and Penology",
+    "department_code": "14",
+    "uacs_code": "14003",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "004",
+    "description": "Local Government Academy",
+    "department_code": "14",
+    "uacs_code": "14004",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "005",
+    "description": "National Police Commission",
+    "department_code": "14",
+    "uacs_code": "14005",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "006",
+    "description": "Philippine National Police",
+    "department_code": "14",
+    "uacs_code": "14006",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "007",
+    "description": "Philippine Public Safety College",
+    "department_code": "14",
+    "uacs_code": "14007",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "008",
+    "description": "National Commission on Muslim Filipinos (Office on Muslim Affairs)",
+    "department_code": "14",
+    "uacs_code": "14008",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "009",
+    "description": "National Youth Commission",
+    "department_code": "14",
+    "uacs_code": "14009",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "010",
+    "description": "Philippine Commission on Women (National Commission on the Role of Filipino Women)",
+    "department_code": "14",
+    "uacs_code": "14010",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "011",
+    "description": "Early Childhood Care and Development Council",
+    "department_code": "14",
+    "uacs_code": "14011",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "001",
+    "description": "Office of the Secretary",
+    "department_code": "15",
+    "uacs_code": "15001",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "002",
+    "description": "Bureau of Corrections",
+    "department_code": "15",
+    "uacs_code": "15002",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "003",
+    "description": "Bureau of Immigration",
+    "department_code": "15",
+    "uacs_code": "15003",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "004",
+    "description": "Land Registration Authority",
+    "department_code": "15",
+    "uacs_code": "15004",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "005",
+    "description": "National Bureau of Investigation",
+    "department_code": "15",
+    "uacs_code": "15005",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "006",
+    "description": "Office of the Government Corporate Counsel",
+    "department_code": "15",
+    "uacs_code": "15006",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "007",
+    "description": "Office of the Solicitor General",
+    "department_code": "15",
+    "uacs_code": "15007",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "008",
+    "description": "Parole and Probation Administration",
+    "department_code": "15",
+    "uacs_code": "15008",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "009",
+    "description": "Presidential Commission on Good Government",
+    "department_code": "15",
+    "uacs_code": "15009",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "010",
+    "description": "Public Attorney's Office",
+    "department_code": "15",
+    "uacs_code": "15010",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "011",
+    "description": "Office for Alternative Dispute Resolution",
+    "department_code": "15",
+    "uacs_code": "15011",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "001",
+    "description": "Office of the Secretary",
+    "department_code": "16",
+    "uacs_code": "16001",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "002",
+    "description": "Institute for Labor Studies",
+    "department_code": "16",
+    "uacs_code": "16002",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "003",
+    "description": "National Conciliation and Mediation Board",
+    "department_code": "16",
+    "uacs_code": "16003",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "004",
+    "description": "National Labor Relations Commission",
+    "department_code": "16",
+    "uacs_code": "16004",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "005",
+    "description": "National Maritime Polytechnic",
+    "department_code": "16",
+    "uacs_code": "16005",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "006",
+    "description": "National Wages and Productivity Commission",
+    "department_code": "16",
+    "uacs_code": "16006",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "007",
+    "description": "Philippine Overseas Employment Administration",
+    "department_code": "16",
+    "uacs_code": "16007",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "008",
+    "description": "Professional Regulation Commission",
+    "department_code": "16",
+    "uacs_code": "16008",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "009",
+    "description": "Technical Education and Skills Development Authority",
+    "department_code": "16",
+    "uacs_code": "16009",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "010",
+    "description": "Overseas Workers Welfare Administration",
+    "department_code": "16",
+    "uacs_code": "16010",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "001",
+    "description": "Office of the Secretary - Proper",
+    "department_code": "17",
+    "uacs_code": "17001",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "002",
+    "description": "Government Arsenal",
+    "department_code": "17",
+    "uacs_code": "17002",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "003",
+    "description": "National Defense College of the Philippines",
+    "department_code": "17",
+    "uacs_code": "17003",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "004",
+    "description": "Office of Civil Defense",
+    "department_code": "17",
+    "uacs_code": "17004",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "005",
+    "description": "Philippine Veterans Affairs Office (PVAO) - Proper",
+    "department_code": "17",
+    "uacs_code": "17005",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "006",
+    "description": "Veterans Memorial Medical Center",
+    "department_code": "17",
+    "uacs_code": "17006",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "007",
+    "description": "Philippine Army ( Land Forces )",
+    "department_code": "17",
+    "uacs_code": "17007",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "008",
+    "description": "Philippine Air Force ( Air Forces )",
+    "department_code": "17",
+    "uacs_code": "17008",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "009",
+    "description": "Philippine Navy ( Naval Forces )",
+    "department_code": "17",
+    "uacs_code": "17009",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "010",
+    "description": "General Headquarters, AFP and AFP-Wide Service Support Units (AFPWSSUs)",
+    "department_code": "17",
+    "uacs_code": "17010",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "001",
+    "description": "Office of the Secretary",
+    "department_code": "18",
+    "uacs_code": "18001",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "001",
+    "description": "Office of the Secretary",
+    "department_code": "19",
+    "uacs_code": "19001",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "002",
+    "description": "Advanced Science and Technology Institute",
+    "department_code": "19",
+    "uacs_code": "19002",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "003",
+    "description": "Food and Nutrition Research Institute",
+    "department_code": "19",
+    "uacs_code": "19003",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "004",
+    "description": "Forest Products Research and Development Institute",
+    "department_code": "19",
+    "uacs_code": "19004",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "005",
+    "description": "Industrial Technology Development Institute",
+    "department_code": "19",
+    "uacs_code": "19005",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "006",
+    "description": "Information and Communications Technology Office",
+    "department_code": "19",
+    "uacs_code": "19006",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "007",
+    "description": "Metals Industry Research and Development Center",
+    "department_code": "19",
+    "uacs_code": "19007",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "008",
+    "description": "National Academy of Science and Technology",
+    "department_code": "19",
+    "uacs_code": "19008",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "009",
+    "description": "National Research Council of the Philippines",
+    "department_code": "19",
+    "uacs_code": "19009",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "010",
+    "description": "Philippine Atmospheric, Geophysical and Astronomical Services Administration",
+    "department_code": "19",
+    "uacs_code": "19010",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "011",
+    "description": "Philippine Council for Agriculture, Aquatic and Natural Resources Research and Development",
+    "department_code": "19",
+    "uacs_code": "19011",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "012",
+    "description": "Philippine Council for Health Research and Development",
+    "department_code": "19",
+    "uacs_code": "19012",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "013",
+    "description": "Philippine Council for Industry, Energy and Emerging Technology Research and Development (PCIEERD)",
+    "department_code": "19",
+    "uacs_code": "19013",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "014",
+    "description": "Philippine Institute of Volcanology and Seismology",
+    "department_code": "19",
+    "uacs_code": "19014",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "015",
+    "description": "Philippine Nuclear Research Institute",
+    "department_code": "19",
+    "uacs_code": "19015",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "016",
+    "description": "Philippine Science High School System",
+    "department_code": "19",
+    "uacs_code": "19016",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "017",
+    "description": "Philippine Textile Research Institute",
+    "department_code": "19",
+    "uacs_code": "19017",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "018",
+    "description": "Science Education Institute",
+    "department_code": "19",
+    "uacs_code": "19018",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "019",
+    "description": "Science and Technology Information Institute",
+    "department_code": "19",
+    "uacs_code": "19019",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "020",
+    "description": "Technology Application and Promotion Institute",
+    "department_code": "19",
+    "uacs_code": "19020",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "001",
+    "description": "Office of the Secretary",
+    "department_code": "20",
+    "uacs_code": "20001",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "002",
+    "description": "Council for the Welfare of Children",
+    "department_code": "20",
+    "uacs_code": "20002",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "003",
+    "description": "Inter-Country Adoption Board",
+    "department_code": "20",
+    "uacs_code": "20003",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "004",
+    "description": "National Council on Disability Affairs",
+    "department_code": "20",
+    "uacs_code": "20004",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "005",
+    "description": "National Youth Commission",
+    "department_code": "20",
+    "uacs_code": "20005",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "006",
+    "description": "Juvenile Justice and Welfare Council",
+    "department_code": "20",
+    "uacs_code": "20006",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "007",
+    "description": "National Anti-Poverty Commission",
+    "department_code": "20",
+    "uacs_code": "20007",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "008",
+    "description": "National Commission on Indigenous Peoples",
+    "department_code": "20",
+    "uacs_code": "20008",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "009",
+    "description": "Presidential Commission for the Urban Poor",
+    "department_code": "20",
+    "uacs_code": "20009",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "010",
+    "description": "National Authority for Child Care",
+    "department_code": "20",
+    "uacs_code": "20010",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "001",
+    "description": "Office of the Secretary",
+    "department_code": "21",
+    "uacs_code": "21001",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "002",
+    "description": "Intramuros Administration",
+    "department_code": "21",
+    "uacs_code": "21002",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "003",
+    "description": "National Parks Development Committee",
+    "department_code": "21",
+    "uacs_code": "21003",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "004",
+    "description": "Philippine Commission on Sports Scuba Diving",
+    "department_code": "21",
+    "uacs_code": "21004",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "001",
+    "description": "Office of the Secretary",
+    "department_code": "22",
+    "uacs_code": "22001",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "002",
+    "description": "Board of Investments",
+    "department_code": "22",
+    "uacs_code": "22002",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "003",
+    "description": "Construction Industry Authority of the Philippines",
+    "department_code": "22",
+    "uacs_code": "22003",
+    "tag": "IU",
+    "status": "Inactive"
+  },
+  {
+    "code": "004",
+    "description": "Construction Manpower Development Foundation",
+    "department_code": "22",
+    "uacs_code": "22004",
+    "tag": "IU",
+    "status": "Inactive"
+  },
+  {
+    "code": "005",
+    "description": "Philippine Trade Training Center",
+    "department_code": "22",
+    "uacs_code": "22005",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "006",
+    "description": "Design Center of the Philippines",
+    "department_code": "22",
+    "uacs_code": "22006",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "007",
+    "description": "Construction Industry Authority of the Philippines (CIAP)",
+    "department_code": "22",
+    "uacs_code": "22007",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "008",
+    "description": "Cooperative Development Authority",
+    "department_code": "22",
+    "uacs_code": "22008",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "009",
+    "description": "Technical Education and Skills Development Authority",
+    "department_code": "22",
+    "uacs_code": "22009",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "001",
+    "description": "Office of the Secretary",
+    "department_code": "23",
+    "uacs_code": "23001",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "002",
+    "description": "Civil Aeronautics Board",
+    "department_code": "23",
+    "uacs_code": "23002",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "003",
+    "description": "Maritime Industry Authority",
+    "department_code": "23",
+    "uacs_code": "23003",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "004",
+    "description": "Office of Transportation Cooperatives",
+    "department_code": "23",
+    "uacs_code": "23004",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "005",
+    "description": "Office for Transportation Security",
+    "department_code": "23",
+    "uacs_code": "23005",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "006",
+    "description": "Philippine Coast Guard",
+    "department_code": "23",
+    "uacs_code": "23006",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "007",
+    "description": "Toll Regulatory Board",
+    "department_code": "23",
+    "uacs_code": "23007",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "001",
+    "description": "Office of the Secretary",
+    "department_code": "24",
+    "uacs_code": "24001",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "002",
+    "description": "National Statistical Coordination Board",
+    "department_code": "24",
+    "uacs_code": "24002",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "003",
+    "description": "National Statistics Office",
+    "department_code": "24",
+    "uacs_code": "24003",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "004",
+    "description": "Philippine National Volunteer Service Coordinating Agency",
+    "department_code": "24",
+    "uacs_code": "24004",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "005",
+    "description": "Public-Private Partnership Center of the Philippines",
+    "department_code": "24",
+    "uacs_code": "24005",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "006",
+    "description": "Philippine Statistical Research and Training Institute (formerly Statistical Research and Training Center)",
+    "department_code": "24",
+    "uacs_code": "24006",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "007",
+    "description": "Tariff Commission",
+    "department_code": "24",
+    "uacs_code": "24007",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "008",
+    "description": "Philippine Statistics Authority",
+    "department_code": "24",
+    "uacs_code": "24008",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "009",
+    "description": "Commission on Population and Development",
+    "department_code": "24",
+    "uacs_code": "24009",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "001",
+    "description": "Presidential Communications Office (Proper)",
+    "department_code": "25",
+    "uacs_code": "25001",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "002",
+    "description": "Presidential Broadcast Service-Bureau of Broadcast Services",
+    "department_code": "25",
+    "uacs_code": "25002",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "003",
+    "description": "Bureau of Communications Services",
+    "department_code": "25",
+    "uacs_code": "25003",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "004",
+    "description": "National Printing Office",
+    "department_code": "25",
+    "uacs_code": "25004",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "005",
+    "description": "News and Information Bureau",
+    "department_code": "25",
+    "uacs_code": "25005",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "006",
+    "description": "Philippine Information Agency",
+    "department_code": "25",
+    "uacs_code": "25006",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "007",
+    "description": "Presidential Broadcast Staff (RTVM)",
+    "department_code": "25",
+    "uacs_code": "25007",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "001",
+    "description": "Anti-Money Laundering Council",
+    "department_code": "26",
+    "uacs_code": "26001",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "002",
+    "description": "Climate Change Commission",
+    "department_code": "26",
+    "uacs_code": "26002",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "003",
+    "description": "Commission on Filipinos Overseas",
+    "department_code": "26",
+    "uacs_code": "26003",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "004",
+    "description": "Commission on Higher Education",
+    "department_code": "26",
+    "uacs_code": "26004",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "005",
+    "description": "Commission on the Filipino Language",
+    "department_code": "26",
+    "uacs_code": "26005",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "006",
+    "description": "Dangerous Drugs Board",
+    "department_code": "26",
+    "uacs_code": "26006",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "007",
+    "description": "Early Childhood Care and Development Council",
+    "department_code": "26",
+    "uacs_code": "26007",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "008",
+    "description": "Energy Regulatory Commission",
+    "department_code": "26",
+    "uacs_code": "26008",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "009",
+    "description": "Film Development Council of the Philippines",
+    "department_code": "26",
+    "uacs_code": "26009",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "010",
+    "description": "Games and Amusements Board",
+    "department_code": "26",
+    "uacs_code": "26010",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "011",
+    "description": "Governance Commission for Government-Owned or Controlled Corporations",
+    "department_code": "26",
+    "uacs_code": "26011",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "012",
+    "description": "Housing and Land Use Regulatory Board",
+    "department_code": "26",
+    "uacs_code": "26012",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "013",
+    "description": "Housing and Urban Development Coordinating Council",
+    "department_code": "26",
+    "uacs_code": "26013",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "014",
+    "description": "Mindanao Development Authority",
+    "department_code": "26",
+    "uacs_code": "26014",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "015",
+    "description": "Movie and Television Review and Classification Board",
+    "department_code": "26",
+    "uacs_code": "26015",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "016",
+    "description": "National Anti-Poverty Commission",
+    "department_code": "26",
+    "uacs_code": "26016",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "017",
+    "description": "National Commission for Culture and the Arts-Proper",
+    "department_code": "26",
+    "uacs_code": "26017",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "018",
+    "description": "National Historical Commission of the Philippines",
+    "department_code": "26",
+    "uacs_code": "26018",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "019",
+    "description": "National Library of the Philippines",
+    "department_code": "26",
+    "uacs_code": "26019",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "020",
+    "description": "National Archives of the Philippines",
+    "department_code": "26",
+    "uacs_code": "26020",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "021",
+    "description": "National Commission on Indigenous Peoples",
+    "department_code": "26",
+    "uacs_code": "26021",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "022",
+    "description": "National Commission on Muslim Filipinos (Office on Muslim Affairs)",
+    "department_code": "26",
+    "uacs_code": "26022",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "023",
+    "description": "National Intelligence Coordinating Agency",
+    "department_code": "26",
+    "uacs_code": "26023",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "024",
+    "description": "National Security Council",
+    "department_code": "26",
+    "uacs_code": "26024",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "025",
+    "description": "National Telecommunications Commission",
+    "department_code": "26",
+    "uacs_code": "26025",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "026",
+    "description": "Office of the Presidential Adviser on Peace, Reconciliation and Unity",
+    "department_code": "26",
+    "uacs_code": "26026",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "027",
+    "description": "Optical Media Board",
+    "department_code": "26",
+    "uacs_code": "26027",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "028",
+    "description": "Pasig River Rehabilitation Commission",
+    "department_code": "26",
+    "uacs_code": "26028",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "029",
+    "description": "Philippine Commission on Women (National Commission on the Role of Filipino Women)",
+    "department_code": "26",
+    "uacs_code": "26029",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "030",
+    "description": "Philippine Drug Enforcement Agency",
+    "department_code": "26",
+    "uacs_code": "26030",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "031",
+    "description": "Philippine Racing Commission",
+    "department_code": "26",
+    "uacs_code": "26031",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "032",
+    "description": "Philippine Sports Commission",
+    "department_code": "26",
+    "uacs_code": "26032",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "033",
+    "description": "Presidential Commission for the Urban Poor",
+    "department_code": "26",
+    "uacs_code": "26033",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "034",
+    "description": "Presidential Communications Development and Strategic Planning Office",
+    "department_code": "26",
+    "uacs_code": "26034",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "035",
+    "description": "Presidential Legislative Liaison Office",
+    "department_code": "26",
+    "uacs_code": "26035",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "036",
+    "description": "Presidential Management Staff",
+    "department_code": "26",
+    "uacs_code": "26036",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "037",
+    "description": "Fertilizer and Pesticide Authority",
+    "department_code": "26",
+    "uacs_code": "26037",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "038",
+    "description": "Philippine Competition Commission",
+    "department_code": "26",
+    "uacs_code": "26038",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "039",
+    "description": "National Privacy Commission",
+    "department_code": "26",
+    "uacs_code": "26039",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "040",
+    "description": "National Youth Commission",
+    "department_code": "26",
+    "uacs_code": "26040",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "041",
+    "description": "Technical Education and Skills Development Authority",
+    "department_code": "26",
+    "uacs_code": "26041",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "042",
+    "description": "Cooperative Development Authority",
+    "department_code": "26",
+    "uacs_code": "26042",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "043",
+    "description": "Anti-Red Tape Authority",
+    "department_code": "26",
+    "uacs_code": "26043",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "044",
+    "description": "Philippine Space Agency",
+    "department_code": "26",
+    "uacs_code": "26044",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "045",
+    "description": "National Commission of Senior Citizens",
+    "department_code": "26",
+    "uacs_code": "26045",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "046",
+    "description": "Philippine Information Agency",
+    "department_code": "26",
+    "uacs_code": "26046",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "047",
+    "description": "Marawi Compensation Board",
+    "department_code": "26",
+    "uacs_code": "26047",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "048",
+    "description": "Metropolitan Davao Development Authority",
+    "department_code": "26",
+    "uacs_code": "26048",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "049",
+    "description": "Metropolitan Baguio City, La Trinidad, Itogon, Sablan, Tuba, and Tublay Development Authority",
+    "department_code": "26",
+    "uacs_code": "26049",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "050",
+    "description": "National Amnesty Commission",
+    "department_code": "26",
+    "uacs_code": "26050",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "001",
+    "description": "Autonomous Regional Government in Muslim Mindanao",
+    "department_code": "27",
+    "uacs_code": "27001",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "001",
+    "description": "Legislative-Executive Development Advisory Council",
+    "department_code": "28",
+    "uacs_code": "28001",
+    "tag": "IU",
+    "status": "Inactive"
+  },
+  {
+    "code": "001",
+    "description": "Supreme Court of the Philippines and the Lower Courts",
+    "department_code": "29",
+    "uacs_code": "29001",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "002",
+    "description": "Presidential Electoral Tribunal",
+    "department_code": "29",
+    "uacs_code": "29002",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "003",
+    "description": "Sandiganbayan",
+    "department_code": "29",
+    "uacs_code": "29003",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "004",
+    "description": "Court of Appeals",
+    "department_code": "29",
+    "uacs_code": "29004",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "005",
+    "description": "Court of Tax Appeals",
+    "department_code": "29",
+    "uacs_code": "29005",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "001",
+    "description": "Civil Service Commission",
+    "department_code": "30",
+    "uacs_code": "30001",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "002",
+    "description": "Career Executive Service Board",
+    "department_code": "30",
+    "uacs_code": "30002",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "000",
+    "description": "Commission on Audit (COA)",
+    "department_code": "31",
+    "uacs_code": "31000",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "000",
+    "description": "Commission on Elections (COMELEC)",
+    "department_code": "32",
+    "uacs_code": "32000",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "000",
+    "description": "Office of the Ombudsman",
+    "department_code": "33",
+    "uacs_code": "33000",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "000",
+    "description": "Commission on Human Rights (CHR)",
+    "department_code": "34",
+    "uacs_code": "34000",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "001",
+    "description": "Commission on Human Rights (CHR)",
+    "department_code": "34",
+    "uacs_code": "34001",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "002",
+    "description": "Human Rights Victims' Claims Board",
+    "department_code": "34",
+    "uacs_code": "34002",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "003",
+    "description": "Human Rights Violations Victims' Memorial Commission",
+    "department_code": "34",
+    "uacs_code": "34003",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "001",
+    "description": "Land Bank of the Philippines",
+    "department_code": "35",
+    "uacs_code": "35001",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "002",
+    "description": "Human Settlements Development Corporation",
+    "department_code": "35",
+    "uacs_code": "35002",
+    "tag": "NON-IU",
+    "status": "Inactive"
+  },
+  {
+    "code": "003",
+    "description": "National Dairy Authority",
+    "department_code": "35",
+    "uacs_code": "35003",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "004",
+    "description": "National Food Authority",
+    "department_code": "35",
+    "uacs_code": "35004",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "005",
+    "description": "National Irrigation Administration",
+    "department_code": "35",
+    "uacs_code": "35005",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "006",
+    "description": "National Livelihood Development Corporation",
+    "department_code": "35",
+    "uacs_code": "35006",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "007",
+    "description": "National Tobacco Administration",
+    "department_code": "35",
+    "uacs_code": "35007",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "008",
+    "description": "Philippine Coconut Authority",
+    "department_code": "35",
+    "uacs_code": "35008",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "009",
+    "description": "Philippine Crop Insurance Corporation",
+    "department_code": "35",
+    "uacs_code": "35009",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "010",
+    "description": "Philippine Fisheries Development Authority",
+    "department_code": "35",
+    "uacs_code": "35010",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "011",
+    "description": "Philippine Rice Research Institute",
+    "department_code": "35",
+    "uacs_code": "35011",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "012",
+    "description": "Philippine Sugar Corporation",
+    "department_code": "35",
+    "uacs_code": "35012",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "013",
+    "description": "Quedan and Rural Credit Guarantee Corporation",
+    "department_code": "35",
+    "uacs_code": "35013",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "014",
+    "description": "Sugar Regulatory Administration",
+    "department_code": "35",
+    "uacs_code": "35014",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "015",
+    "description": "National Electrification Administration",
+    "department_code": "35",
+    "uacs_code": "35015",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "016",
+    "description": "National Power Corporation",
+    "department_code": "35",
+    "uacs_code": "35016",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "017",
+    "description": "National Transmission Corporation",
+    "department_code": "35",
+    "uacs_code": "35017",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "018",
+    "description": "Philippine National Oil Company",
+    "department_code": "35",
+    "uacs_code": "35018",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "019",
+    "description": "Power Sector Assets and Liabilities Management Corporation",
+    "department_code": "35",
+    "uacs_code": "35019",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "020",
+    "description": "Laguna Lake Development Authority",
+    "department_code": "35",
+    "uacs_code": "35020",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "021",
+    "description": "Natural Resources Development Corporation",
+    "department_code": "35",
+    "uacs_code": "35021",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "022",
+    "description": "Philippine Reclamation Authority",
+    "department_code": "35",
+    "uacs_code": "35022",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "023",
+    "description": "Philippine Deposit Insurance Corporation",
+    "department_code": "35",
+    "uacs_code": "35023",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "024",
+    "description": "Philippine Export-Import Credit Agency (formerly Trade and Investment Development Corporation of the Philippines)",
+    "department_code": "35",
+    "uacs_code": "35024",
+    "tag": "NON-IU",
+    "status": "Inactive"
+  },
+  {
+    "code": "025",
+    "description": "Lung Center of the Philippines",
+    "department_code": "35",
+    "uacs_code": "35025",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "026",
+    "description": "National Kidney and Transplant Institute",
+    "department_code": "35",
+    "uacs_code": "35026",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "027",
+    "description": "Philippine Children’s Medical Center",
+    "department_code": "35",
+    "uacs_code": "35027",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "028",
+    "description": "Philippine Health Insurance Corporation",
+    "department_code": "35",
+    "uacs_code": "35028",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "029",
+    "description": "Philippine Heart Center",
+    "department_code": "35",
+    "uacs_code": "35029",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "030",
+    "description": "Philippine Institute of Traditional and Alternative Health Care",
+    "department_code": "35",
+    "uacs_code": "35030",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "031",
+    "description": "Employees' Compensation Commission",
+    "department_code": "35",
+    "uacs_code": "35031",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "032",
+    "description": "Occupational Safety and Health Center",
+    "department_code": "35",
+    "uacs_code": "35032",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "033",
+    "description": "PHIVIDEC Industrial Authority",
+    "department_code": "35",
+    "uacs_code": "35033",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "034",
+    "description": "Local Water Utilities Administration",
+    "department_code": "35",
+    "uacs_code": "35034",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "035",
+    "description": "Metropolitan Waterworks and Sewerage System - Regulatory Office",
+    "department_code": "35",
+    "uacs_code": "35035",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "036",
+    "description": "Metropolitan Waterworks and Sewerage System - Corporate Office",
+    "department_code": "35",
+    "uacs_code": "35036",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "037",
+    "description": "Technology Resource Center",
+    "department_code": "35",
+    "uacs_code": "35037",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "038",
+    "description": "Duty Free Philippines Corporation",
+    "department_code": "35",
+    "uacs_code": "35038",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "039",
+    "description": "Nayong Pilipino Foundation",
+    "department_code": "35",
+    "uacs_code": "35039",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "040",
+    "description": "Tourism Infrastructure and Enterprise Zone Authority",
+    "department_code": "35",
+    "uacs_code": "35040",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "041",
+    "description": "Tourism Promotions Board",
+    "department_code": "35",
+    "uacs_code": "35041",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "042",
+    "description": "Aurora Pacific Economic Zone and Freeport Authority",
+    "department_code": "35",
+    "uacs_code": "35042",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "043",
+    "description": "Center for International Trade Expositions and Missions",
+    "department_code": "35",
+    "uacs_code": "35043",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "044",
+    "description": "Cottage Industry Technology Center",
+    "department_code": "35",
+    "uacs_code": "35044",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "045",
+    "description": "National Development Company",
+    "department_code": "35",
+    "uacs_code": "35045",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "046",
+    "description": "Philippine Economic Zone Authority",
+    "department_code": "35",
+    "uacs_code": "35046",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "047",
+    "description": "Philippine International Trading Corporation",
+    "department_code": "35",
+    "uacs_code": "35047",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "048",
+    "description": "Philippine Retirement Authority",
+    "department_code": "35",
+    "uacs_code": "35048",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "049",
+    "description": "Small Business Corporation",
+    "department_code": "35",
+    "uacs_code": "35049",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "050",
+    "description": "Cebu Port Authority",
+    "department_code": "35",
+    "uacs_code": "35050",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "051",
+    "description": "Civil Aviation Authority of the Philippines",
+    "department_code": "35",
+    "uacs_code": "35051",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "052",
+    "description": "Light Rail Transit Authority",
+    "department_code": "35",
+    "uacs_code": "35052",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "053",
+    "description": "Mactan Cebu International Airport Authority",
+    "department_code": "35",
+    "uacs_code": "35053",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "054",
+    "description": "Manila International Airport Authority",
+    "department_code": "35",
+    "uacs_code": "35054",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "055",
+    "description": "Philippine Aerospace Development Corporation",
+    "department_code": "35",
+    "uacs_code": "35055",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "056",
+    "description": "Philippine National Railways",
+    "department_code": "35",
+    "uacs_code": "35056",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "057",
+    "description": "Philippine Ports Authority",
+    "department_code": "35",
+    "uacs_code": "35057",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "058",
+    "description": "Philippine Institute for Development Studies",
+    "department_code": "35",
+    "uacs_code": "35058",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "059",
+    "description": "People's Television Network, Inc.",
+    "department_code": "35",
+    "uacs_code": "35059",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "060",
+    "description": "Al-Amanah Islamic Investment Bank of the Philippines",
+    "department_code": "35",
+    "uacs_code": "35060",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "061",
+    "description": "Authority of the Freeport Area of Bataan",
+    "department_code": "35",
+    "uacs_code": "35061",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "062",
+    "description": "Bangko Sentral ng Pilipinas",
+    "department_code": "35",
+    "uacs_code": "35062",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "063",
+    "description": "Bases Conversion and Development Authority",
+    "department_code": "35",
+    "uacs_code": "35063",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "064",
+    "description": "Cagayan Economic Zone Authority",
+    "department_code": "35",
+    "uacs_code": "35064",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "065",
+    "description": "Central Bank Board of Liquidations",
+    "department_code": "35",
+    "uacs_code": "35065",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "066",
+    "description": "Credit Information Corporation",
+    "department_code": "35",
+    "uacs_code": "35066",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "067",
+    "description": "Cultural Center of the Philippines",
+    "department_code": "35",
+    "uacs_code": "35067",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "068",
+    "description": "Development Academy of the Philippines",
+    "department_code": "35",
+    "uacs_code": "35068",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "069",
+    "description": "Development Bank of the Philippines",
+    "department_code": "35",
+    "uacs_code": "35069",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "070",
+    "description": "Government Service Insurance System",
+    "department_code": "35",
+    "uacs_code": "35070",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "071",
+    "description": "Home Development Mutual Fund",
+    "department_code": "35",
+    "uacs_code": "35071",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "072",
+    "description": "Home Guaranty Corporation",
+    "department_code": "35",
+    "uacs_code": "35072",
+    "tag": "NON-IU",
+    "status": "Inactive"
+  },
+  {
+    "code": "073",
+    "description": "National Home Mortgage Finance Corporation",
+    "department_code": "35",
+    "uacs_code": "35073",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "074",
+    "description": "National Housing Authority",
+    "department_code": "35",
+    "uacs_code": "35074",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "075",
+    "description": "Partido Development Administration",
+    "department_code": "35",
+    "uacs_code": "35075",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "076",
+    "description": "People’s Credit and Finance Corporation",
+    "department_code": "35",
+    "uacs_code": "35076",
+    "tag": "NON-IU",
+    "status": "Inactive"
+  },
+  {
+    "code": "077",
+    "description": "Philippine Amusement and Gaming Corporation",
+    "department_code": "35",
+    "uacs_code": "35077",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "078",
+    "description": "Philippine Center for Economic Development",
+    "department_code": "35",
+    "uacs_code": "35078",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "079",
+    "description": "Philippine Charity Sweepstakes Office",
+    "department_code": "35",
+    "uacs_code": "35079",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "080",
+    "description": "Philippine Postal Corporation",
+    "department_code": "35",
+    "uacs_code": "35080",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "081",
+    "description": "Social Security System",
+    "department_code": "35",
+    "uacs_code": "35081",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "082",
+    "description": "Southern Philippines Development Authority",
+    "department_code": "35",
+    "uacs_code": "35082",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "083",
+    "description": "Subic Bay Metropolitan Authority",
+    "department_code": "35",
+    "uacs_code": "35083",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "084",
+    "description": "Zamboanga City Special Economic Zone Authority",
+    "department_code": "35",
+    "uacs_code": "35084",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "085",
+    "description": "BSGC - Others",
+    "department_code": "35",
+    "uacs_code": "35085",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "086",
+    "description": "Social Housing Finance Corporation",
+    "department_code": "35",
+    "uacs_code": "35086",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "087",
+    "description": "Intercontinental Broadcasting Corporation",
+    "department_code": "35",
+    "uacs_code": "35087",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "088",
+    "description": "National Food Authority",
+    "department_code": "35",
+    "uacs_code": "35088",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "089",
+    "description": "Philippine Coconut Authority",
+    "department_code": "35",
+    "uacs_code": "35089",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "090",
+    "description": "Philippine Tax Academy",
+    "department_code": "35",
+    "uacs_code": "35090",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "091",
+    "description": "United Coconut Planters Bank",
+    "department_code": "35",
+    "uacs_code": "35091",
+    "tag": "NON-IU",
+    "status": "Inactive"
+  },
+  {
+    "code": "092",
+    "description": "Davao International Airport Authority",
+    "department_code": "35",
+    "uacs_code": "35092",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "093",
+    "description": "Philippine Guarantee Corporation",
+    "department_code": "35",
+    "uacs_code": "35093",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "094",
+    "description": "Maharlika Investment Corporation",
+    "department_code": "35",
+    "uacs_code": "35094",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "001",
+    "description": "Metropolitan Manila Development Authority",
+    "department_code": "36",
+    "uacs_code": "36001",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "002",
+    "description": "Bangsamoro Autonomous Region in Muslim Mindanao",
+    "department_code": "36",
+    "uacs_code": "36002",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "001",
+    "description": "Office of the Secretary",
+    "department_code": "37",
+    "uacs_code": "37001",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "002",
+    "description": "National Telecommunications Commission",
+    "department_code": "37",
+    "uacs_code": "37002",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "003",
+    "description": "National Privacy Commission",
+    "department_code": "37",
+    "uacs_code": "37003",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "004",
+    "description": "Cybercrime Investigation and Coordination Center",
+    "department_code": "37",
+    "uacs_code": "37004",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "001",
+    "description": "Office of the Secretary",
+    "department_code": "38",
+    "uacs_code": "38001",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "002",
+    "description": "Civil Aeronautics Board",
+    "department_code": "38",
+    "uacs_code": "38002",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "003",
+    "description": "Maritime Industry Authority (MARINA)",
+    "department_code": "38",
+    "uacs_code": "38003",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "004",
+    "description": "Office of Transportation Cooperatives",
+    "department_code": "38",
+    "uacs_code": "38004",
+    "tag": "NON-IU",
+    "status": "Active"
+  },
+  {
+    "code": "005",
+    "description": "Office for Transportation Security",
+    "department_code": "38",
+    "uacs_code": "38005",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "006",
+    "description": "Philippine Coast Guard",
+    "department_code": "38",
+    "uacs_code": "38006",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "007",
+    "description": "Toll Regulatory Board",
+    "department_code": "38",
+    "uacs_code": "38007",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "001",
+    "description": "Office of the Secretary",
+    "department_code": "39",
+    "uacs_code": "39001",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "002",
+    "description": "Human Settlements Adjudication Commission",
+    "department_code": "39",
+    "uacs_code": "39002",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "001",
+    "description": "Office of the Secretary",
+    "department_code": "40",
+    "uacs_code": "40001",
+    "tag": "IU",
+    "status": "Active"
+  },
+  {
+    "code": "002",
+    "description": "Overseas Workers Welfare Administration",
+    "department_code": "40",
+    "uacs_code": "40002",
+    "tag": "IU",
+    "status": "Active"
+  }
+]

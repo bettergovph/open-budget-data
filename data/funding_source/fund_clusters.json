@@ -1,0 +1,37 @@
+[
+  {
+    "code": "01",
+    "description": "Regular Agency Fund",
+    "status": "Active"
+  },
+  {
+    "code": "02",
+    "description": "Foreign Assisted Projects Fund",
+    "status": "Active"
+  },
+  {
+    "code": "03",
+    "description": "Special Account - Locally Funded/Domestic Grants Fund",
+    "status": "Active"
+  },
+  {
+    "code": "04",
+    "description": "Special Account - Foreign Assisted/Foreign Grants Fund",
+    "status": "Active"
+  },
+  {
+    "code": "05",
+    "description": "Internally Generated Funds",
+    "status": "Active"
+  },
+  {
+    "code": "06",
+    "description": "Business Related Funds",
+    "status": "Active"
+  },
+  {
+    "code": "07",
+    "description": "Trust Receipts",
+    "status": "Active"
+  }
+]

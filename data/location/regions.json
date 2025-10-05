@@ -1,0 +1,116 @@
+[
+  {
+    "code": "01",
+    "description": "Region I - Ilocos",
+    "psgc_code": "01",
+    "status": "Active"
+  },
+  {
+    "code": "02",
+    "description": "Region II - Cagayan Valley",
+    "psgc_code": "02",
+    "status": "Active"
+  },
+  {
+    "code": "03",
+    "description": "Region III - Central Luzon",
+    "psgc_code": "03",
+    "status": "Active"
+  },
+  {
+    "code": "04",
+    "description": "Region IVA - CALABARZON",
+    "psgc_code": "04",
+    "status": "Active"
+  },
+  {
+    "code": "05",
+    "description": "Region V - Bicol",
+    "psgc_code": "05",
+    "status": "Active"
+  },
+  {
+    "code": "06",
+    "description": "Region VI - Western Visayas",
+    "psgc_code": "06",
+    "status": "Active"
+  },
+  {
+    "code": "07",
+    "description": "Region VII - Central Visayas",
+    "psgc_code": "07",
+    "status": "Active"
+  },
+  {
+    "code": "08",
+    "description": "Region VIII - Eastern Visayas",
+    "psgc_code": "08",
+    "status": "Active"
+  },
+  {
+    "code": "09",
+    "description": "Region IX - Zamboanga Peninsula",
+    "psgc_code": "09",
+    "status": "Active"
+  },
+  {
+    "code": "10",
+    "description": "Region X - Northern Mindanao",
+    "psgc_code": "10",
+    "status": "Active"
+  },
+  {
+    "code": "11",
+    "description": "Region XI - Davao",
+    "psgc_code": "11",
+    "status": "Active"
+  },
+  {
+    "code": "12",
+    "description": "Region XII - SOCCSKSARGEN",
+    "psgc_code": "12",
+    "status": "Active"
+  },
+  {
+    "code": "13",
+    "description": "National Capital Region (NCR)",
+    "psgc_code": "13",
+    "status": "Active"
+  },
+  {
+    "code": "14",
+    "description": "Cordillera Administrative Region (CAR)",
+    "psgc_code": "14",
+    "status": "Active"
+  },
+  {
+    "code": "15",
+    "description": "Autonomous Region in Muslim Mindanao (ARMM)",
+    "psgc_code": "15",
+    "status": "Inactive"
+  },
+  {
+    "code": "16",
+    "description": "Region XIII - CARAGA",
+    "psgc_code": "16",
+    "status": "Active"
+  },
+  {
+    "code": "17",
+    "description": "Region IVB - MIMAROPA",
+    "psgc_code": "17",
+    "status": "Active"
+  },
+  {
+    "code": "18",
+    "description": "Negros Island Region",
+    "psgc_code": "18",
+    "status": "Active"
+  },
+  {
+    "code": "19",
+    "description": "Bangsamoro Autonomous Region In Muslim Mindanao(BARMM)",
+    "psgc_code": "19",
+    "status": "Active"
+  }
+]

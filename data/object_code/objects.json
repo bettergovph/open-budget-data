@@ -1,0 +1,6140 @@
+[
+  {
+    "code": "010",
+    "full_code": "10101010",
+    "description": "Cash - Collecting Officers",
+    "group_code": "01",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "uacs_code": "10101010"
+  },
+  {
+    "code": "020",
+    "full_code": "10101020",
+    "description": "Petty Cash",
+    "group_code": "01",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "uacs_code": "10101020"
+  },
+  {
+    "code": "010",
+    "full_code": "10102010",
+    "description": "Cash in Bank - Local Currency, Bangko Sentral ng Pilipinas",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "uacs_code": "10102010"
+  },
+  {
+    "code": "020",
+    "full_code": "10102020",
+    "description": "Cash in Bank - Local Currency, Current Account",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "uacs_code": "10102020"
+  },
+  {
+    "code": "030",
+    "full_code": "10102030",
+    "description": "Cash in Bank - Local Currency, Savings Account",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "uacs_code": "10102030"
+  },
+  {
+    "code": "040",
+    "full_code": "10102040",
+    "description": "Cash in Bank - Local Currency, Time Deposits",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "uacs_code": "10102040"
+  },
+  {
+    "code": "010",
+    "full_code": "10103010",
+    "description": "Cash in Bank - Foreign Currency, Bangko Sentral ng Pilipinas",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "uacs_code": "10103010"
+  },
+  {
+    "code": "020",
+    "full_code": "10103020",
+    "description": "Cash in Bank - Foreign Currency, Current Account",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "uacs_code": "10103020"
+  },
+  {
+    "code": "030",
+    "full_code": "10103030",
+    "description": "Cash in Bank - Foreign Currency, Savings Account",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "uacs_code": "10103030"
+  },
+  {
+    "code": "040",
+    "full_code": "10103040",
+    "description": "Cash in Bank - Foreign Currency, Time Deposits",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "uacs_code": "10103040"
+  },
+  {
+    "code": "010",
+    "full_code": "10104010",
+    "description": "Cash - Treasury/Agency Deposit, Regular",
+    "group_code": "04",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "uacs_code": "10104010"
+  },
+  {
+    "code": "020",
+    "full_code": "10104020",
+    "description": "Cash - Treasury/Agency Deposit, Special Account",
+    "group_code": "04",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "uacs_code": "10104020"
+  },
+  {
+    "code": "030",
+    "full_code": "10104030",
+    "description": "Cash - Treasury/Agency Deposit, Trust",
+    "group_code": "04",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "uacs_code": "10104030"
+  },
+  {
+    "code": "040",
+    "full_code": "10104040",
+    "description": "Cash - Modified Disbursement System (MDS), Regular",
+    "group_code": "04",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "uacs_code": "10104040"
+  },
+  {
+    "code": "050",
+    "full_code": "10104050",
+    "description": "Cash - Modified Disbursement System (MDS), Special Account",
+    "group_code": "04",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "uacs_code": "10104050"
+  },
+  {
+    "code": "060",
+    "full_code": "10104060",
+    "description": "Cash - Modified Disbursement System (MDS), Trust",
+    "group_code": "04",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "uacs_code": "10104060"
+  },
+  {
+    "code": "070",
+    "full_code": "10104070",
+    "description": "Cash - Tax Remittance Advice",
+    "group_code": "04",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "uacs_code": "10104070"
+  },
+  {
+    "code": "080",
+    "full_code": "10104080",
+    "description": "Cash - Constructive Income and Other Remittances",
+    "group_code": "04",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "uacs_code": "10104080"
+  },
+  {
+    "code": "010",
+    "full_code": "10105010",
+    "description": "Treasury Bills",
+    "group_code": "05",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "uacs_code": "10105010"
+  },
+  {
+    "code": "020",
+    "full_code": "10105020",
+    "description": "Time Deposits - Local Currency",
+    "group_code": "05",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "uacs_code": "10105020"
+  },
+  {
+    "code": "030",
+    "full_code": "10105030",
+    "description": "Time Deposits - Foreign Currency",
+    "group_code": "05",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "uacs_code": "10105030"
+  },
+  {
+    "code": "010",
+    "full_code": "10201010",
+    "description": "Financial Assets Held for Trading",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "1",
+    "uacs_code": "10201010"
+  },
+  {
+    "code": "020",
+    "full_code": "10201020",
+    "description": "Financial Assets Designated at Fair Value Through Surplus or Deficit",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "1",
+    "uacs_code": "10201020"
+  },
+  {
+    "code": "030",
+    "full_code": "10201030",
+    "description": "Derivative Financial Assets Held for Trading",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "1",
+    "uacs_code": "10201030"
+  },
+  {
+    "code": "040",
+    "full_code": "10201040",
+    "description": "Derivative Financial Assets Designated at Fair Value Through Surplus or Deficit",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "1",
+    "uacs_code": "10201040"
+  },
+  {
+    "code": "010",
+    "full_code": "10202010",
+    "description": "Investments in Treasury Bills - Local",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "1",
+    "uacs_code": "10202010"
+  },
+  {
+    "code": "011",
+    "full_code": "10202011",
+    "description": "Allowance for Impairment - Investments in Treasury Bills - Local",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "1",
+    "uacs_code": "10202011"
+  },
+  {
+    "code": "012",
+    "full_code": "10202012",
+    "description": "Allowance for Impairment - Investments in Treasury Bills - Local",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "1",
+    "uacs_code": "10202012"
+  },
+  {
+    "code": "020",
+    "full_code": "10202020",
+    "description": "Investments in Treasury Bills - Foreign",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "1",
+    "uacs_code": "10202020"
+  },
+  {
+    "code": "021",
+    "full_code": "10202021",
+    "description": "Allowance for Impairment - Investments in Treasury Bills - Foreign",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "1",
+    "uacs_code": "10202021"
+  },
+  {
+    "code": "030",
+    "full_code": "10202030",
+    "description": "Investments in Treasury Bonds - Local",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "1",
+    "uacs_code": "10202030"
+  },
+  {
+    "code": "031",
+    "full_code": "10202031",
+    "description": "Allowance for Impairment - Investments in Bonds - Local",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "1",
+    "uacs_code": "10202031"
+  },
+  {
+    "code": "040",
+    "full_code": "10202040",
+    "description": "Investments in Treasury Bonds - Foreign",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "1",
+    "uacs_code": "10202040"
+  },
+  {
+    "code": "041",
+    "full_code": "10202041",
+    "description": "Allowance for Impairment - Investments in Treasury Bonds - Foreign",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "1",
+    "uacs_code": "10202041"
+  },
+  {
+    "code": "010",
+    "full_code": "10203010",
+    "description": "Investments in Stocks",
+    "group_code": "03",
+    "sub_class_code": "02",
+    "classification_code": "1",
+    "uacs_code": "10203010"
+  },
+  {
+    "code": "020",
+    "full_code": "10203020",
+    "description": "Investments in Bonds",
+    "group_code": "03",
+    "sub_class_code": "02",
+    "classification_code": "1",
+    "uacs_code": "10203020"
+  },
+  {
+    "code": "990",
+    "full_code": "10203990",
+    "description": "Other Investments",
+    "group_code": "03",
+    "sub_class_code": "02",
+    "classification_code": "1",
+    "uacs_code": "10203990"
+  },
+  {
+    "code": "010",
+    "full_code": "10204010",
+    "description": "Investments in Government-Owned or Controlled Corporations",
+    "group_code": "04",
+    "sub_class_code": "02",
+    "classification_code": "1",
+    "uacs_code": "10204010"
+  },
+  {
+    "code": "011",
+    "full_code": "10204011",
+    "description": "Allowance for Impairment - Investments in GOCCs",
+    "group_code": "04",
+    "sub_class_code": "02",
+    "classification_code": "1",
+    "uacs_code": "10204011"
+  },
+  {
+    "code": "010",
+    "full_code": "10205010",
+    "description": "Investments in Joint Ventures",
+    "group_code": "05",
+    "sub_class_code": "02",
+    "classification_code": "1",
+    "uacs_code": "10205010"
+  },
+  {
+    "code": "011",
+    "full_code": "10205011",
+    "description": "Allowance for Impairment - Investments in Joint Venture",
+    "group_code": "05",
+    "sub_class_code": "02",
+    "classification_code": "1",
+    "uacs_code": "10205011"
+  },
+  {
+    "code": "010",
+    "full_code": "10206010",
+    "description": "Investments in Associates",
+    "group_code": "06",
+    "sub_class_code": "02",
+    "classification_code": "1",
+    "uacs_code": "10206010"
+  },
+  {
+    "code": "011",
+    "full_code": "10206011",
+    "description": "Allowance for Impairment - Investments in Associates",
+    "group_code": "06",
+    "sub_class_code": "02",
+    "classification_code": "1",
+    "uacs_code": "10206011"
+  },
+  {
+    "code": "010",
+    "full_code": "10207010",
+    "description": "Sinking Fund",
+    "group_code": "07",
+    "sub_class_code": "02",
+    "classification_code": "1",
+    "uacs_code": "10207010"
+  },
+  {
+    "code": "010",
+    "full_code": "10301010",
+    "description": "Accounts Receivable",
+    "group_code": "01",
+    "sub_class_code": "03",
+    "classification_code": "1",
+    "uacs_code": "10301010"
+  },
+  {
+    "code": "011",
+    "full_code": "10301011",
+    "description": "Allowance for Impairment - Accounts Receivable",
+    "group_code": "01",
+    "sub_class_code": "03",
+    "classification_code": "1",
+    "uacs_code": "10301011"
+  },
+  {
+    "code": "020",
+    "full_code": "10301020",
+    "description": "Notes Receivable",
+    "group_code": "01",
+    "sub_class_code": "03",
+    "classification_code": "1",
+    "uacs_code": "10301020"
+  },
+  {
+    "code": "021",
+    "full_code": "10301021",
+    "description": "Allowance for Impairment - Notes Receivable",
+    "group_code": "01",
+    "sub_class_code": "03",
+    "classification_code": "1",
+    "uacs_code": "10301021"
+  },
+  {
+    "code": "030",
+    "full_code": "10301030",
+    "description": "Loans Receivable - Government-Owned or Controlled Corporations",
+    "group_code": "01",
+    "sub_class_code": "03",
+    "classification_code": "1",
+    "uacs_code": "10301030"
+  },
+  {
+    "code": "031",
+    "full_code": "10301031",
+    "description": "Allowance for Impairment - Loans Receivable - Government-Owned and/or Controlled Corporations",
+    "group_code": "01",
+    "sub_class_code": "03",
+    "classification_code": "1",
+    "uacs_code": "10301031"
+  },
+  {
+    "code": "040",
+    "full_code": "10301040",
+    "description": "Loans Receivable - Local Government Units",
+    "group_code": "01",
+    "sub_class_code": "03",
+    "classification_code": "1",
+    "uacs_code": "10301040"
+  },
+  {
+    "code": "041",
+    "full_code": "10301041",
+    "description": "Allowance for Impairment - Loans Receivable - Local Government Units",
+    "group_code": "01",
+    "sub_class_code": "03",
+    "classification_code": "1",
+    "uacs_code": "10301041"
+  },
+  {
+    "code": "050",
+    "full_code": "10301050",
+    "description": "Interests Receivable",
+    "group_code": "01",
+    "sub_class_code": "03",
+    "classification_code": "1",
+    "uacs_code": "10301050"
+  },
+  {
+    "code": "051",
+    "full_code": "10301051",
+    "description": "Allowance for Impairment - Interests Receivable",
+    "group_code": "01",
+    "sub_class_code": "03",
+    "classification_code": "1",
+    "uacs_code": "10301051"
+  },
+  {
+    "code": "060",
+    "full_code": "10301060",
+    "description": "Dividends Receivable",
+    "group_code": "01",
+    "sub_class_code": "03",
+    "classification_code": "1",
+    "uacs_code": "10301060"
+  },
+  {
+    "code": "250",
+    "full_code": "10301250",
+    "description": "Receivables from Authorized Agent Banks (AABs)/Agents",
+    "group_code": "01",
+    "sub_class_code": "03",
+    "classification_code": "1",
+    "uacs_code": "10301250"
+  },
+  {
+    "code": "990",
+    "full_code": "10301990",
+    "description": "Loans Receivable - Others",
+    "group_code": "01",
+    "sub_class_code": "03",
+    "classification_code": "1",
+    "uacs_code": "10301990"
+  },
+  {
+    "code": "991",
+    "full_code": "10301991",
+    "description": "Allowance for Impairment - Loans Receivables - Others",
+    "group_code": "01",
+    "sub_class_code": "03",
+    "classification_code": "1",
+    "uacs_code": "10301991"
+  },
+  {
+    "code": "010",
+    "full_code": "10302010",
+    "description": "Operating Lease Receivable",
+    "group_code": "02",
+    "sub_class_code": "03",
+    "classification_code": "1",
+    "uacs_code": "10302010"
+  },
+  {
+    "code": "011",
+    "full_code": "10302011",
+    "description": "Allowance for Impairment - Operating Lease Receivable",
+    "group_code": "02",
+    "sub_class_code": "03",
+    "classification_code": "1",
+    "uacs_code": "10302011"
+  },
+  {
+    "code": "020",
+    "full_code": "10302020",
+    "description": "Finance Lease Receivable",
+    "group_code": "02",
+    "sub_class_code": "03",
+    "classification_code": "1",
+    "uacs_code": "10302020"
+  },
+  {
+    "code": "021",
+    "full_code": "10302021",
+    "description": "Allowance for Impairment - Finance Lease Receivable",
+    "group_code": "02",
+    "sub_class_code": "03",
+    "classification_code": "1",
+    "uacs_code": "10302021"
+  },
+  {
+    "code": "010",
+    "full_code": "10303010",
+    "description": "Due from National Government Agencies",
+    "group_code": "03",
+    "sub_class_code": "03",
+    "classification_code": "1",
+    "uacs_code": "10303010"
+  },
+  {
+    "code": "020",
+    "full_code": "10303020",
+    "description": "Due from Government-Owned or Controlled Corporations",
+    "group_code": "03",
+    "sub_class_code": "03",
+    "classification_code": "1",
+    "uacs_code": "10303020"
+  },
+  {
+    "code": "030",
+    "full_code": "10303030",
+    "description": "Due from Local Government Units",
+    "group_code": "03",
+    "sub_class_code": "03",
+    "classification_code": "1",
+    "uacs_code": "10303030"
+  },
+  {
+    "code": "040",
+    "full_code": "10303040",
+    "description": "Due from Joint Venture",
+    "group_code": "03",
+    "sub_class_code": "03",
+    "classification_code": "1",
+    "uacs_code": "10303040"
+  },
+  {
+    "code": "010",
+    "full_code": "10304010",
+    "description": "Due from Central Office",
+    "group_code": "04",
+    "sub_class_code": "03",
+    "classification_code": "1",
+    "uacs_code": "10304010"
+  },
+  {
+    "code": "020",
+    "full_code": "10304020",
+    "description": "Due from Bureaus",
+    "group_code": "04",
+    "sub_class_code": "03",
+    "classification_code": "1",
+    "uacs_code": "10304020"
+  },
+  {
+    "code": "030",
+    "full_code": "10304030",
+    "description": "Due from Regional Offices",
+    "group_code": "04",
+    "sub_class_code": "03",
+    "classification_code": "1",
+    "uacs_code": "10304030"
+  },
+  {
+    "code": "040",
+    "full_code": "10304040",
+    "description": "Due from Operating/Field Units",
+    "group_code": "04",
+    "sub_class_code": "03",
+    "classification_code": "1",
+    "uacs_code": "10304040"
+  },
+  {
+    "code": "050",
+    "full_code": "10304050",
+    "description": "Due from Other Funds",
+    "group_code": "04",
+    "sub_class_code": "03",
+    "classification_code": "1",
+    "uacs_code": "10304050"
+  },
+  {
+    "code": "010",
+    "full_code": "10305010",
+    "description": "Receivables  - Disallowances/Charges",
+    "group_code": "05",
+    "sub_class_code": "03",
+    "classification_code": "1",
+    "uacs_code": "10305010"
+  },
+  {
+    "code": "020",
+    "full_code": "10305020",
+    "description": "Due from Officers and Employees",
+    "group_code": "05",
+    "sub_class_code": "03",
+    "classification_code": "1",
+    "uacs_code": "10305020"
+  },
+  {
+    "code": "030",
+    "full_code": "10305030",
+    "description": "Due from Non-Government Organizations/People's Organizations",
+    "group_code": "05",
+    "sub_class_code": "03",
+    "classification_code": "1",
+    "uacs_code": "10305030"
+  },
+  {
+    "code": "990",
+    "full_code": "10305990",
+    "description": "Other Receivables",
+    "group_code": "05",
+    "sub_class_code": "03",
+    "classification_code": "1",
+    "uacs_code": "10305990"
+  },
+  {
+    "code": "991",
+    "full_code": "10305991",
+    "description": "Allowance for Impairment -  Other Receivables",
+    "group_code": "05",
+    "sub_class_code": "03",
+    "classification_code": "1",
+    "uacs_code": "10305991"
+  },
+  {
+    "code": "010",
+    "full_code": "10401010",
+    "description": "Seized/Distrained Personal Property",
+    "group_code": "01",
+    "sub_class_code": "04",
+    "classification_code": "1",
+    "uacs_code": "10401010"
+  },
+  {
+    "code": "010",
+    "full_code": "10402010",
+    "description": "Food Supplies for Distribution",
+    "group_code": "02",
+    "sub_class_code": "04",
+    "classification_code": "1",
+    "uacs_code": "10402010"
+  },
+  {
+    "code": "020",
+    "full_code": "10402020",
+    "description": "Welfare Goods for Distribution",
+    "group_code": "02",
+    "sub_class_code": "04",
+    "classification_code": "1",
+    "uacs_code": "10402020"
+  },
+  {
+    "code": "030",
+    "full_code": "10402030",
+    "description": "Drugs and Medicines for Distribution",
+    "group_code": "02",
+    "sub_class_code": "04",
+    "classification_code": "1",
+    "uacs_code": "10402030"
+  },
+  {
+    "code": "040",
+    "full_code": "10402040",
+    "description": "Medical, Dental and Laboratory Supplies for Distribution",
+    "group_code": "02",
+    "sub_class_code": "04",
+    "classification_code": "1",
+    "uacs_code": "10402040"
+  },
+  {
+    "code": "050",
+    "full_code": "10402050",
+    "description": "Agricultural and Marine Supplies for Distribution",
+    "group_code": "02",
+    "sub_class_code": "04",
+    "classification_code": "1",
+    "uacs_code": "10402050"
+  },
+  {
+    "code": "060",
+    "full_code": "10402060",
+    "description": "Agricultural Produce for Distribution",
+    "group_code": "02",
+    "sub_class_code": "04",
+    "classification_code": "1",
+    "uacs_code": "10402060"
+  },
+  {
+    "code": "070",
+    "full_code": "10402070",
+    "description": "Textbooks and Instructional Materials for Distribution",
+    "group_code": "02",
+    "sub_class_code": "04",
+    "classification_code": "1",
+    "uacs_code": "10402070"
+  },
+  {
+    "code": "080",
+    "full_code": "10402080",
+    "description": "Construction Materials for Distribution",
+    "group_code": "02",
+    "sub_class_code": "04",
+    "classification_code": "1",
+    "uacs_code": "10402080"
+  },
+  {
+    "code": "090",
+    "full_code": "10402090",
+    "description": "Property and Equipment for Distribution",
+    "group_code": "02",
+    "sub_class_code": "04",
+    "classification_code": "1",
+    "uacs_code": "10402090"
+  },
+  {
+    "code": "990",
+    "full_code": "10402990",
+    "description": "Other Supplies and  Materials for Distribution",
+    "group_code": "02",
+    "sub_class_code": "04",
+    "classification_code": "1",
+    "uacs_code": "10402990"
+  },
+  {
+    "code": "010",
+    "full_code": "10403010",
+    "description": "Raw Materials Inventory",
+    "group_code": "03",
+    "sub_class_code": "04",
+    "classification_code": "1",
+    "uacs_code": "10403010"
+  },
+  {
+    "code": "020",
+    "full_code": "10403020",
+    "description": "Work-In-Process Inventory",
+    "group_code": "03",
+    "sub_class_code": "04",
+    "classification_code": "1",
+    "uacs_code": "10403020"
+  },
+  {
+    "code": "030",
+    "full_code": "10403030",
+    "description": "Finished Goods Inventory",
+    "group_code": "03",
+    "sub_class_code": "04",
+    "classification_code": "1",
+    "uacs_code": "10403030"
+  },
+  {
+    "code": "010",
+    "full_code": "10404010",
+    "description": "Office Supplies Inventory",
+    "group_code": "04",
+    "sub_class_code": "04",
+    "classification_code": "1",
+    "uacs_code": "10404010"
+  },
+  {
+    "code": "020",
+    "full_code": "10404020",
+    "description": "Accountable Forms, Plates and Stickers Inventory",
+    "group_code": "04",
+    "sub_class_code": "04",
+    "classification_code": "1",
+    "uacs_code": "10404020"
+  },
+  {
+    "code": "030",
+    "full_code": "10404030",
+    "description": "Non-Accountable Forms Inventory",
+    "group_code": "04",
+    "sub_class_code": "04",
+    "classification_code": "1",
+    "uacs_code": "10404030"
+  },
+  {
+    "code": "040",
+    "full_code": "10404040",
+    "description": "Animal/Zoological Supplies Inventory",
+    "group_code": "04",
+    "sub_class_code": "04",
+    "classification_code": "1",
+    "uacs_code": "10404040"
+  },
+  {
+    "code": "050",
+    "full_code": "10404050",
+    "description": "Food Supplies Inventory",
+    "group_code": "04",
+    "sub_class_code": "04",
+    "classification_code": "1",
+    "uacs_code": "10404050"
+  },
+  {
+    "code": "060",
+    "full_code": "10404060",
+    "description": "Drugs and Medicines Inventory",
+    "group_code": "04",
+    "sub_class_code": "04",
+    "classification_code": "1",
+    "uacs_code": "10404060"
+  },
+  {
+    "code": "070",
+    "full_code": "10404070",
+    "description": "Medical, Dental and Laboratory Supplies Inventory",
+    "group_code": "04",
+    "sub_class_code": "04",
+    "classification_code": "1",
+    "uacs_code": "10404070"
+  },
+  {
+    "code": "080",
+    "full_code": "10404080",
+    "description": "Fuel, Oil and Lubricants Inventory",
+    "group_code": "04",
+    "sub_class_code": "04",
+    "classification_code": "1",
+    "uacs_code": "10404080"
+  },
+  {
+    "code": "090",
+    "full_code": "10404090",
+    "description": "Agricultural and Marine Supplies Inventory",
+    "group_code": "04",
+    "sub_class_code": "04",
+    "classification_code": "1",
+    "uacs_code": "10404090"
+  },
+  {
+    "code": "100",
+    "full_code": "10404100",
+    "description": "Textbooks and Instructional Materials Inventory",
+    "group_code": "04",
+    "sub_class_code": "04",
+    "classification_code": "1",
+    "uacs_code": "10404100"
+  },
+  {
+    "code": "110",
+    "full_code": "10404110",
+    "description": "Military, Police and Traffic Supplies Inventory",
+    "group_code": "04",
+    "sub_class_code": "04",
+    "classification_code": "1",
+    "uacs_code": "10404110"
+  },
+  {
+    "code": "120",
+    "full_code": "10404120",
+    "description": "Chemical and Filtering Supplies Inventory",
+    "group_code": "04",
+    "sub_class_code": "04",
+    "classification_code": "1",
+    "uacs_code": "10404120"
+  },
+  {
+    "code": "130",
+    "full_code": "10404130",
+    "description": "Construction Materials Inventory",
+    "group_code": "04",
+    "sub_class_code": "04",
+    "classification_code": "1",
+    "uacs_code": "10404130"
+  },
+  {
+    "code": "990",
+    "full_code": "10404990",
+    "description": "Other Supplies and Materials Inventory",
+    "group_code": "04",
+    "sub_class_code": "04",
+    "classification_code": "1",
+    "uacs_code": "10404990"
+  },
+  {
+    "code": "010",
+    "full_code": "10501010",
+    "description": "Investment Property, Land",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "1",
+    "uacs_code": "10501010"
+  },
+  {
+    "code": "011",
+    "full_code": "10501011",
+    "description": "Accumulated Impairment Losses - Investment Property, Land",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "1",
+    "uacs_code": "10501011"
+  },
+  {
+    "code": "020",
+    "full_code": "10501020",
+    "description": "Investment Property, Buildings",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "1",
+    "uacs_code": "10501020"
+  },
+  {
+    "code": "021",
+    "full_code": "10501021",
+    "description": "Accumulated Depreciation - Investment Property, Buildings",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "1",
+    "uacs_code": "10501021"
+  },
+  {
+    "code": "022",
+    "full_code": "10501022",
+    "description": "Accumulated Impairment Losses - Investment Property, Buildings",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "1",
+    "uacs_code": "10501022"
+  },
+  {
+    "code": "011",
+    "full_code": "10601011",
+    "description": "Accumulated Impairment Losses - Land",
+    "group_code": "01",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10601011"
+  },
+  {
+    "code": "010",
+    "full_code": "10602010",
+    "description": "Land Improvements, Aquaculture Structures",
+    "group_code": "02",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10602010"
+  },
+  {
+    "code": "011",
+    "full_code": "10602011",
+    "description": "Accumulated Depreciation - Land Improvements, Aquaculture Structures",
+    "group_code": "02",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10602011"
+  },
+  {
+    "code": "012",
+    "full_code": "10602012",
+    "description": "Accumulated Impairment Losses - Land Improvements, Aquaculture Structures",
+    "group_code": "02",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10602012"
+  },
+  {
+    "code": "020",
+    "full_code": "10602020",
+    "description": "Land Improvements, Reforestation Projects",
+    "group_code": "02",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10602020"
+  },
+  {
+    "code": "021",
+    "full_code": "10602021",
+    "description": "Accumulated Impairment Losses - Land Improvements, Reforestation Projects",
+    "group_code": "02",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10602021"
+  },
+  {
+    "code": "990",
+    "full_code": "10602990",
+    "description": "Other Land Improvements",
+    "group_code": "02",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10602990"
+  },
+  {
+    "code": "991",
+    "full_code": "10602991",
+    "description": "Accumulated Depreciation - Other Land Improvements",
+    "group_code": "02",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10602991"
+  },
+  {
+    "code": "992",
+    "full_code": "10602992",
+    "description": "Accumulated Impairment Losses - Other Land Improvements",
+    "group_code": "02",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10602992"
+  },
+  {
+    "code": "010",
+    "full_code": "10603010",
+    "description": "Road Networks",
+    "group_code": "03",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10603010"
+  },
+  {
+    "code": "011",
+    "full_code": "10603011",
+    "description": "Accumulated Depreciation - Road Networks",
+    "group_code": "03",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10603011"
+  },
+  {
+    "code": "012",
+    "full_code": "10603012",
+    "description": "Accumulated Impairment Losses - Road Networks",
+    "group_code": "03",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10603012"
+  },
+  {
+    "code": "020",
+    "full_code": "10603020",
+    "description": "Flood Control Systems",
+    "group_code": "03",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10603020"
+  },
+  {
+    "code": "021",
+    "full_code": "10603021",
+    "description": "Accumulated Depreciation - Flood Control Systems",
+    "group_code": "03",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10603021"
+  },
+  {
+    "code": "022",
+    "full_code": "10603022",
+    "description": "Accumulated Impairment Losses - Flood Control Systems",
+    "group_code": "03",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10603022"
+  },
+  {
+    "code": "030",
+    "full_code": "10603030",
+    "description": "Sewer Systems",
+    "group_code": "03",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10603030"
+  },
+  {
+    "code": "031",
+    "full_code": "10603031",
+    "description": "Accumulated Depreciation - Sewer Systems",
+    "group_code": "03",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10603031"
+  },
+  {
+    "code": "032",
+    "full_code": "10603032",
+    "description": "Accumulated Impairment Losses - Sewer Systems",
+    "group_code": "03",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10603032"
+  },
+  {
+    "code": "040",
+    "full_code": "10603040",
+    "description": "Water Supply Systems",
+    "group_code": "03",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10603040"
+  },
+  {
+    "code": "041",
+    "full_code": "10603041",
+    "description": "Accumulated Depreciation - Water Supply Systems",
+    "group_code": "03",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10603041"
+  },
+  {
+    "code": "042",
+    "full_code": "10603042",
+    "description": "Accumulated Impairment Losses - Water Supply Systems",
+    "group_code": "03",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10603042"
+  },
+  {
+    "code": "050",
+    "full_code": "10603050",
+    "description": "Power Supply Systems",
+    "group_code": "03",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10603050"
+  },
+  {
+    "code": "051",
+    "full_code": "10603051",
+    "description": "Accumulated Depreciation - Power Supply Systems",
+    "group_code": "03",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10603051"
+  },
+  {
+    "code": "052",
+    "full_code": "10603052",
+    "description": "Accumulated Impairment Losses - Power Supply Systems",
+    "group_code": "03",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10603052"
+  },
+  {
+    "code": "060",
+    "full_code": "10603060",
+    "description": "Communication Networks",
+    "group_code": "03",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10603060"
+  },
+  {
+    "code": "061",
+    "full_code": "10603061",
+    "description": "Accumulated Depreciation - Communication Networks",
+    "group_code": "03",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10603061"
+  },
+  {
+    "code": "062",
+    "full_code": "10603062",
+    "description": "Accumulated Impairment Losses - Communications Networks",
+    "group_code": "03",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10603062"
+  },
+  {
+    "code": "070",
+    "full_code": "10603070",
+    "description": "Seaport Systems",
+    "group_code": "03",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10603070"
+  },
+  {
+    "code": "071",
+    "full_code": "10603071",
+    "description": "Accumulated Depreciation - Seaport Systems",
+    "group_code": "03",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10603071"
+  },
+  {
+    "code": "072",
+    "full_code": "10603072",
+    "description": "Accumulated Impairment Losses - Seaport Systems",
+    "group_code": "03",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10603072"
+  },
+  {
+    "code": "080",
+    "full_code": "10603080",
+    "description": "Airport Systems",
+    "group_code": "03",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10603080"
+  },
+  {
+    "code": "081",
+    "full_code": "10603081",
+    "description": "Accumulated Depreciation - Airport Systems",
+    "group_code": "03",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10603081"
+  },
+  {
+    "code": "082",
+    "full_code": "10603082",
+    "description": "Accumulated Impairment Losses - Airport Systems",
+    "group_code": "03",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10603082"
+  },
+  {
+    "code": "090",
+    "full_code": "10603090",
+    "description": "Parks, Plazas and Monuments",
+    "group_code": "03",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10603090"
+  },
+  {
+    "code": "091",
+    "full_code": "10603091",
+    "description": "Accumulated Depreciation - Parks, Plazas and Monuments",
+    "group_code": "03",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10603091"
+  },
+  {
+    "code": "092",
+    "full_code": "10603092",
+    "description": "Accumulated Impairment Losses - Parks, Plazas and Monuments",
+    "group_code": "03",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10603092"
+  },
+  {
+    "code": "990",
+    "full_code": "10603990",
+    "description": "Other Infrastructure Assets",
+    "group_code": "03",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10603990"
+  },
+  {
+    "code": "991",
+    "full_code": "10603991",
+    "description": "Accumulated Depreciation - Other Infrastructure Assets",
+    "group_code": "03",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10603991"
+  },
+  {
+    "code": "992",
+    "full_code": "10603992",
+    "description": "Accumulated Impairment Losses - Other Infrastructure Assets",
+    "group_code": "03",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10603992"
+  },
+  {
+    "code": "010",
+    "full_code": "10604010",
+    "description": "Buildings",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10604010"
+  },
+  {
+    "code": "011",
+    "full_code": "10604011",
+    "description": "Accumulated Depreciation - Buildings",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10604011"
+  },
+  {
+    "code": "012",
+    "full_code": "10604012",
+    "description": "Accumulated Impairment Losses - Buildings",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10604012"
+  },
+  {
+    "code": "020",
+    "full_code": "10604020",
+    "description": "School Buildings",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10604020"
+  },
+  {
+    "code": "021",
+    "full_code": "10604021",
+    "description": "Accumulated Depreciation - School Buildings",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10604021"
+  },
+  {
+    "code": "022",
+    "full_code": "10604022",
+    "description": "Accumulated Impairment Losses - School Buildings",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10604022"
+  },
+  {
+    "code": "030",
+    "full_code": "10604030",
+    "description": "Hospitals and Health Centers",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10604030"
+  },
+  {
+    "code": "031",
+    "full_code": "10604031",
+    "description": "Accumulated Depreciation - Hospitals and Health Centers",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10604031"
+  },
+  {
+    "code": "032",
+    "full_code": "10604032",
+    "description": "Accumulated Impairment Losses - Hospitals and Health Centers",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10604032"
+  },
+  {
+    "code": "040",
+    "full_code": "10604040",
+    "description": "Markets",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10604040"
+  },
+  {
+    "code": "041",
+    "full_code": "10604041",
+    "description": "Accumulated Depreciation - Markets",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10604041"
+  },
+  {
+    "code": "042",
+    "full_code": "10604042",
+    "description": "Accumulated Impairment Losses - Markets",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10604042"
+  },
+  {
+    "code": "050",
+    "full_code": "10604050",
+    "description": "Slaughterhouses",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10604050"
+  },
+  {
+    "code": "051",
+    "full_code": "10604051",
+    "description": "Accumulated Depreciation - Slaughterhouses",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10604051"
+  },
+  {
+    "code": "052",
+    "full_code": "10604052",
+    "description": "Accumulated Impairment Losses - Slaughterhouses",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10604052"
+  },
+  {
+    "code": "060",
+    "full_code": "10604060",
+    "description": "Hostels and Dormitories",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10604060"
+  },
+  {
+    "code": "061",
+    "full_code": "10604061",
+    "description": "Accumulated Depreciation - Hostels and Dormitories",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10604061"
+  },
+  {
+    "code": "062",
+    "full_code": "10604062",
+    "description": "Accumulated Impairment Losses - Hostels and Dormitories",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10604062"
+  },
+  {
+    "code": "990",
+    "full_code": "10604990",
+    "description": "Other Structures",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10604990"
+  },
+  {
+    "code": "991",
+    "full_code": "10604991",
+    "description": "Accumulated Depreciation - Other Structures",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10604991"
+  },
+  {
+    "code": "992",
+    "full_code": "10604992",
+    "description": "Accumulated Impairment Losses - Other Structures",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10604992"
+  },
+  {
+    "code": "010",
+    "full_code": "10605010",
+    "description": "Machinery",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10605010"
+  },
+  {
+    "code": "011",
+    "full_code": "10605011",
+    "description": "Accumulated Depreciation - Machinery",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10605011"
+  },
+  {
+    "code": "012",
+    "full_code": "10605012",
+    "description": "Accumulated Impairment Losses - Machinery",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10605012"
+  },
+  {
+    "code": "020",
+    "full_code": "10605020",
+    "description": "Office Equipment",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10605020"
+  },
+  {
+    "code": "021",
+    "full_code": "10605021",
+    "description": "Accumulated Depreciation - Office Equipment",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10605021"
+  },
+  {
+    "code": "022",
+    "full_code": "10605022",
+    "description": "Accumulated Impairment Losses - Office Equipment",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10605022"
+  },
+  {
+    "code": "030",
+    "full_code": "10605030",
+    "description": "Information and Communications Technology Equipment",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10605030"
+  },
+  {
+    "code": "031",
+    "full_code": "10605031",
+    "description": "Accumulated Depreciation - Information and Communications Technology Equipment",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10605031"
+  },
+  {
+    "code": "032",
+    "full_code": "10605032",
+    "description": "Accumulated Impairment Losses - Information and Communications Technology Equipment",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10605032"
+  },
+  {
+    "code": "040",
+    "full_code": "10605040",
+    "description": "Agricultural and Forestry Equipment",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10605040"
+  },
+  {
+    "code": "041",
+    "full_code": "10605041",
+    "description": "Accumulated Depreciation - Agricultural and Forestry Equipment",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10605041"
+  },
+  {
+    "code": "042",
+    "full_code": "10605042",
+    "description": "Accumulated Impairment Losses - Agricultural and Forestry Equipment",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10605042"
+  },
+  {
+    "code": "050",
+    "full_code": "10605050",
+    "description": "Marine and Fishery Equipment",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10605050"
+  },
+  {
+    "code": "051",
+    "full_code": "10605051",
+    "description": "Accumulated Depreciation - Marine and Fishery Equipment",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10605051"
+  },
+  {
+    "code": "052",
+    "full_code": "10605052",
+    "description": "Accumulated Impairment Losses - Marine and Fishery Equipment",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10605052"
+  },
+  {
+    "code": "060",
+    "full_code": "10605060",
+    "description": "Airport Equipment",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10605060"
+  },
+  {
+    "code": "061",
+    "full_code": "10605061",
+    "description": "Accumulated Depreciation - Airport Equipment",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10605061"
+  },
+  {
+    "code": "062",
+    "full_code": "10605062",
+    "description": "Accumulated Impairment Losses - Airport Equipment",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10605062"
+  },
+  {
+    "code": "070",
+    "full_code": "10605070",
+    "description": "Communications Equipment",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10605070"
+  },
+  {
+    "code": "071",
+    "full_code": "10605071",
+    "description": "Accumulated Depreciation - Communications Equipment",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10605071"
+  },
+  {
+    "code": "072",
+    "full_code": "10605072",
+    "description": "Accumulated Impairment Losses - Communications Equipment",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10605072"
+  },
+  {
+    "code": "080",
+    "full_code": "10605080",
+    "description": "Construction and Heavy Equipment",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10605080"
+  },
+  {
+    "code": "081",
+    "full_code": "10605081",
+    "description": "Accumulated Depreciation - Construction and Heavy Equipment",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10605081"
+  },
+  {
+    "code": "082",
+    "full_code": "10605082",
+    "description": "Accumulated Impairment Losses - Construction and Heavy Equipment",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10605082"
+  },
+  {
+    "code": "090",
+    "full_code": "10605090",
+    "description": "Disaster Response and Rescue Equipment",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10605090"
+  },
+  {
+    "code": "091",
+    "full_code": "10605091",
+    "description": "Accumulated Depreciation - Disaster Response and Rescue Equipment",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10605091"
+  },
+  {
+    "code": "092",
+    "full_code": "10605092",
+    "description": "Accumulated Impairment Losses - Disaster Response and Rescue Equipment",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10605092"
+  },
+  {
+    "code": "100",
+    "full_code": "10605100",
+    "description": "Military, Police and Security Equipment",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10605100"
+  },
+  {
+    "code": "101",
+    "full_code": "10605101",
+    "description": "Accumulated Depreciation - Military, Police and Security Equipment",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10605101"
+  },
+  {
+    "code": "102",
+    "full_code": "10605102",
+    "description": "Accumulated Impairment Losses - Military, Police and Security Equipment",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10605102"
+  },
+  {
+    "code": "110",
+    "full_code": "10605110",
+    "description": "Medical Equipment",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10605110"
+  },
+  {
+    "code": "111",
+    "full_code": "10605111",
+    "description": "Accumulated Depreciation - Medical Equipment",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10605111"
+  },
+  {
+    "code": "112",
+    "full_code": "10605112",
+    "description": "Accumulated Impairment Losses - Medical Equipment",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10605112"
+  },
+  {
+    "code": "120",
+    "full_code": "10605120",
+    "description": "Printing Equipment",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10605120"
+  },
+  {
+    "code": "121",
+    "full_code": "10605121",
+    "description": "Accumulated Depreciation - Printing Equipment",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10605121"
+  },
+  {
+    "code": "122",
+    "full_code": "10605122",
+    "description": "Accumulated Impairment Losses - Printing Equipment",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10605122"
+  },
+  {
+    "code": "130",
+    "full_code": "10605130",
+    "description": "Sports Equipment",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10605130"
+  },
+  {
+    "code": "131",
+    "full_code": "10605131",
+    "description": "Accumulated Depreciation - Sports Equipment",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10605131"
+  },
+  {
+    "code": "132",
+    "full_code": "10605132",
+    "description": "Accumulated Impairment Losses - Sports Equipment",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10605132"
+  },
+  {
+    "code": "140",
+    "full_code": "10605140",
+    "description": "Technical and Scientific Equipment",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10605140"
+  },
+  {
+    "code": "141",
+    "full_code": "10605141",
+    "description": "Accumulated Depreciation - Technical and Scientific Equipment",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10605141"
+  },
+  {
+    "code": "142",
+    "full_code": "10605142",
+    "description": "Accumulated Impairment Losses - Technical and Scientific Equipment",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10605142"
+  },
+  {
+    "code": "990",
+    "full_code": "10605990",
+    "description": "Other Equipment",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10605990"
+  },
+  {
+    "code": "991",
+    "full_code": "10605991",
+    "description": "Accumulated Depreciation - Other Equipment",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10605991"
+  },
+  {
+    "code": "992",
+    "full_code": "10605992",
+    "description": "Accumulated Impairment Losses - Other Equipment",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10605992"
+  },
+  {
+    "code": "010",
+    "full_code": "10606010",
+    "description": "Motor Vehicles",
+    "group_code": "06",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10606010"
+  },
+  {
+    "code": "011",
+    "full_code": "10606011",
+    "description": "Accumulated Depreciation - Motor Vehicles",
+    "group_code": "06",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10606011"
+  },
+  {
+    "code": "012",
+    "full_code": "10606012",
+    "description": "Accumulated Impairment Losses - Motor Vehicles",
+    "group_code": "06",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10606012"
+  },
+  {
+    "code": "020",
+    "full_code": "10606020",
+    "description": "Trains",
+    "group_code": "06",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10606020"
+  },
+  {
+    "code": "021",
+    "full_code": "10606021",
+    "description": "Accumulated Depreciation - Trains",
+    "group_code": "06",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10606021"
+  },
+  {
+    "code": "022",
+    "full_code": "10606022",
+    "description": "Accumulated Impairment Losses - Trains",
+    "group_code": "06",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10606022"
+  },
+  {
+    "code": "030",
+    "full_code": "10606030",
+    "description": "Aircrafts and Aircrafts Ground Equipment",
+    "group_code": "06",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10606030"
+  },
+  {
+    "code": "031",
+    "full_code": "10606031",
+    "description": "Accumulated Depreciation - Aircrafts and Aircrafts Ground Equipment",
+    "group_code": "06",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10606031"
+  },
+  {
+    "code": "032",
+    "full_code": "10606032",
+    "description": "Accumulated Impairment Losses - Aircrafts and Aircrafts Ground Equipment",
+    "group_code": "06",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10606032"
+  },
+  {
+    "code": "040",
+    "full_code": "10606040",
+    "description": "Watercrafts",
+    "group_code": "06",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10606040"
+  },
+  {
+    "code": "041",
+    "full_code": "10606041",
+    "description": "Accumulated Depreciation - Watercrafts",
+    "group_code": "06",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10606041"
+  },
+  {
+    "code": "042",
+    "full_code": "10606042",
+    "description": "Accumulated Impairment Losses - Watercrafts",
+    "group_code": "06",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10606042"
+  },
+  {
+    "code": "990",
+    "full_code": "10606990",
+    "description": "Other Transportation Equipment",
+    "group_code": "06",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10606990"
+  },
+  {
+    "code": "991",
+    "full_code": "10606991",
+    "description": "Accumulated Depreciation - Other Transportation Equipment",
+    "group_code": "06",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10606991"
+  },
+  {
+    "code": "992",
+    "full_code": "10606992",
+    "description": "Accumulated Impairment Losses - Other Transportation Equipment",
+    "group_code": "06",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10606992"
+  },
+  {
+    "code": "010",
+    "full_code": "10607010",
+    "description": "Furniture and Fixtures",
+    "group_code": "07",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10607010"
+  },
+  {
+    "code": "011",
+    "full_code": "10607011",
+    "description": "Accumulated Depreciation - Furniture and Fixtures",
+    "group_code": "07",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10607011"
+  },
+  {
+    "code": "012",
+    "full_code": "10607012",
+    "description": "Accumulated Impairment Losses - Furniture and Fixtures",
+    "group_code": "07",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10607012"
+  },
+  {
+    "code": "020",
+    "full_code": "10607020",
+    "description": "Books",
+    "group_code": "07",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10607020"
+  },
+  {
+    "code": "021",
+    "full_code": "10607021",
+    "description": "Accumulated Depreciation - Books",
+    "group_code": "07",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10607021"
+  },
+  {
+    "code": "022",
+    "full_code": "10607022",
+    "description": "Accumulated Impairment Losses - Books",
+    "group_code": "07",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10607022"
+  },
+  {
+    "code": "010",
+    "full_code": "10608010",
+    "description": "Leased Asset, Land",
+    "group_code": "08",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10608010"
+  },
+  {
+    "code": "020",
+    "full_code": "10608020",
+    "description": "Leased Asset, Buildings and Other Structures",
+    "group_code": "08",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10608020"
+  },
+  {
+    "code": "021",
+    "full_code": "10608021",
+    "description": "Accumulated Depreciation - Leased Asset, Buildings and Other Structures",
+    "group_code": "08",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10608021"
+  },
+  {
+    "code": "022",
+    "full_code": "10608022",
+    "description": "Accumulated Impairment Losses - Leased Asset, Buildings and Other Structures",
+    "group_code": "08",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10608022"
+  },
+  {
+    "code": "030",
+    "full_code": "10608030",
+    "description": "Leased Asset, Machinery and Equipment",
+    "group_code": "08",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10608030"
+  },
+  {
+    "code": "031",
+    "full_code": "10608031",
+    "description": "Accumulated Depreciation - Leased Asset, Machinery and Equipment",
+    "group_code": "08",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10608031"
+  },
+  {
+    "code": "032",
+    "full_code": "10608032",
+    "description": "Accumulated Impairment Losses - Leased Asset, Machinery and Equipment",
+    "group_code": "08",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10608032"
+  },
+  {
+    "code": "040",
+    "full_code": "10608040",
+    "description": "Leased Asset, Transportation Equipment",
+    "group_code": "08",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10608040"
+  },
+  {
+    "code": "041",
+    "full_code": "10608041",
+    "description": "Accumulated Depreciation - Leased Asset, Transportation Equipment",
+    "group_code": "08",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10608041"
+  },
+  {
+    "code": "042",
+    "full_code": "10608042",
+    "description": "Accumulated Impairment Losses - Leased Asset, Transportation Equipment",
+    "group_code": "08",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10608042"
+  },
+  {
+    "code": "990",
+    "full_code": "10608990",
+    "description": "Other Leased Assets",
+    "group_code": "08",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10608990"
+  },
+  {
+    "code": "991",
+    "full_code": "10608991",
+    "description": "Accumulated Depreciation - Other Leased Assets",
+    "group_code": "08",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10608991"
+  },
+  {
+    "code": "992",
+    "full_code": "10608992",
+    "description": "Accumulated Impairment Losses - Other Leased Assets",
+    "group_code": "08",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10608992"
+  },
+  {
+    "code": "010",
+    "full_code": "10609010",
+    "description": "Leased Asset Improvements, Land",
+    "group_code": "09",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10609010"
+  },
+  {
+    "code": "011",
+    "full_code": "10609011",
+    "description": "Accumulated Depreciation - Leased Asset Improvements, Land",
+    "group_code": "09",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10609011"
+  },
+  {
+    "code": "012",
+    "full_code": "10609012",
+    "description": "Accumulated Impairment Losses - Leased Asset Improvements, Land",
+    "group_code": "09",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10609012"
+  },
+  {
+    "code": "020",
+    "full_code": "10609020",
+    "description": "Leased Asset Improvements, Buildings and Other Structures",
+    "group_code": "09",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10609020"
+  },
+  {
+    "code": "021",
+    "full_code": "10609021",
+    "description": "Accumulated Depreciation - Leased Asset Improvements, Buildings and Other Structures",
+    "group_code": "09",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10609021"
+  },
+  {
+    "code": "022",
+    "full_code": "10609022",
+    "description": "Accumulated Impairment Losses - Leased Asset Improvements, Buildings and Other Structures",
+    "group_code": "09",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10609022"
+  },
+  {
+    "code": "990",
+    "full_code": "10609990",
+    "description": "Other Leased Assets Improvements",
+    "group_code": "09",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10609990"
+  },
+  {
+    "code": "991",
+    "full_code": "10609991",
+    "description": "Accumulated Depreciation - Other Leased Assets Improvements",
+    "group_code": "09",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10609991"
+  },
+  {
+    "code": "992",
+    "full_code": "10609992",
+    "description": "Accumulated Impairment Losses - Other Leased Assets Improvements",
+    "group_code": "09",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10609992"
+  },
+  {
+    "code": "010",
+    "full_code": "10610010",
+    "description": "Construction in Progress - Land Improvements",
+    "group_code": "10",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10610010"
+  },
+  {
+    "code": "020",
+    "full_code": "10610020",
+    "description": "Construction in Progress - Infrastructure Assets",
+    "group_code": "10",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10610020"
+  },
+  {
+    "code": "030",
+    "full_code": "10610030",
+    "description": "Construction in Progress - Buildings and Other Structures",
+    "group_code": "10",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10610030"
+  },
+  {
+    "code": "040",
+    "full_code": "10610040",
+    "description": "Construction in Progress - Leased Assets",
+    "group_code": "10",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10610040"
+  },
+  {
+    "code": "050",
+    "full_code": "10610050",
+    "description": "Construction in Progress - Leased Assets Improvements",
+    "group_code": "10",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10610050"
+  },
+  {
+    "code": "010",
+    "full_code": "10611010",
+    "description": "Historical Buildings",
+    "group_code": "11",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10611010"
+  },
+  {
+    "code": "011",
+    "full_code": "10611011",
+    "description": "Accumulated Depreciation - Historical Buildings",
+    "group_code": "11",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10611011"
+  },
+  {
+    "code": "012",
+    "full_code": "10611012",
+    "description": "Accumulated Impairment Losses - Historical Buildings",
+    "group_code": "11",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10611012"
+  },
+  {
+    "code": "020",
+    "full_code": "10611020",
+    "description": "Works of Arts and Archeological Specimens",
+    "group_code": "11",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10611020"
+  },
+  {
+    "code": "021",
+    "full_code": "10611021",
+    "description": "Accumulated Depreciation - Works of Arts and Archeological Specimens",
+    "group_code": "11",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10611021"
+  },
+  {
+    "code": "022",
+    "full_code": "10611022",
+    "description": "Accumulated Impairment Losses - Works of Arts and Archeological Specimens",
+    "group_code": "11",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10611022"
+  },
+  {
+    "code": "990",
+    "full_code": "10611990",
+    "description": "Other Heritage Assets",
+    "group_code": "11",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10611990"
+  },
+  {
+    "code": "991",
+    "full_code": "10611991",
+    "description": "Accumulated Depreciation - Other Heritage Assets",
+    "group_code": "11",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10611991"
+  },
+  {
+    "code": "992",
+    "full_code": "10611992",
+    "description": "Accumulated Impairment Losses - Other Heritage Assets",
+    "group_code": "11",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10611992"
+  },
+  {
+    "code": "010",
+    "full_code": "10612010",
+    "description": "Service Concession - Road Networks",
+    "group_code": "12",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10612010"
+  },
+  {
+    "code": "011",
+    "full_code": "10612011",
+    "description": "Accumulated Depreciation - Service Concession - Road Networks",
+    "group_code": "12",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10612011"
+  },
+  {
+    "code": "012",
+    "full_code": "10612012",
+    "description": "Accumulated Impairment Losses - Service Concession - Road Networks",
+    "group_code": "12",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10612012"
+  },
+  {
+    "code": "020",
+    "full_code": "10612020",
+    "description": "Service Concession - Flood Control Systems",
+    "group_code": "12",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10612020"
+  },
+  {
+    "code": "021",
+    "full_code": "10612021",
+    "description": "Accumulated Depreciation - Service Concession - Flood Control Systems",
+    "group_code": "12",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10612021"
+  },
+  {
+    "code": "022",
+    "full_code": "10612022",
+    "description": "Accumulated Impairment Losses - Service Concession - Flood Control Systems",
+    "group_code": "12",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10612022"
+  },
+  {
+    "code": "030",
+    "full_code": "10612030",
+    "description": "Service Concession - Sewer Systems",
+    "group_code": "12",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10612030"
+  },
+  {
+    "code": "031",
+    "full_code": "10612031",
+    "description": "Accumulated Depreciation - Service Concession - Sewer Systems",
+    "group_code": "12",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10612031"
+  },
+  {
+    "code": "032",
+    "full_code": "10612032",
+    "description": "Accumulated Impairment Losses - Service Concession - Sewer Systems",
+    "group_code": "12",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10612032"
+  },
+  {
+    "code": "040",
+    "full_code": "10612040",
+    "description": "Service Concession - Water Supply Systems",
+    "group_code": "12",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10612040"
+  },
+  {
+    "code": "041",
+    "full_code": "10612041",
+    "description": "Accumulated Depreciation - Service Concession - Water Supply Systems",
+    "group_code": "12",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10612041"
+  },
+  {
+    "code": "042",
+    "full_code": "10612042",
+    "description": "Accumulated Impairment Losses - Service Concession - Water Supply Systems",
+    "group_code": "12",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10612042"
+  },
+  {
+    "code": "050",
+    "full_code": "10612050",
+    "description": "Service Concession - Power Supply Systems",
+    "group_code": "12",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10612050"
+  },
+  {
+    "code": "051",
+    "full_code": "10612051",
+    "description": "Accumulated Depreciation - Service Concession - Power Supply Systems",
+    "group_code": "12",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10612051"
+  },
+  {
+    "code": "052",
+    "full_code": "10612052",
+    "description": "Accumulated Impairment Losses - Service Concession - Power Supply Systems",
+    "group_code": "12",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10612052"
+  },
+  {
+    "code": "060",
+    "full_code": "10612060",
+    "description": "Service Concession - Communication Networks",
+    "group_code": "12",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10612060"
+  },
+  {
+    "code": "061",
+    "full_code": "10612061",
+    "description": "Accumulated Depreciation - Service Concession - Communication Networks",
+    "group_code": "12",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10612061"
+  },
+  {
+    "code": "062",
+    "full_code": "10612062",
+    "description": "Accumulated Impairment Losses - Service Concession - Communication Networks",
+    "group_code": "12",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10612062"
+  },
+  {
+    "code": "070",
+    "full_code": "10612070",
+    "description": "Service Concession - Seaport Systems",
+    "group_code": "12",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10612070"
+  },
+  {
+    "code": "071",
+    "full_code": "10612071",
+    "description": "Accumulated Depreciation - Service Concession - Seaport Systems",
+    "group_code": "12",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10612071"
+  },
+  {
+    "code": "072",
+    "full_code": "10612072",
+    "description": "Accumulated Impairment Losses - Service Concession - Seaport Systems",
+    "group_code": "12",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10612072"
+  },
+  {
+    "code": "080",
+    "full_code": "10612080",
+    "description": "Service Concession - Airport Systems",
+    "group_code": "12",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10612080"
+  },
+  {
+    "code": "081",
+    "full_code": "10612081",
+    "description": "Accumulated Depreciation - Service Concession - Airport Systems",
+    "group_code": "12",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10612081"
+  },
+  {
+    "code": "082",
+    "full_code": "10612082",
+    "description": "Accumulated Impairment Losses - Service Concession - Airport Systems",
+    "group_code": "12",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10612082"
+  },
+  {
+    "code": "090",
+    "full_code": "10612090",
+    "description": "Service Concession - Parks, Plazas and Monuments",
+    "group_code": "12",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10612090"
+  },
+  {
+    "code": "091",
+    "full_code": "10612091",
+    "description": "Accumulated Depreciation - Service Concession - Parks, Plazas and Monuments",
+    "group_code": "12",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10612091"
+  },
+  {
+    "code": "092",
+    "full_code": "10612092",
+    "description": "Accumulated Impairment Losses - Service Concession - Parks, Plazas and Monuments",
+    "group_code": "12",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10612092"
+  },
+  {
+    "code": "990",
+    "full_code": "10612990",
+    "description": "Other Service Concession Assets",
+    "group_code": "12",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10612990"
+  },
+  {
+    "code": "991",
+    "full_code": "10612991",
+    "description": "Accumulated Depreciation - Other Service Concession Assets",
+    "group_code": "12",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10612991"
+  },
+  {
+    "code": "992",
+    "full_code": "10612992",
+    "description": "Accumulated Impairment Losses - Other Service Concession Assets",
+    "group_code": "12",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10612992"
+  },
+  {
+    "code": "010",
+    "full_code": "10699010",
+    "description": "Work/Zoo and/or Other Animals",
+    "group_code": "99",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10699010"
+  },
+  {
+    "code": "011",
+    "full_code": "10699011",
+    "description": "Accumulated Depreciation - Work/Zoo and/or Other Animals",
+    "group_code": "99",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10699011"
+  },
+  {
+    "code": "012",
+    "full_code": "10699012",
+    "description": "Accumulated Impairment Losses - Work/Zoo and/or Other Animals",
+    "group_code": "99",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10699012"
+  },
+  {
+    "code": "990",
+    "full_code": "10699990",
+    "description": "Other Property, Plant and Equipment",
+    "group_code": "99",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10699990"
+  },
+  {
+    "code": "991",
+    "full_code": "10699991",
+    "description": "Accumulated Depreciation - Other Property, Plant and Equipment",
+    "group_code": "99",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10699991"
+  },
+  {
+    "code": "992",
+    "full_code": "10699992",
+    "description": "Accumulated Impairment Losses - Other Property, Plant and Equipment",
+    "group_code": "99",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "uacs_code": "10699992"
+  },
+  {
+    "code": "010",
+    "full_code": "10701010",
+    "description": "Breeding Stocks",
+    "group_code": "01",
+    "sub_class_code": "07",
+    "classification_code": "1",
+    "uacs_code": "10701010"
+  },
+  {
+    "code": "011",
+    "full_code": "10701011",
+    "description": "Accumulated Depreciation - Breeding Stocks",
+    "group_code": "01",
+    "sub_class_code": "07",
+    "classification_code": "1",
+    "uacs_code": "10701011"
+  },
+  {
+    "code": "020",
+    "full_code": "10701020",
+    "description": "Livestock",
+    "group_code": "01",
+    "sub_class_code": "07",
+    "classification_code": "1",
+    "uacs_code": "10701020"
+  },
+  {
+    "code": "021",
+    "full_code": "10701021",
+    "description": "Accumulated Depreciation - Livestock",
+    "group_code": "01",
+    "sub_class_code": "07",
+    "classification_code": "1",
+    "uacs_code": "10701021"
+  },
+  {
+    "code": "030",
+    "full_code": "10701030",
+    "description": "Trees, Plants and Crops",
+    "group_code": "01",
+    "sub_class_code": "07",
+    "classification_code": "1",
+    "uacs_code": "10701030"
+  },
+  {
+    "code": "031",
+    "full_code": "10701031",
+    "description": "Accumulated Depreciation - Trees, Plants and Crops",
+    "group_code": "01",
+    "sub_class_code": "07",
+    "classification_code": "1",
+    "uacs_code": "10701031"
+  },
+  {
+    "code": "040",
+    "full_code": "10701040",
+    "description": "Aquaculture",
+    "group_code": "01",
+    "sub_class_code": "07",
+    "classification_code": "1",
+    "uacs_code": "10701040"
+  },
+  {
+    "code": "041",
+    "full_code": "10701041",
+    "description": "Accumulated Depreciation - Aquaculture",
+    "group_code": "01",
+    "sub_class_code": "07",
+    "classification_code": "1",
+    "uacs_code": "10701041"
+  },
+  {
+    "code": "990",
+    "full_code": "10701990",
+    "description": "Other Bearer Biological Assets",
+    "group_code": "01",
+    "sub_class_code": "07",
+    "classification_code": "1",
+    "uacs_code": "10701990"
+  },
+  {
+    "code": "991",
+    "full_code": "10701991",
+    "description": "Accumulated Depreciation - Other Bearer Biological Assets",
+    "group_code": "01",
+    "sub_class_code": "07",
+    "classification_code": "1",
+    "uacs_code": "10701991"
+  },
+  {
+    "code": "010",
+    "full_code": "10702010",
+    "description": "Livestock Held for Consumption/Sale/Distribution",
+    "group_code": "02",
+    "sub_class_code": "07",
+    "classification_code": "1",
+    "uacs_code": "10702010"
+  },
+  {
+    "code": "011",
+    "full_code": "10702011",
+    "description": "Accumulated Impairment Losses - Livestock Held for Consumption/Sale/Distribution",
+    "group_code": "02",
+    "sub_class_code": "07",
+    "classification_code": "1",
+    "uacs_code": "10702011"
+  },
+  {
+    "code": "020",
+    "full_code": "10702020",
+    "description": "Trees, Plants and Crops Held for Consumption/Sale/Distribution",
+    "group_code": "02",
+    "sub_class_code": "07",
+    "classification_code": "1",
+    "uacs_code": "10702020"
+  },
+  {
+    "code": "021",
+    "full_code": "10702021",
+    "description": "Accumulated Impairment Losses - Trees, Plants and Crops Held for Consumption/Sale/Distribution",
+    "group_code": "02",
+    "sub_class_code": "07",
+    "classification_code": "1",
+    "uacs_code": "10702021"
+  },
+  {
+    "code": "030",
+    "full_code": "10702030",
+    "description": "Agricultural Produce Held for Consumption/Sale/Distribution",
+    "group_code": "02",
+    "sub_class_code": "07",
+    "classification_code": "1",
+    "uacs_code": "10702030"
+  },
+  {
+    "code": "031",
+    "full_code": "10702031",
+    "description": "Accumulated Impairment Losses - Agricultural Produce Held for Consumption/Sale/Distribution",
+    "group_code": "02",
+    "sub_class_code": "07",
+    "classification_code": "1",
+    "uacs_code": "10702031"
+  },
+  {
+    "code": "040",
+    "full_code": "10702040",
+    "description": "Aquaculture",
+    "group_code": "02",
+    "sub_class_code": "07",
+    "classification_code": "1",
+    "uacs_code": "10702040"
+  },
+  {
+    "code": "041",
+    "full_code": "10702041",
+    "description": "Accumulated Impairment Losses - Aquaculture",
+    "group_code": "02",
+    "sub_class_code": "07",
+    "classification_code": "1",
+    "uacs_code": "10702041"
+  },
+  {
+    "code": "990",
+    "full_code": "10702990",
+    "description": "Other Consumable Biological Assets",
+    "group_code": "02",
+    "sub_class_code": "07",
+    "classification_code": "1",
+    "uacs_code": "10702990"
+  },
+  {
+    "code": "991",
+    "full_code": "10702991",
+    "description": "Accumulated Impairment Losses- Other Consumable Biological Assets",
+    "group_code": "02",
+    "sub_class_code": "07",
+    "classification_code": "1",
+    "uacs_code": "10702991"
+  },
+  {
+    "code": "010",
+    "full_code": "10801010",
+    "description": "Patents",
+    "group_code": "01",
+    "sub_class_code": "08",
+    "classification_code": "1",
+    "uacs_code": "10801010"
+  },
+  {
+    "code": "011",
+    "full_code": "10801011",
+    "description": "Accumulated Amortization - Patents",
+    "group_code": "01",
+    "sub_class_code": "08",
+    "classification_code": "1",
+    "uacs_code": "10801011"
+  },
+  {
+    "code": "020",
+    "full_code": "10801020",
+    "description": "Computer Software",
+    "group_code": "01",
+    "sub_class_code": "08",
+    "classification_code": "1",
+    "uacs_code": "10801020"
+  },
+  {
+    "code": "021",
+    "full_code": "10801021",
+    "description": "Accumulated Amortization - Computer Software",
+    "group_code": "01",
+    "sub_class_code": "08",
+    "classification_code": "1",
+    "uacs_code": "10801021"
+  },
+  {
+    "code": "990",
+    "full_code": "10801990",
+    "description": "Other Intangible Assets",
+    "group_code": "01",
+    "sub_class_code": "08",
+    "classification_code": "1",
+    "uacs_code": "10801990"
+  },
+  {
+    "code": "991",
+    "full_code": "10801991",
+    "description": "Accumulated Amortization - Other Intangible Assets",
+    "group_code": "01",
+    "sub_class_code": "08",
+    "classification_code": "1",
+    "uacs_code": "10801991"
+  },
+  {
+    "code": "010",
+    "full_code": "19901010",
+    "description": "Advances for Operation Expenses",
+    "group_code": "01",
+    "sub_class_code": "99",
+    "classification_code": "1",
+    "uacs_code": "19901010"
+  },
+  {
+    "code": "020",
+    "full_code": "19901020",
+    "description": "Advances for Payroll",
+    "group_code": "01",
+    "sub_class_code": "99",
+    "classification_code": "1",
+    "uacs_code": "19901020"
+  },
+  {
+    "code": "030",
+    "full_code": "19901030",
+    "description": "Advances to Special Disbursing Officer",
+    "group_code": "01",
+    "sub_class_code": "99",
+    "classification_code": "1",
+    "uacs_code": "19901030"
+  },
+  {
+    "code": "040",
+    "full_code": "19901040",
+    "description": "Advances to Officers and Employees",
+    "group_code": "01",
+    "sub_class_code": "99",
+    "classification_code": "1",
+    "uacs_code": "19901040"
+  },
+  {
+    "code": "010",
+    "full_code": "19902010",
+    "description": "Advances to Contractors",
+    "group_code": "02",
+    "sub_class_code": "99",
+    "classification_code": "1",
+    "uacs_code": "19902010"
+  },
+  {
+    "code": "020",
+    "full_code": "19902020",
+    "description": "Prepaid Rent",
+    "group_code": "02",
+    "sub_class_code": "99",
+    "classification_code": "1",
+    "uacs_code": "19902020"
+  },
+  {
+    "code": "030",
+    "full_code": "19902030",
+    "description": "Prepaid Registration",
+    "group_code": "02",
+    "sub_class_code": "99",
+    "classification_code": "1",
+    "uacs_code": "19902030"
+  },
+  {
+    "code": "040",
+    "full_code": "19902040",
+    "description": "Prepaid Interest",
+    "group_code": "02",
+    "sub_class_code": "99",
+    "classification_code": "1",
+    "uacs_code": "19902040"
+  },
+  {
+    "code": "050",
+    "full_code": "19902050",
+    "description": "Prepaid Insurance",
+    "group_code": "02",
+    "sub_class_code": "99",
+    "classification_code": "1",
+    "uacs_code": "19902050"
+  },
+  {
+    "code": "100",
+    "full_code": "19902100",
+    "description": "Prepaid Subscription",
+    "group_code": "02",
+    "sub_class_code": "99",
+    "classification_code": "1",
+    "uacs_code": "19902100"
+  },
+  {
+    "code": "990",
+    "full_code": "19902990",
+    "description": "Other Prepayments",
+    "group_code": "02",
+    "sub_class_code": "99",
+    "classification_code": "1",
+    "uacs_code": "19902990"
+  },
+  {
+    "code": "010",
+    "full_code": "19903010",
+    "description": "Deposit on Letters of Credit",
+    "group_code": "03",
+    "sub_class_code": "99",
+    "classification_code": "1",
+    "uacs_code": "19903010"
+  },
+  {
+    "code": "020",
+    "full_code": "19903020",
+    "description": "Guaranty Deposits",
+    "group_code": "03",
+    "sub_class_code": "99",
+    "classification_code": "1",
+    "uacs_code": "19903020"
+  },
+  {
+    "code": "990",
+    "full_code": "19903990",
+    "description": "Other Deposits",
+    "group_code": "03",
+    "sub_class_code": "99",
+    "classification_code": "1",
+    "uacs_code": "19903990"
+  },
+  {
+    "code": "010",
+    "full_code": "19999010",
+    "description": "Acquired Assets",
+    "group_code": "99",
+    "sub_class_code": "99",
+    "classification_code": "1",
+    "uacs_code": "19999010"
+  },
+  {
+    "code": "011",
+    "full_code": "19999011",
+    "description": "Accumulated Impairment Losses - Acquired Assets",
+    "group_code": "99",
+    "sub_class_code": "99",
+    "classification_code": "1",
+    "uacs_code": "19999011"
+  },
+  {
+    "code": "020",
+    "full_code": "19999020",
+    "description": "Foreclosed Property/Assets",
+    "group_code": "99",
+    "sub_class_code": "99",
+    "classification_code": "1",
+    "uacs_code": "19999020"
+  },
+  {
+    "code": "021",
+    "full_code": "19999021",
+    "description": "Accumulated Impairment Losses - Foreclosed Property/Assets",
+    "group_code": "99",
+    "sub_class_code": "99",
+    "classification_code": "1",
+    "uacs_code": "19999021"
+  },
+  {
+    "code": "030",
+    "full_code": "19999030",
+    "description": "Forfeited Property/Assets",
+    "group_code": "99",
+    "sub_class_code": "99",
+    "classification_code": "1",
+    "uacs_code": "19999030"
+  },
+  {
+    "code": "031",
+    "full_code": "19999031",
+    "description": "Accumulated Impairment Losses - Forfeited Property/Assets",
+    "group_code": "99",
+    "sub_class_code": "99",
+    "classification_code": "1",
+    "uacs_code": "19999031"
+  },
+  {
+    "code": "040",
+    "full_code": "19999040",
+    "description": "Confiscated Property/Assets",
+    "group_code": "99",
+    "sub_class_code": "99",
+    "classification_code": "1",
+    "uacs_code": "19999040"
+  },
+  {
+    "code": "041",
+    "full_code": "19999041",
+    "description": "Accumulated Impairment Losses - Confiscated Property/Assets",
+    "group_code": "99",
+    "sub_class_code": "99",
+    "classification_code": "1",
+    "uacs_code": "19999041"
+  },
+  {
+    "code": "050",
+    "full_code": "19999050",
+    "description": "Abandoned/Surrendered Property/Assets",
+    "group_code": "99",
+    "sub_class_code": "99",
+    "classification_code": "1",
+    "uacs_code": "19999050"
+  },
+  {
+    "code": "051",
+    "full_code": "19999051",
+    "description": "Accumulated Impairment Losses - Abandoned Property Assets",
+    "group_code": "99",
+    "sub_class_code": "99",
+    "classification_code": "1",
+    "uacs_code": "19999051"
+  },
+  {
+    "code": "990",
+    "full_code": "19999990",
+    "description": "Other Assets",
+    "group_code": "99",
+    "sub_class_code": "99",
+    "classification_code": "1",
+    "uacs_code": "19999990"
+  },
+  {
+    "code": "991",
+    "full_code": "19999991",
+    "description": "Accumulated Impairment Losses - Other Assets",
+    "group_code": "99",
+    "sub_class_code": "99",
+    "classification_code": "1",
+    "uacs_code": "19999991"
+  },
+  {
+    "code": "010",
+    "full_code": "20101010",
+    "description": "Accounts Payable",
+    "group_code": "01",
+    "sub_class_code": "01",
+    "classification_code": "2",
+    "uacs_code": "20101010"
+  },
+  {
+    "code": "020",
+    "full_code": "20101020",
+    "description": "Due to Officers and Employees",
+    "group_code": "01",
+    "sub_class_code": "01",
+    "classification_code": "2",
+    "uacs_code": "20101020"
+  },
+  {
+    "code": "030",
+    "full_code": "20101030",
+    "description": "Internal Revenue Allotment Payable",
+    "group_code": "01",
+    "sub_class_code": "01",
+    "classification_code": "2",
+    "uacs_code": "20101030"
+  },
+  {
+    "code": "040",
+    "full_code": "20101040",
+    "description": "Notes Payable",
+    "group_code": "01",
+    "sub_class_code": "01",
+    "classification_code": "2",
+    "uacs_code": "20101040"
+  },
+  {
+    "code": "050",
+    "full_code": "20101050",
+    "description": "Interest Payable",
+    "group_code": "01",
+    "sub_class_code": "01",
+    "classification_code": "2",
+    "uacs_code": "20101050"
+  },
+  {
+    "code": "060",
+    "full_code": "20101060",
+    "description": "Operating Lease Payable",
+    "group_code": "01",
+    "sub_class_code": "01",
+    "classification_code": "2",
+    "uacs_code": "20101060"
+  },
+  {
+    "code": "070",
+    "full_code": "20101070",
+    "description": "Finance Lease Payable",
+    "group_code": "01",
+    "sub_class_code": "01",
+    "classification_code": "2",
+    "uacs_code": "20101070"
+  },
+  {
+    "code": "080",
+    "full_code": "20101080",
+    "description": "Awards and Rewards Payable",
+    "group_code": "01",
+    "sub_class_code": "01",
+    "classification_code": "2",
+    "uacs_code": "20101080"
+  },
+  {
+    "code": "090",
+    "full_code": "20101090",
+    "description": "Service Concession Arrangements Payable",
+    "group_code": "01",
+    "sub_class_code": "01",
+    "classification_code": "2",
+    "uacs_code": "20101090"
+  },
+  {
+    "code": "010",
+    "full_code": "20102010",
+    "description": "Treasury Bills Payable",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "2",
+    "uacs_code": "20102010"
+  },
+  {
+    "code": "020",
+    "full_code": "20102020",
+    "description": "Bonds Payable - Domestic",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "2",
+    "uacs_code": "20102020"
+  },
+  {
+    "code": "021",
+    "full_code": "20102021",
+    "description": "Discount on Bonds Payable - Domestic",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "2",
+    "uacs_code": "20102021"
+  },
+  {
+    "code": "022",
+    "full_code": "20102022",
+    "description": "Premium on Bonds Payable - Domestic",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "2",
+    "uacs_code": "20102022"
+  },
+  {
+    "code": "030",
+    "full_code": "20102030",
+    "description": "Bonds Payable - Foreign",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "2",
+    "uacs_code": "20102030"
+  },
+  {
+    "code": "031",
+    "full_code": "20102031",
+    "description": "Discount on Bonds Payable - Foreign",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "2",
+    "uacs_code": "20102031"
+  },
+  {
+    "code": "032",
+    "full_code": "20102032",
+    "description": "Premium on Bonds Payable - Foreign",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "2",
+    "uacs_code": "20102032"
+  },
+  {
+    "code": "040",
+    "full_code": "20102040",
+    "description": "Loans Payable - Domestic",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "2",
+    "uacs_code": "20102040"
+  },
+  {
+    "code": "050",
+    "full_code": "20102050",
+    "description": "Loans Payable - Foreign",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "2",
+    "uacs_code": "20102050"
+  },
+  {
+    "code": "010",
+    "full_code": "20201010",
+    "description": "Due to BIR",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "2",
+    "uacs_code": "20201010"
+  },
+  {
+    "code": "020",
+    "full_code": "20201020",
+    "description": "Due to GSIS",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "2",
+    "uacs_code": "20201020"
+  },
+  {
+    "code": "030",
+    "full_code": "20201030",
+    "description": "Due to Pag-IBIG",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "2",
+    "uacs_code": "20201030"
+  },
+  {
+    "code": "040",
+    "full_code": "20201040",
+    "description": "Due to PhilHealth",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "2",
+    "uacs_code": "20201040"
+  },
+  {
+    "code": "050",
+    "full_code": "20201050",
+    "description": "Due to National Government Agencies",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "2",
+    "uacs_code": "20201050"
+  },
+  {
+    "code": "060",
+    "full_code": "20201060",
+    "description": "Due to Government-Owned or Controlled Corporations",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "2",
+    "uacs_code": "20201060"
+  },
+  {
+    "code": "070",
+    "full_code": "20201070",
+    "description": "Due to Local Government Units",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "2",
+    "uacs_code": "20201070"
+  },
+  {
+    "code": "080",
+    "full_code": "20201080",
+    "description": "Due to Joint Venture",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "2",
+    "uacs_code": "20201080"
+  },
+  {
+    "code": "010",
+    "full_code": "20301010",
+    "description": "Due to Central Office",
+    "group_code": "01",
+    "sub_class_code": "03",
+    "classification_code": "2",
+    "uacs_code": "20301010"
+  },
+  {
+    "code": "020",
+    "full_code": "20301020",
+    "description": "Due to Bureaus",
+    "group_code": "01",
+    "sub_class_code": "03",
+    "classification_code": "2",
+    "uacs_code": "20301020"
+  },
+  {
+    "code": "030",
+    "full_code": "20301030",
+    "description": "Due to Regional Offices",
+    "group_code": "01",
+    "sub_class_code": "03",
+    "classification_code": "2",
+    "uacs_code": "20301030"
+  },
+  {
+    "code": "040",
+    "full_code": "20301040",
+    "description": "Due to Operating Units",
+    "group_code": "01",
+    "sub_class_code": "03",
+    "classification_code": "2",
+    "uacs_code": "20301040"
+  },
+  {
+    "code": "050",
+    "full_code": "20301050",
+    "description": "Due to Other Funds",
+    "group_code": "01",
+    "sub_class_code": "03",
+    "classification_code": "2",
+    "uacs_code": "20301050"
+  },
+  {
+    "code": "010",
+    "full_code": "20401010",
+    "description": "Trust Liabilities",
+    "group_code": "01",
+    "sub_class_code": "04",
+    "classification_code": "2",
+    "uacs_code": "20401010"
+  },
+  {
+    "code": "020",
+    "full_code": "20401020",
+    "description": "Trust Liabilities - Disaster Risk Reduction And Management Fund",
+    "group_code": "01",
+    "sub_class_code": "04",
+    "classification_code": "2",
+    "uacs_code": "20401020"
+  },
+  {
+    "code": "030",
+    "full_code": "20401030",
+    "description": "Bail Bonds Payable",
+    "group_code": "01",
+    "sub_class_code": "04",
+    "classification_code": "2",
+    "uacs_code": "20401030"
+  },
+  {
+    "code": "040",
+    "full_code": "20401040",
+    "description": "Guaranty/Security Deposits Payable",
+    "group_code": "01",
+    "sub_class_code": "04",
+    "classification_code": "2",
+    "uacs_code": "20401040"
+  },
+  {
+    "code": "050",
+    "full_code": "20401050",
+    "description": "Customers' Deposits Payable",
+    "group_code": "01",
+    "sub_class_code": "04",
+    "classification_code": "2",
+    "uacs_code": "20401050"
+  },
+  {
+    "code": "010",
+    "full_code": "20501010",
+    "description": "Deferred Finance Lease Revenue",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "2",
+    "uacs_code": "20501010"
+  },
+  {
+    "code": "020",
+    "full_code": "20501020",
+    "description": "Deferred Service Concession Revenue",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "2",
+    "uacs_code": "20501020"
+  },
+  {
+    "code": "990",
+    "full_code": "20501990",
+    "description": "Other Deferred Credits",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "2",
+    "uacs_code": "20501990"
+  },
+  {
+    "code": "010",
+    "full_code": "20502010",
+    "description": "Unearned Revenue - Investment Property",
+    "group_code": "02",
+    "sub_class_code": "05",
+    "classification_code": "2",
+    "uacs_code": "20502010"
+  },
+  {
+    "code": "990",
+    "full_code": "20502990",
+    "description": "Other Unearned Revenue",
+    "group_code": "02",
+    "sub_class_code": "05",
+    "classification_code": "2",
+    "uacs_code": "20502990"
+  },
+  {
+    "code": "010",
+    "full_code": "20601010",
+    "description": "Pension Benefits Payable",
+    "group_code": "01",
+    "sub_class_code": "06",
+    "classification_code": "2",
+    "uacs_code": "20601010"
+  },
+  {
+    "code": "020",
+    "full_code": "20601020",
+    "description": "Leave Benefits Payable",
+    "group_code": "01",
+    "sub_class_code": "06",
+    "classification_code": "2",
+    "uacs_code": "20601020"
+  },
+  {
+    "code": "030",
+    "full_code": "20601030",
+    "description": "Retirement Gratuity Payable",
+    "group_code": "01",
+    "sub_class_code": "06",
+    "classification_code": "2",
+    "uacs_code": "20601030"
+  },
+  {
+    "code": "990",
+    "full_code": "20601990",
+    "description": "Other Provisions",
+    "group_code": "01",
+    "sub_class_code": "06",
+    "classification_code": "2",
+    "uacs_code": "20601990"
+  },
+  {
+    "code": "990",
+    "full_code": "29999990",
+    "description": "Other Payables",
+    "group_code": "99",
+    "sub_class_code": "99",
+    "classification_code": "2",
+    "uacs_code": "29999990"
+  },
+  {
+    "code": "010",
+    "full_code": "30101010",
+    "description": "Accumulated Surplus/(Deficit)",
+    "group_code": "01",
+    "sub_class_code": "01",
+    "classification_code": "3",
+    "uacs_code": "30101010"
+  },
+  {
+    "code": "030",
+    "full_code": "30101030",
+    "description": "Contributed Capital",
+    "group_code": "01",
+    "sub_class_code": "01",
+    "classification_code": "3",
+    "uacs_code": "30101030"
+  },
+  {
+    "code": "010",
+    "full_code": "30201010",
+    "description": "Revaluation Surplus",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "3",
+    "uacs_code": "30201010"
+  },
+  {
+    "code": "010",
+    "full_code": "30301010",
+    "description": "Revenue and Expense Summary",
+    "group_code": "01",
+    "sub_class_code": "03",
+    "classification_code": "3",
+    "uacs_code": "30301010"
+  },
+  {
+    "code": "010",
+    "full_code": "30401010",
+    "description": "Equity in Joint Venture",
+    "group_code": "01",
+    "sub_class_code": "04",
+    "classification_code": "3",
+    "uacs_code": "30401010"
+  },
+  {
+    "code": "010",
+    "full_code": "40101010",
+    "description": "Income Tax",
+    "group_code": "01",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "uacs_code": "40101010"
+  },
+  {
+    "code": "020",
+    "full_code": "40101020",
+    "description": "Professional Tax",
+    "group_code": "01",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "uacs_code": "40101020"
+  },
+  {
+    "code": "030",
+    "full_code": "40101030",
+    "description": "Travel Tax",
+    "group_code": "01",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "uacs_code": "40101030"
+  },
+  {
+    "code": "040",
+    "full_code": "40101040",
+    "description": "Immigration Tax",
+    "group_code": "01",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "uacs_code": "40101040"
+  },
+  {
+    "code": "010",
+    "full_code": "40102010",
+    "description": "Estate Tax",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "uacs_code": "40102010"
+  },
+  {
+    "code": "020",
+    "full_code": "40102020",
+    "description": "Donors Tax",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "uacs_code": "40102020"
+  },
+  {
+    "code": "030",
+    "full_code": "40102030",
+    "description": "Capital Gains Tax",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "uacs_code": "40102030"
+  },
+  {
+    "code": "010",
+    "full_code": "40103010",
+    "description": "Import Duties",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "uacs_code": "40103010"
+  },
+  {
+    "code": "020",
+    "full_code": "40103020",
+    "description": "Excise Tax",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "uacs_code": "40103020"
+  },
+  {
+    "code": "030",
+    "full_code": "40103030",
+    "description": "Business Tax",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "uacs_code": "40103030"
+  },
+  {
+    "code": "040",
+    "full_code": "40103040",
+    "description": "Tax on Sand, Gravel and Other Quarry Products",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "uacs_code": "40103040"
+  },
+  {
+    "code": "050",
+    "full_code": "40103050",
+    "description": "Tax on Delivery Vans and Trucks",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "uacs_code": "40103050"
+  },
+  {
+    "code": "060",
+    "full_code": "40103060",
+    "description": "Tax on Forest Products",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "uacs_code": "40103060"
+  },
+  {
+    "code": "010",
+    "full_code": "40104010",
+    "description": "Documentary Stamp Tax",
+    "group_code": "04",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "uacs_code": "40104010"
+  },
+  {
+    "code": "020",
+    "full_code": "40104020",
+    "description": "Motor Vehicles Users' Charge",
+    "group_code": "04",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "uacs_code": "40104020"
+  },
+  {
+    "code": "990",
+    "full_code": "40104990",
+    "description": "Other Taxes",
+    "group_code": "04",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "uacs_code": "40104990"
+  },
+  {
+    "code": "010",
+    "full_code": "40105010",
+    "description": "Tax Revenue - Fines and Penalties - Taxes on Individual and Corporation",
+    "group_code": "05",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "uacs_code": "40105010"
+  },
+  {
+    "code": "020",
+    "full_code": "40105020",
+    "description": "Tax Revenue - Fines and Penalties - Property Taxes",
+    "group_code": "05",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "uacs_code": "40105020"
+  },
+  {
+    "code": "030",
+    "full_code": "40105030",
+    "description": "Tax Revenue - Fines and Penalties - Taxes on Goods and Services",
+    "group_code": "05",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "uacs_code": "40105030"
+  },
+  {
+    "code": "040",
+    "full_code": "40105040",
+    "description": "Tax Revenue - Fines and Penalties - Other Taxes",
+    "group_code": "05",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "uacs_code": "40105040"
+  },
+  {
+    "code": "010",
+    "full_code": "40201010",
+    "description": "Permit Fees",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "uacs_code": "40201010"
+  },
+  {
+    "code": "020",
+    "full_code": "40201020",
+    "description": "Registration Fees",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "uacs_code": "40201020"
+  },
+  {
+    "code": "030",
+    "full_code": "40201030",
+    "description": "Registration Plates, Tags and Stickers Fees",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "uacs_code": "40201030"
+  },
+  {
+    "code": "040",
+    "full_code": "40201040",
+    "description": "Clearance and Certification Fees",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "uacs_code": "40201040"
+  },
+  {
+    "code": "050",
+    "full_code": "40201050",
+    "description": "Franchising Fees",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "uacs_code": "40201050"
+  },
+  {
+    "code": "060",
+    "full_code": "40201060",
+    "description": "Licensing Fees",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "uacs_code": "40201060"
+  },
+  {
+    "code": "070",
+    "full_code": "40201070",
+    "description": "Supervision and Regulation Enforcement Fees",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "uacs_code": "40201070"
+  },
+  {
+    "code": "080",
+    "full_code": "40201080",
+    "description": "Spectrum Usage Fees",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "uacs_code": "40201080"
+  },
+  {
+    "code": "090",
+    "full_code": "40201090",
+    "description": "Legal Fees",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "uacs_code": "40201090"
+  },
+  {
+    "code": "100",
+    "full_code": "40201100",
+    "description": "Inspection Fees",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "uacs_code": "40201100"
+  },
+  {
+    "code": "110",
+    "full_code": "40201110",
+    "description": "Verification and Authentication Fees",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "uacs_code": "40201110"
+  },
+  {
+    "code": "120",
+    "full_code": "40201120",
+    "description": "Passport and Visa Fees",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "uacs_code": "40201120"
+  },
+  {
+    "code": "130",
+    "full_code": "40201130",
+    "description": "Processing Fees",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "uacs_code": "40201130"
+  },
+  {
+    "code": "140",
+    "full_code": "40201140",
+    "description": "Fines and Penalties - Service Income",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "uacs_code": "40201140"
+  },
+  {
+    "code": "990",
+    "full_code": "40201990",
+    "description": "Other Service Income",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "uacs_code": "40201990"
+  },
+  {
+    "code": "010",
+    "full_code": "40202010",
+    "description": "School Fees",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "uacs_code": "40202010"
+  },
+  {
+    "code": "020",
+    "full_code": "40202020",
+    "description": "Affiliation Fees",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "uacs_code": "40202020"
+  },
+  {
+    "code": "030",
+    "full_code": "40202030",
+    "description": "Examination Fees",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "uacs_code": "40202030"
+  },
+  {
+    "code": "040",
+    "full_code": "40202040",
+    "description": "Seminar/Training Fees",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "uacs_code": "40202040"
+  },
+  {
+    "code": "050",
+    "full_code": "40202050",
+    "description": "Rent/Lease Income",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "uacs_code": "40202050"
+  },
+  {
+    "code": "060",
+    "full_code": "40202060",
+    "description": "Communication Network Fees",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "uacs_code": "40202060"
+  },
+  {
+    "code": "070",
+    "full_code": "40202070",
+    "description": "Transportation System Fees",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "uacs_code": "40202070"
+  },
+  {
+    "code": "080",
+    "full_code": "40202080",
+    "description": "Road Network Fees",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "uacs_code": "40202080"
+  },
+  {
+    "code": "090",
+    "full_code": "40202090",
+    "description": "Waterworks System Fees",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "uacs_code": "40202090"
+  },
+  {
+    "code": "100",
+    "full_code": "40202100",
+    "description": "Power Supply System Fees",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "uacs_code": "40202100"
+  },
+  {
+    "code": "110",
+    "full_code": "40202110",
+    "description": "Seaport System Fees",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "uacs_code": "40202110"
+  },
+  {
+    "code": "120",
+    "full_code": "40202120",
+    "description": "Landing and Parking Fees",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "uacs_code": "40202120"
+  },
+  {
+    "code": "130",
+    "full_code": "40202130",
+    "description": "Income from Hostels/Dormitories and Other Like Facilities",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "uacs_code": "40202130"
+  },
+  {
+    "code": "140",
+    "full_code": "40202140",
+    "description": "Slaughterhouse Operation",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "uacs_code": "40202140"
+  },
+  {
+    "code": "150",
+    "full_code": "40202150",
+    "description": "Income from Printing and Publication",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "uacs_code": "40202150"
+  },
+  {
+    "code": "160",
+    "full_code": "40202160",
+    "description": "Sales Revenue",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "uacs_code": "40202160"
+  },
+  {
+    "code": "161",
+    "full_code": "40202161",
+    "description": "Sales Discounts",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "uacs_code": "40202161"
+  },
+  {
+    "code": "170",
+    "full_code": "40202170",
+    "description": "Hospital Fees",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "uacs_code": "40202170"
+  },
+  {
+    "code": "180",
+    "full_code": "40202180",
+    "description": "Guarantee Income",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "uacs_code": "40202180"
+  },
+  {
+    "code": "190",
+    "full_code": "40202190",
+    "description": "Fidelity Insurance Income",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "uacs_code": "40202190"
+  },
+  {
+    "code": "200",
+    "full_code": "40202200",
+    "description": "Dividend Income",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "uacs_code": "40202200"
+  },
+  {
+    "code": "210",
+    "full_code": "40202210",
+    "description": "Interest Income",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "uacs_code": "40202210"
+  },
+  {
+    "code": "220",
+    "full_code": "40202220",
+    "description": "Share in the Profit of Joint Venture",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "uacs_code": "40202220"
+  },
+  {
+    "code": "230",
+    "full_code": "40202230",
+    "description": "Fines and Penalties - Business Income",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "uacs_code": "40202230"
+  },
+  {
+    "code": "240",
+    "full_code": "40202240",
+    "description": "Service Concession Revenue",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "uacs_code": "40202240"
+  },
+  {
+    "code": "990",
+    "full_code": "40202990",
+    "description": "Other Business Income",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "uacs_code": "40202990"
+  },
+  {
+    "code": "010",
+    "full_code": "40301010",
+    "description": "Subsidy from National Government",
+    "group_code": "01",
+    "sub_class_code": "03",
+    "classification_code": "4",
+    "uacs_code": "40301010"
+  },
+  {
+    "code": "020",
+    "full_code": "40301020",
+    "description": "Assistance from Other National Government Agencies",
+    "group_code": "01",
+    "sub_class_code": "03",
+    "classification_code": "4",
+    "uacs_code": "40301020"
+  },
+  {
+    "code": "030",
+    "full_code": "40301030",
+    "description": "Assistance from Local Government Units",
+    "group_code": "01",
+    "sub_class_code": "03",
+    "classification_code": "4",
+    "uacs_code": "40301030"
+  },
+  {
+    "code": "040",
+    "full_code": "40301040",
+    "description": "Assistance from Government-Owned or Controlled Corporations",
+    "group_code": "01",
+    "sub_class_code": "03",
+    "classification_code": "4",
+    "uacs_code": "40301040"
+  },
+  {
+    "code": "050",
+    "full_code": "40301050",
+    "description": "Subsidy from Other Funds",
+    "group_code": "01",
+    "sub_class_code": "03",
+    "classification_code": "4",
+    "uacs_code": "40301050"
+  },
+  {
+    "code": "060",
+    "full_code": "40301060",
+    "description": "Subsidy from Central Office",
+    "group_code": "01",
+    "sub_class_code": "03",
+    "classification_code": "4",
+    "uacs_code": "40301060"
+  },
+  {
+    "code": "010",
+    "full_code": "40401010",
+    "description": "Share from National Wealth",
+    "group_code": "01",
+    "sub_class_code": "04",
+    "classification_code": "4",
+    "uacs_code": "40401010"
+  },
+  {
+    "code": "020",
+    "full_code": "40401020",
+    "description": "Share from PAGCOR/PCSO",
+    "group_code": "01",
+    "sub_class_code": "04",
+    "classification_code": "4",
+    "uacs_code": "40401020"
+  },
+  {
+    "code": "030",
+    "full_code": "40401030",
+    "description": "Share from Earnings of Government-Owned or Controlled Corporations",
+    "group_code": "01",
+    "sub_class_code": "04",
+    "classification_code": "4",
+    "uacs_code": "40401030"
+  },
+  {
+    "code": "010",
+    "full_code": "40402010",
+    "description": "Donations in Cash",
+    "group_code": "02",
+    "sub_class_code": "04",
+    "classification_code": "4",
+    "uacs_code": "40402010"
+  },
+  {
+    "code": "020",
+    "full_code": "40402020",
+    "description": "Donations in Kind",
+    "group_code": "02",
+    "sub_class_code": "04",
+    "classification_code": "4",
+    "uacs_code": "40402020"
+  },
+  {
+    "code": "010",
+    "full_code": "40403010",
+    "description": "Grants in Cash",
+    "group_code": "03",
+    "sub_class_code": "04",
+    "classification_code": "4",
+    "uacs_code": "40403010"
+  },
+  {
+    "code": "020",
+    "full_code": "40403020",
+    "description": "Grants in Kind",
+    "group_code": "03",
+    "sub_class_code": "04",
+    "classification_code": "4",
+    "uacs_code": "40403020"
+  },
+  {
+    "code": "010",
+    "full_code": "40501010",
+    "description": "Gain on Foreign Exchange (FOREX)",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "4",
+    "uacs_code": "40501010"
+  },
+  {
+    "code": "020",
+    "full_code": "40501020",
+    "description": "Gain on Sale of Investments",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "4",
+    "uacs_code": "40501020"
+  },
+  {
+    "code": "030",
+    "full_code": "40501030",
+    "description": "Gain on Sale of Investment Property",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "4",
+    "uacs_code": "40501030"
+  },
+  {
+    "code": "040",
+    "full_code": "40501040",
+    "description": "Gain on Sale of Property, Plant and Equipment",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "4",
+    "uacs_code": "40501040"
+  },
+  {
+    "code": "050",
+    "full_code": "40501050",
+    "description": "Gain on Initial Recognition of Biological Assets",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "4",
+    "uacs_code": "40501050"
+  },
+  {
+    "code": "060",
+    "full_code": "40501060",
+    "description": "Gain on Sale of Biological Assets",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "4",
+    "uacs_code": "40501060"
+  },
+  {
+    "code": "070",
+    "full_code": "40501070",
+    "description": "Gain from Changes in Fair Value Less Cost to Sell of Biological Assets Due to Physical Change",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "4",
+    "uacs_code": "40501070"
+  },
+  {
+    "code": "080",
+    "full_code": "40501080",
+    "description": "Gain from Changes in Fair Value Less Cost to Sell of Biological Assets Due to Price Change",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "4",
+    "uacs_code": "40501080"
+  },
+  {
+    "code": "090",
+    "full_code": "40501090",
+    "description": "Gain on Sale of Agricultural Produce",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "4",
+    "uacs_code": "40501090"
+  },
+  {
+    "code": "100",
+    "full_code": "40501100",
+    "description": "Gain on Sale of Intangible Assets",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "4",
+    "uacs_code": "40501100"
+  },
+  {
+    "code": "990",
+    "full_code": "40501990",
+    "description": "Other Gains",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "4",
+    "uacs_code": "40501990"
+  },
+  {
+    "code": "010",
+    "full_code": "40601010",
+    "description": "Sale of Garnished/Confiscated/Abandoned/Seized Goods and Property",
+    "group_code": "01",
+    "sub_class_code": "06",
+    "classification_code": "4",
+    "uacs_code": "40601010"
+  },
+  {
+    "code": "020",
+    "full_code": "40601020",
+    "description": "Sale of Unserviceable Property",
+    "group_code": "01",
+    "sub_class_code": "06",
+    "classification_code": "4",
+    "uacs_code": "40601020"
+  },
+  {
+    "code": "010",
+    "full_code": "40602010",
+    "description": "Reversal of Impairment Loss",
+    "group_code": "02",
+    "sub_class_code": "06",
+    "classification_code": "4",
+    "uacs_code": "40602010"
+  },
+  {
+    "code": "010",
+    "full_code": "40609010",
+    "description": "Proceeds from Insurance/Indemnities",
+    "group_code": "09",
+    "sub_class_code": "06",
+    "classification_code": "4",
+    "uacs_code": "40609010"
+  },
+  {
+    "code": "990",
+    "full_code": "40609990",
+    "description": "Miscellaneous Income",
+    "group_code": "09",
+    "sub_class_code": "06",
+    "classification_code": "4",
+    "uacs_code": "40609990"
+  },
+  {
+    "code": "010",
+    "full_code": "50101010",
+    "description": "Salaries and Wages - Regular",
+    "group_code": "01",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "uacs_code": "50101010"
+  },
+  {
+    "code": "020",
+    "full_code": "50101020",
+    "description": "Salaries and Wages - Casual/Contractual",
+    "group_code": "01",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "uacs_code": "50101020"
+  },
+  {
+    "code": "030",
+    "full_code": "50101030",
+    "description": "Salaries and Wages - Substitute Teachers",
+    "group_code": "01",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "uacs_code": "50101030"
+  },
+  {
+    "code": "010",
+    "full_code": "50102010",
+    "description": "Personal Economic Relief Allowance (PERA)",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "uacs_code": "50102010"
+  },
+  {
+    "code": "020",
+    "full_code": "50102020",
+    "description": "Representation Allowance (RA)",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "uacs_code": "50102020"
+  },
+  {
+    "code": "030",
+    "full_code": "50102030",
+    "description": "Transportation Allowance (TA)",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "uacs_code": "50102030"
+  },
+  {
+    "code": "040",
+    "full_code": "50102040",
+    "description": "Clothing/Uniform Allowance",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "uacs_code": "50102040"
+  },
+  {
+    "code": "050",
+    "full_code": "50102050",
+    "description": "Subsistence Allowance",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "uacs_code": "50102050"
+  },
+  {
+    "code": "060",
+    "full_code": "50102060",
+    "description": "Laundry Allowance",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "uacs_code": "50102060"
+  },
+  {
+    "code": "070",
+    "full_code": "50102070",
+    "description": "Quarters Allowance",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "uacs_code": "50102070"
+  },
+  {
+    "code": "080",
+    "full_code": "50102080",
+    "description": "Productivity Incentive Allowance",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "uacs_code": "50102080"
+  },
+  {
+    "code": "090",
+    "full_code": "50102090",
+    "description": "Overseas Allowance",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "uacs_code": "50102090"
+  },
+  {
+    "code": "100",
+    "full_code": "50102100",
+    "description": "Honoraria",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "uacs_code": "50102100"
+  },
+  {
+    "code": "110",
+    "full_code": "50102110",
+    "description": "Hazard Pay",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "uacs_code": "50102110"
+  },
+  {
+    "code": "120",
+    "full_code": "50102120",
+    "description": "Longevity Pay",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "uacs_code": "50102120"
+  },
+  {
+    "code": "130",
+    "full_code": "50102130",
+    "description": "Overtime and Night Pay",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "uacs_code": "50102130"
+  },
+  {
+    "code": "140",
+    "full_code": "50102140",
+    "description": "Year End Bonus",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "uacs_code": "50102140"
+  },
+  {
+    "code": "150",
+    "full_code": "50102150",
+    "description": "Cash Gift",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "uacs_code": "50102150"
+  },
+  {
+    "code": "160",
+    "full_code": "50102160",
+    "description": "Mid-Year Bonus",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "uacs_code": "50102160"
+  },
+  {
+    "code": "990",
+    "full_code": "50102990",
+    "description": "Other Bonuses and Allowances",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "uacs_code": "50102990"
+  },
+  {
+    "code": "010",
+    "full_code": "50103010",
+    "description": "Retirement and Life Insurance Premiums",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "uacs_code": "50103010"
+  },
+  {
+    "code": "020",
+    "full_code": "50103020",
+    "description": "Pag-IBIG Contributions",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "uacs_code": "50103020"
+  },
+  {
+    "code": "030",
+    "full_code": "50103030",
+    "description": "PhilHealth Contributions",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "uacs_code": "50103030"
+  },
+  {
+    "code": "040",
+    "full_code": "50103040",
+    "description": "Employees Compensation Insurance Premiums (ECIP)",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "uacs_code": "50103040"
+  },
+  {
+    "code": "050",
+    "full_code": "50103050",
+    "description": "Provident/Welfare Fund Contributions",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "uacs_code": "50103050"
+  },
+  {
+    "code": "010",
+    "full_code": "50104010",
+    "description": "Pension Benefits",
+    "group_code": "04",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "uacs_code": "50104010"
+  },
+  {
+    "code": "020",
+    "full_code": "50104020",
+    "description": "Retirement Gratuity",
+    "group_code": "04",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "uacs_code": "50104020"
+  },
+  {
+    "code": "030",
+    "full_code": "50104030",
+    "description": "Terminal Leave Benefits",
+    "group_code": "04",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "uacs_code": "50104030"
+  },
+  {
+    "code": "990",
+    "full_code": "50104990",
+    "description": "Other Personnel Benefits",
+    "group_code": "04",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "uacs_code": "50104990"
+  },
+  {
+    "code": "010",
+    "full_code": "50201010",
+    "description": "Traveling Expenses - Local",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50201010"
+  },
+  {
+    "code": "020",
+    "full_code": "50201020",
+    "description": "Traveling Expenses - Foreign",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50201020"
+  },
+  {
+    "code": "010",
+    "full_code": "50202010",
+    "description": "Training Expenses",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50202010"
+  },
+  {
+    "code": "020",
+    "full_code": "50202020",
+    "description": "Scholarship Grants/Expenses",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50202020"
+  },
+  {
+    "code": "010",
+    "full_code": "50203010",
+    "description": "Office Supplies Expenses",
+    "group_code": "03",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50203010"
+  },
+  {
+    "code": "020",
+    "full_code": "50203020",
+    "description": "Accountable Forms Expenses",
+    "group_code": "03",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50203020"
+  },
+  {
+    "code": "030",
+    "full_code": "50203030",
+    "description": "Non-Accountable Forms Expenses",
+    "group_code": "03",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50203030"
+  },
+  {
+    "code": "040",
+    "full_code": "50203040",
+    "description": "Animal/Zoological Supplies Expenses",
+    "group_code": "03",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50203040"
+  },
+  {
+    "code": "050",
+    "full_code": "50203050",
+    "description": "Food Supplies Expenses",
+    "group_code": "03",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50203050"
+  },
+  {
+    "code": "060",
+    "full_code": "50203060",
+    "description": "Welfare Goods Expense",
+    "group_code": "03",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50203060"
+  },
+  {
+    "code": "070",
+    "full_code": "50203070",
+    "description": "Drugs and Medicines Expenses",
+    "group_code": "03",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50203070"
+  },
+  {
+    "code": "080",
+    "full_code": "50203080",
+    "description": "Medical, Dental and Laboratory Supplies Expenses",
+    "group_code": "03",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50203080"
+  },
+  {
+    "code": "090",
+    "full_code": "50203090",
+    "description": "Fuel, Oil and Lubricants Expenses",
+    "group_code": "03",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50203090"
+  },
+  {
+    "code": "100",
+    "full_code": "50203100",
+    "description": "Agricultural and Marine Supplies Expenses",
+    "group_code": "03",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50203100"
+  },
+  {
+    "code": "110",
+    "full_code": "50203110",
+    "description": "Textbooks and Instructional Materials Expenses",
+    "group_code": "03",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50203110"
+  },
+  {
+    "code": "120",
+    "full_code": "50203120",
+    "description": "Military, Police and Traffic Supplies Expenses",
+    "group_code": "03",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50203120"
+  },
+  {
+    "code": "130",
+    "full_code": "50203130",
+    "description": "Chemical and Filtering Supplies Expenses",
+    "group_code": "03",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50203130"
+  },
+  {
+    "code": "210",
+    "full_code": "50203210",
+    "description": "Semi-Expendable Machinery and Equipment Expenses",
+    "group_code": "03",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50203210"
+  },
+  {
+    "code": "220",
+    "full_code": "50203220",
+    "description": "Semi-Expendable Furniture, Fixtures and Books Expenses",
+    "group_code": "03",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50203220"
+  },
+  {
+    "code": "290",
+    "full_code": "50203290",
+    "description": "Prisoner Medical Support Expenses",
+    "group_code": "03",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50203290"
+  },
+  {
+    "code": "990",
+    "full_code": "50203990",
+    "description": "Other Supplies and Materials Expenses",
+    "group_code": "03",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50203990"
+  },
+  {
+    "code": "010",
+    "full_code": "50204010",
+    "description": "Water Expenses",
+    "group_code": "04",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50204010"
+  },
+  {
+    "code": "020",
+    "full_code": "50204020",
+    "description": "Electricity Expenses",
+    "group_code": "04",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50204020"
+  },
+  {
+    "code": "030",
+    "full_code": "50204030",
+    "description": "Gas/Heating Expenses",
+    "group_code": "04",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50204030"
+  },
+  {
+    "code": "990",
+    "full_code": "50204990",
+    "description": "Other Utility Expenses",
+    "group_code": "04",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50204990"
+  },
+  {
+    "code": "010",
+    "full_code": "50205010",
+    "description": "Postage and Courier Services",
+    "group_code": "05",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50205010"
+  },
+  {
+    "code": "020",
+    "full_code": "50205020",
+    "description": "Telephone Expenses",
+    "group_code": "05",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50205020"
+  },
+  {
+    "code": "030",
+    "full_code": "50205030",
+    "description": "Internet Subscription Expenses",
+    "group_code": "05",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50205030"
+  },
+  {
+    "code": "040",
+    "full_code": "50205040",
+    "description": "Cable, Satellite, Telegraph and Radio Expenses",
+    "group_code": "05",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50205040"
+  },
+  {
+    "code": "010",
+    "full_code": "50206010",
+    "description": "Awards/Rewards Expenses",
+    "group_code": "06",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50206010"
+  },
+  {
+    "code": "020",
+    "full_code": "50206020",
+    "description": "Prizes",
+    "group_code": "06",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50206020"
+  },
+  {
+    "code": "010",
+    "full_code": "50207010",
+    "description": "Survey Expenses",
+    "group_code": "07",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50207010"
+  },
+  {
+    "code": "020",
+    "full_code": "50207020",
+    "description": "Research, Exploration and Development Expenses",
+    "group_code": "07",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50207020"
+  },
+  {
+    "code": "010",
+    "full_code": "50208010",
+    "description": "Demolition and Relocation Expenses",
+    "group_code": "08",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50208010"
+  },
+  {
+    "code": "020",
+    "full_code": "50208020",
+    "description": "Desilting, Drilling and Dredging Expenses",
+    "group_code": "08",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50208020"
+  },
+  {
+    "code": "010",
+    "full_code": "50209010",
+    "description": "Generation, Transmission and Distribution Expenses",
+    "group_code": "09",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50209010"
+  },
+  {
+    "code": "010",
+    "full_code": "50210010",
+    "description": "Confidential Expenses",
+    "group_code": "10",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50210010"
+  },
+  {
+    "code": "020",
+    "full_code": "50210020",
+    "description": "Intelligence Expenses",
+    "group_code": "10",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50210020"
+  },
+  {
+    "code": "030",
+    "full_code": "50210030",
+    "description": "Extraordinary and Miscellaneous Expenses",
+    "group_code": "10",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50210030"
+  },
+  {
+    "code": "010",
+    "full_code": "50211010",
+    "description": "Legal Services",
+    "group_code": "11",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50211010"
+  },
+  {
+    "code": "020",
+    "full_code": "50211020",
+    "description": "Auditing Services",
+    "group_code": "11",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50211020"
+  },
+  {
+    "code": "030",
+    "full_code": "50211030",
+    "description": "Consultancy Services",
+    "group_code": "11",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50211030"
+  },
+  {
+    "code": "990",
+    "full_code": "50211990",
+    "description": "Other Professional Services",
+    "group_code": "11",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50211990"
+  },
+  {
+    "code": "010",
+    "full_code": "50212010",
+    "description": "Environment/Sanitary Services",
+    "group_code": "12",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50212010"
+  },
+  {
+    "code": "020",
+    "full_code": "50212020",
+    "description": "Janitorial Services",
+    "group_code": "12",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50212020"
+  },
+  {
+    "code": "030",
+    "full_code": "50212030",
+    "description": "Security Services",
+    "group_code": "12",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50212030"
+  },
+  {
+    "code": "990",
+    "full_code": "50212990",
+    "description": "Other General Services",
+    "group_code": "12",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50212990"
+  },
+  {
+    "code": "010",
+    "full_code": "50213010",
+    "description": "Repairs and Maintenance - Investment Property",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50213010"
+  },
+  {
+    "code": "020",
+    "full_code": "50213020",
+    "description": "Repairs and Maintenance - Land Improvements",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50213020"
+  },
+  {
+    "code": "030",
+    "full_code": "50213030",
+    "description": "Repairs and Maintenance - Infrastructure Assets",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50213030"
+  },
+  {
+    "code": "040",
+    "full_code": "50213040",
+    "description": "Repairs and Maintenance - Buildings and Other Structures",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50213040"
+  },
+  {
+    "code": "050",
+    "full_code": "50213050",
+    "description": "Repairs and Maintenance - Machinery and Equipment",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50213050"
+  },
+  {
+    "code": "060",
+    "full_code": "50213060",
+    "description": "Repairs and Maintenance - Transportation Equipment",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50213060"
+  },
+  {
+    "code": "070",
+    "full_code": "50213070",
+    "description": "Repairs and Maintenance - Furniture and Fixtures",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50213070"
+  },
+  {
+    "code": "080",
+    "full_code": "50213080",
+    "description": "Repairs and Maintenance - Leased Assets",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50213080"
+  },
+  {
+    "code": "090",
+    "full_code": "50213090",
+    "description": "Repairs and Maintenance - Leased Assets Improvements",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50213090"
+  },
+  {
+    "code": "100",
+    "full_code": "50213100",
+    "description": "Restoration and Maintenance - Heritage Assets",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50213100"
+  },
+  {
+    "code": "210",
+    "full_code": "50213210",
+    "description": "Repairs and Maintenance - Semi-Expendable Machinery and Equipment",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50213210"
+  },
+  {
+    "code": "220",
+    "full_code": "50213220",
+    "description": "Repairs and Maintenance - Semi-Expendable Furniture, Fixtures and Books",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50213220"
+  },
+  {
+    "code": "980",
+    "full_code": "50213980",
+    "description": "Repairs and Maintenance - Others",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50213980"
+  },
+  {
+    "code": "990",
+    "full_code": "50213990",
+    "description": "Repairs and Maintenance - Other Property, Plant and Equipment",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50213990"
+  },
+  {
+    "code": "010",
+    "full_code": "50214010",
+    "description": "Subsidy to National Government Agencies",
+    "group_code": "14",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50214010"
+  },
+  {
+    "code": "020",
+    "full_code": "50214020",
+    "description": "Assistance to Other National Government Agencies",
+    "group_code": "14",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50214020"
+  },
+  {
+    "code": "030",
+    "full_code": "50214030",
+    "description": "Assistance to Local Government Units",
+    "group_code": "14",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50214030"
+  },
+  {
+    "code": "040",
+    "full_code": "50214040",
+    "description": "Budgetary Support to Government-Owned or Controlled Corporations",
+    "group_code": "14",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50214040"
+  },
+  {
+    "code": "050",
+    "full_code": "50214050",
+    "description": "Assistance to Non-Government Organizations/Civil Society Organizations",
+    "group_code": "14",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50214050"
+  },
+  {
+    "code": "060",
+    "full_code": "50214060",
+    "description": "Internal Revenue Allotment",
+    "group_code": "14",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50214060"
+  },
+  {
+    "code": "070",
+    "full_code": "50214070",
+    "description": "Subsidy to Regional Offices/Staff Bureaus",
+    "group_code": "14",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50214070"
+  },
+  {
+    "code": "080",
+    "full_code": "50214080",
+    "description": "Subsidy to Operating Units",
+    "group_code": "14",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50214080"
+  },
+  {
+    "code": "090",
+    "full_code": "50214090",
+    "description": "Subsidy to Other Funds",
+    "group_code": "14",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50214090"
+  },
+  {
+    "code": "990",
+    "full_code": "50214990",
+    "description": "Subsidies - Others",
+    "group_code": "14",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50214990"
+  },
+  {
+    "code": "010",
+    "full_code": "50215010",
+    "description": "Taxes, Duties and Licenses",
+    "group_code": "15",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50215010"
+  },
+  {
+    "code": "020",
+    "full_code": "50215020",
+    "description": "Fidelity Bond Premiums",
+    "group_code": "15",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50215020"
+  },
+  {
+    "code": "030",
+    "full_code": "50215030",
+    "description": "Insurance Expenses",
+    "group_code": "15",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50215030"
+  },
+  {
+    "code": "010",
+    "full_code": "50216010",
+    "description": "Labor and Wages",
+    "group_code": "16",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50216010"
+  },
+  {
+    "code": "010",
+    "full_code": "50299010",
+    "description": "Advertising, Promotional and Marketing Expenses",
+    "group_code": "99",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50299010"
+  },
+  {
+    "code": "020",
+    "full_code": "50299020",
+    "description": "Printing and Publication Expenses",
+    "group_code": "99",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50299020"
+  },
+  {
+    "code": "030",
+    "full_code": "50299030",
+    "description": "Representation Expenses",
+    "group_code": "99",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50299030"
+  },
+  {
+    "code": "040",
+    "full_code": "50299040",
+    "description": "Transportation and Delivery Expenses",
+    "group_code": "99",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50299040"
+  },
+  {
+    "code": "050",
+    "full_code": "50299050",
+    "description": "Rent/Lease Expenses",
+    "group_code": "99",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50299050"
+  },
+  {
+    "code": "060",
+    "full_code": "50299060",
+    "description": "Membership Dues and Contributions to Organizations",
+    "group_code": "99",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50299060"
+  },
+  {
+    "code": "070",
+    "full_code": "50299070",
+    "description": "Subscription Expenses",
+    "group_code": "99",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50299070"
+  },
+  {
+    "code": "080",
+    "full_code": "50299080",
+    "description": "Donations",
+    "group_code": "99",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50299080"
+  },
+  {
+    "code": "090",
+    "full_code": "50299090",
+    "description": "Litigation/Acquired Assets Expenses",
+    "group_code": "99",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50299090"
+  },
+  {
+    "code": "210",
+    "full_code": "50299210",
+    "description": "Legal Defense Expense",
+    "group_code": "99",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50299210"
+  },
+  {
+    "code": "220",
+    "full_code": "50299220",
+    "description": "Bank Transaction Fee",
+    "group_code": "99",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50299220"
+  },
+  {
+    "code": "990",
+    "full_code": "50299990",
+    "description": "Other Maintenance and Operating Expenses",
+    "group_code": "99",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "uacs_code": "50299990"
+  },
+  {
+    "code": "010",
+    "full_code": "50301010",
+    "description": "Management Supervision/Trusteeship Fees",
+    "group_code": "01",
+    "sub_class_code": "03",
+    "classification_code": "5",
+    "uacs_code": "50301010"
+  },
+  {
+    "code": "020",
+    "full_code": "50301020",
+    "description": "Interest Expenses",
+    "group_code": "01",
+    "sub_class_code": "03",
+    "classification_code": "5",
+    "uacs_code": "50301020"
+  },
+  {
+    "code": "030",
+    "full_code": "50301030",
+    "description": "Guarantee Fees",
+    "group_code": "01",
+    "sub_class_code": "03",
+    "classification_code": "5",
+    "uacs_code": "50301030"
+  },
+  {
+    "code": "040",
+    "full_code": "50301040",
+    "description": "Bank Charges - Loans/Borrowings",
+    "group_code": "01",
+    "sub_class_code": "03",
+    "classification_code": "5",
+    "uacs_code": "50301040"
+  },
+  {
+    "code": "050",
+    "full_code": "50301050",
+    "description": "Commitment Fees",
+    "group_code": "01",
+    "sub_class_code": "03",
+    "classification_code": "5",
+    "uacs_code": "50301050"
+  },
+  {
+    "code": "990",
+    "full_code": "50301990",
+    "description": "Other Financial Charges",
+    "group_code": "01",
+    "sub_class_code": "03",
+    "classification_code": "5",
+    "uacs_code": "50301990"
+  },
+  {
+    "code": "010",
+    "full_code": "50401010",
+    "description": "Direct Labor",
+    "group_code": "01",
+    "sub_class_code": "04",
+    "classification_code": "5",
+    "uacs_code": "50401010"
+  },
+  {
+    "code": "020",
+    "full_code": "50401020",
+    "description": "Manufacturing Overhead",
+    "group_code": "01",
+    "sub_class_code": "04",
+    "classification_code": "5",
+    "uacs_code": "50401020"
+  },
+  {
+    "code": "010",
+    "full_code": "50402010",
+    "description": "Cost of Sales",
+    "group_code": "02",
+    "sub_class_code": "04",
+    "classification_code": "5",
+    "uacs_code": "50402010"
+  },
+  {
+    "code": "010",
+    "full_code": "50501010",
+    "description": "Depreciation - Investment Property",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "uacs_code": "50501010"
+  },
+  {
+    "code": "020",
+    "full_code": "50501020",
+    "description": "Depreciation - Land Improvements",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "uacs_code": "50501020"
+  },
+  {
+    "code": "030",
+    "full_code": "50501030",
+    "description": "Depreciation - Infrastructure Assets",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "uacs_code": "50501030"
+  },
+  {
+    "code": "040",
+    "full_code": "50501040",
+    "description": "Depreciation - Buildings and Other Structures",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "uacs_code": "50501040"
+  },
+  {
+    "code": "050",
+    "full_code": "50501050",
+    "description": "Depreciation - Machinery and Equipment",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "uacs_code": "50501050"
+  },
+  {
+    "code": "060",
+    "full_code": "50501060",
+    "description": "Depreciation - Transportation Equipment",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "uacs_code": "50501060"
+  },
+  {
+    "code": "070",
+    "full_code": "50501070",
+    "description": "Depreciation - Furniture, Fixtures and Books",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "uacs_code": "50501070"
+  },
+  {
+    "code": "080",
+    "full_code": "50501080",
+    "description": "Depreciation - Leased Assets",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "uacs_code": "50501080"
+  },
+  {
+    "code": "090",
+    "full_code": "50501090",
+    "description": "Depreciation - Leased Assets Improvements",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "uacs_code": "50501090"
+  },
+  {
+    "code": "100",
+    "full_code": "50501100",
+    "description": "Depreciation - Heritage Assets",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "uacs_code": "50501100"
+  },
+  {
+    "code": "110",
+    "full_code": "50501110",
+    "description": "Depreciation - Service Concession Asset",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "uacs_code": "50501110"
+  },
+  {
+    "code": "990",
+    "full_code": "50501990",
+    "description": "Depreciation - Other Property, Plant and Equipment",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "uacs_code": "50501990"
+  },
+  {
+    "code": "010",
+    "full_code": "50502010",
+    "description": "Amortization - Intangible Assets",
+    "group_code": "02",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "uacs_code": "50502010"
+  },
+  {
+    "code": "010",
+    "full_code": "50503010",
+    "description": "Impairment Loss - Financial Assets Held to Maturity",
+    "group_code": "03",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "uacs_code": "50503010"
+  },
+  {
+    "code": "020",
+    "full_code": "50503020",
+    "description": "Impairment Loss - Loans and Receivables",
+    "group_code": "03",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "uacs_code": "50503020"
+  },
+  {
+    "code": "030",
+    "full_code": "50503030",
+    "description": "Impairment Loss - Lease Receivables",
+    "group_code": "03",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "uacs_code": "50503030"
+  },
+  {
+    "code": "040",
+    "full_code": "50503040",
+    "description": "Impairment Loss - Investments in Government-Owned or Contolled Corporations",
+    "group_code": "03",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "uacs_code": "50503040"
+  },
+  {
+    "code": "050",
+    "full_code": "50503050",
+    "description": "Impairment Loss - Investment in Joint Venture",
+    "group_code": "03",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "uacs_code": "50503050"
+  },
+  {
+    "code": "060",
+    "full_code": "50503060",
+    "description": "Impairment Loss - Other Receivables",
+    "group_code": "03",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "uacs_code": "50503060"
+  },
+  {
+    "code": "070",
+    "full_code": "50503070",
+    "description": "Impairment Loss - Inventories",
+    "group_code": "03",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "uacs_code": "50503070"
+  },
+  {
+    "code": "080",
+    "full_code": "50503080",
+    "description": "Impairment Loss - Investment Property",
+    "group_code": "03",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "uacs_code": "50503080"
+  },
+  {
+    "code": "090",
+    "full_code": "50503090",
+    "description": "Impairment Loss - Property, Plant and Equipment",
+    "group_code": "03",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "uacs_code": "50503090"
+  },
+  {
+    "code": "100",
+    "full_code": "50503100",
+    "description": "Impairment Loss - Biological Assets",
+    "group_code": "03",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "uacs_code": "50503100"
+  },
+  {
+    "code": "110",
+    "full_code": "50503110",
+    "description": "Impairment Loss - Intangible Assets",
+    "group_code": "03",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "uacs_code": "50503110"
+  },
+  {
+    "code": "120",
+    "full_code": "50503120",
+    "description": "Impairment Loss - Investments in Associates",
+    "group_code": "03",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "uacs_code": "50503120"
+  },
+  {
+    "code": "010",
+    "full_code": "50504010",
+    "description": "Loss on Foreign Exchange (FOREX)",
+    "group_code": "04",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "uacs_code": "50504010"
+  },
+  {
+    "code": "020",
+    "full_code": "50504020",
+    "description": "Loss on Sale of Investments",
+    "group_code": "04",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "uacs_code": "50504020"
+  },
+  {
+    "code": "030",
+    "full_code": "50504030",
+    "description": "Loss on Sale of Investment Property",
+    "group_code": "04",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "uacs_code": "50504030"
+  },
+  {
+    "code": "040",
+    "full_code": "50504040",
+    "description": "Loss on Sale of Property, Plant and Equipment",
+    "group_code": "04",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "uacs_code": "50504040"
+  },
+  {
+    "code": "050",
+    "full_code": "50504050",
+    "description": "Loss on Sale of Biological Assets",
+    "group_code": "04",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "uacs_code": "50504050"
+  },
+  {
+    "code": "060",
+    "full_code": "50504060",
+    "description": "Loss on Sale of Agricultural Produce",
+    "group_code": "04",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "uacs_code": "50504060"
+  },
+  {
+    "code": "070",
+    "full_code": "50504070",
+    "description": "Loss on Sale of Intangible Assets",
+    "group_code": "04",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "uacs_code": "50504070"
+  },
+  {
+    "code": "080",
+    "full_code": "50504080",
+    "description": "Loss on Sale of Assets",
+    "group_code": "04",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "uacs_code": "50504080"
+  },
+  {
+    "code": "090",
+    "full_code": "50504090",
+    "description": "Loss of Assets",
+    "group_code": "04",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "uacs_code": "50504090"
+  },
+  {
+    "code": "100",
+    "full_code": "50504100",
+    "description": "Loss on Guaranty",
+    "group_code": "04",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "uacs_code": "50504100"
+  },
+  {
+    "code": "110",
+    "full_code": "50504110",
+    "description": "Loss on Initial Recognition of Biological Assets",
+    "group_code": "04",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "uacs_code": "50504110"
+  },
+  {
+    "code": "990",
+    "full_code": "50504990",
+    "description": "Other Losses",
+    "group_code": "04",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "uacs_code": "50504990"
+  },
+  {
+    "code": "010",
+    "full_code": "50601010",
+    "description": "Investment in Government-Owned and/or Controlled Corporations",
+    "group_code": "01",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "uacs_code": "50601010"
+  },
+  {
+    "code": "020",
+    "full_code": "50601020",
+    "description": "Investment in Associates",
+    "group_code": "01",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "uacs_code": "50601020"
+  },
+  {
+    "code": "010",
+    "full_code": "50602010",
+    "description": "Loans Outlay - Government-Owned and/or Controlled Corporations",
+    "group_code": "02",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "uacs_code": "50602010"
+  },
+  {
+    "code": "020",
+    "full_code": "50602020",
+    "description": "Loans Outlay - Local Government Units",
+    "group_code": "02",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "uacs_code": "50602020"
+  },
+  {
+    "code": "990",
+    "full_code": "50602990",
+    "description": "Loans Outlay - Others",
+    "group_code": "02",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "uacs_code": "50602990"
+  },
+  {
+    "code": "010",
+    "full_code": "50603010",
+    "description": "Land and Buildings Outlay",
+    "group_code": "03",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "uacs_code": "50603010"
+  },
+  {
+    "code": "010",
+    "full_code": "50604010",
+    "description": "Land Outlay",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "uacs_code": "50604010"
+  },
+  {
+    "code": "020",
+    "full_code": "50604020",
+    "description": "Land Improvements Outlay",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "uacs_code": "50604020"
+  },
+  {
+    "code": "030",
+    "full_code": "50604030",
+    "description": "Infrastructure Outlay",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "uacs_code": "50604030"
+  },
+  {
+    "code": "040",
+    "full_code": "50604040",
+    "description": "Building and Other Structures Outlay",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "uacs_code": "50604040"
+  },
+  {
+    "code": "050",
+    "full_code": "50604050",
+    "description": "Machinery and Equipment Outlay",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "uacs_code": "50604050"
+  },
+  {
+    "code": "060",
+    "full_code": "50604060",
+    "description": "Transportation Equipment Outlay",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "uacs_code": "50604060"
+  },
+  {
+    "code": "070",
+    "full_code": "50604070",
+    "description": "Furniture, Fixtures and Books Outlay",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "uacs_code": "50604070"
+  },
+  {
+    "code": "080",
+    "full_code": "50604080",
+    "description": "Heritage Assets",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "uacs_code": "50604080"
+  },
+  {
+    "code": "090",
+    "full_code": "50604090",
+    "description": "Other Property, Plant and Equipment Outlay",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "uacs_code": "50604090"
+  },
+  {
+    "code": "100",
+    "full_code": "50604100",
+    "description": "Leased Assets Improvements",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "uacs_code": "50604100"
+  },
+  {
+    "code": "010",
+    "full_code": "50605010",
+    "description": "Bearer Biological Assets",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "uacs_code": "50605010"
+  },
+  {
+    "code": "010",
+    "full_code": "50606010",
+    "description": "Patents/Copyrights",
+    "group_code": "06",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "uacs_code": "50606010"
+  },
+  {
+    "code": "020",
+    "full_code": "50606020",
+    "description": "Computer Software",
+    "group_code": "06",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "uacs_code": "50606020"
+  },
+  {
+    "code": "990",
+    "full_code": "50606990",
+    "description": "Other Intangible Assets",
+    "group_code": "06",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "uacs_code": "50606990"
+  }
+]

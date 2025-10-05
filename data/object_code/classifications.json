@@ -1,0 +1,27 @@
+[
+  {
+    "code": "1",
+    "description": "Assets",
+    "uacs_code": "10000000"
+  },
+  {
+    "code": "2",
+    "description": "Liabilities",
+    "uacs_code": "20000000"
+  },
+  {
+    "code": "3",
+    "description": "Equity",
+    "uacs_code": "30000000"
+  },
+  {
+    "code": "4",
+    "description": "Revenue/Income",
+    "uacs_code": "40000000"
+  },
+  {
+    "code": "5",
+    "description": "Expenses",
+    "uacs_code": "50000000"
+  }
+]

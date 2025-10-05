@@ -1,0 +1,17 @@
+[
+  {
+    "code": "1",
+    "description": "General Fund",
+    "status": "Active"
+  },
+  {
+    "code": "2",
+    "description": "Off - Budgetary Funds",
+    "status": "Active"
+  },
+  {
+    "code": "3",
+    "description": "Custodial Funds",
+    "status": "Active"
+  }
+]

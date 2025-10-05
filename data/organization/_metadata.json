@@ -1,0 +1,35 @@
+[
+  {
+    "entity": "organization",
+    "total_departments": 40,
+    "total_agencies": 466,
+    "total_operating_unit_classes": 26,
+    "total_operating_units": 14461,
+    "total_organizations": 14461,
+    "conversion_date": "2025-10-05T12:02:51.734445",
+    "uacs_structure": {
+      "total_digits": 12,
+      "format": "[DEPT(2)][AGENCY(3)][CLASS(2)][LOWER_OU(5)]",
+      "example": "270012200001",
+      "breakdown": {
+        "department": "positions 0-1 (2 digits)",
+        "agency": "positions 2-4 (3 digits)",
+        "class": "positions 5-6 (2 digits)",
+        "lower_ou": "positions 7-11 (5 digits)"
+      }
+    },
+    "input_files": [
+      "department.xlsx",
+      "agency.xlsx",
+      "operatingunitclass.xlsx",
+      "leveloperatingunit.xlsx"
+    ],
+    "output_files": [
+      "departments.json",
+      "agencies.json",
+      "operating_unit_classes.json",
+      "operating_units.json",
+      "organizations.json"
+    ]
+  }
+]

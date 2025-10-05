@@ -1,0 +1,6712 @@
+[
+  {
+    "code": "01",
+    "uacs_code": "1010201001",
+    "description": "Treasury Single Account",
+    "object_code": "010",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "02",
+    "uacs_code": "1010201002",
+    "description": "Regular",
+    "object_code": "010",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "01",
+    "uacs_code": "1010202001",
+    "description": "Cash in Bank - Local Currency, Current Account - Allied Bank",
+    "object_code": "020",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "02",
+    "uacs_code": "1010202002",
+    "description": "Cash in Bank - Local Currency, Current Account - Amanah Bank",
+    "object_code": "020",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "03",
+    "uacs_code": "1010202003",
+    "description": "Cash in Bank - Local Currency, Current Account - Asia United Bank Corporation",
+    "object_code": "020",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "04",
+    "uacs_code": "1010202004",
+    "description": "Cash in Bank - Local Currency, Current Account - Australia and New Zealand Bank",
+    "object_code": "020",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "05",
+    "uacs_code": "1010202005",
+    "description": "Cash in Bank - Local Currency, Current Account - Banco de Oro (BDO)",
+    "object_code": "020",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "06",
+    "uacs_code": "1010202006",
+    "description": "Cash in Bank - Local Currency, Current Account - Bangkok Bank",
+    "object_code": "020",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "07",
+    "uacs_code": "1010202007",
+    "description": "Cash in Bank - Local Currency, Current Account - Bangkok Bank Public Company Limited",
+    "object_code": "020",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "08",
+    "uacs_code": "1010202008",
+    "description": "Cash in Bank - Local Currency, Current Account - Bank of China",
+    "object_code": "020",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "09",
+    "uacs_code": "1010202009",
+    "description": "Cash in Bank - Local Currency, Current Account - Bank of Commerce",
+    "object_code": "020",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "10",
+    "uacs_code": "1010202010",
+    "description": "Cash in Bank - Local Currency, Current Account - Bank of the Philippine Islands (BPI)",
+    "object_code": "020",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "11",
+    "uacs_code": "1010202011",
+    "description": "Cash in Bank - Local Currency, Current Account - Bank of Tokyo",
+    "object_code": "020",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "12",
+    "uacs_code": "1010202012",
+    "description": "Cash in Bank - Local Currency, Current Account - China Banking Corporation",
+    "object_code": "020",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "13",
+    "uacs_code": "1010202013",
+    "description": "Cash in Bank - Local Currency, Current Account - Chinatrust Commercial Bank",
+    "object_code": "020",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "14",
+    "uacs_code": "1010202014",
+    "description": "Cash in Bank - Local Currency, Current Account - Citibank",
+    "object_code": "020",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "15",
+    "uacs_code": "1010202015",
+    "description": "Cash in Bank - Local Currency, Current Account - Deutsche Bank AG",
+    "object_code": "020",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "16",
+    "uacs_code": "1010202016",
+    "description": "Cash in Bank - Local Currency, Current Account - Development Bank of the Philippines (DBP)",
+    "object_code": "020",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "17",
+    "uacs_code": "1010202017",
+    "description": "Cash in Bank - Local Currency, Current Account - East-West Banking Corporation",
+    "object_code": "020",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "18",
+    "uacs_code": "1010202018",
+    "description": "Cash in Bank - Local Currency, Current Account - Equitable PCI Bank",
+    "object_code": "020",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "19",
+    "uacs_code": "1010202019",
+    "description": "Cash in Bank - Local Currency, Current Account - First Consolidated Bank (FCB)",
+    "object_code": "020",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "20",
+    "uacs_code": "1010202020",
+    "description": "Cash in Bank - Local Currency, Current Account - Fuji-Mizuho Bank",
+    "object_code": "020",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "21",
+    "uacs_code": "1010202021",
+    "description": "Cash in Bank - Local Currency, Current Account - Hong Kong and Shanghai Banking Corporation",
+    "object_code": "020",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "22",
+    "uacs_code": "1010202022",
+    "description": "Cash in Bank - Local Currency, Current Account - International Commercial Bank of China",
+    "object_code": "020",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "23",
+    "uacs_code": "1010202023",
+    "description": "Cash in Bank - Local Currency, Current Account - International Exchange Bank",
+    "object_code": "020",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "24",
+    "uacs_code": "1010202024",
+    "description": "Cash in Bank - Local Currency, Current Account - Land Bank of the Philippines (LBP)",
+    "object_code": "020",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "25",
+    "uacs_code": "1010202025",
+    "description": "Cash in Bank - Local Currency, Current Account - Maybank Philippines",
+    "object_code": "020",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "26",
+    "uacs_code": "1010202026",
+    "description": "Cash in Bank - Local Currency, Current Account - Metropolitan Bank and Trust Company",
+    "object_code": "020",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "27",
+    "uacs_code": "1010202027",
+    "description": "Cash in Bank - Local Currency, Current Account - Philippine Bank of Communication",
+    "object_code": "020",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "28",
+    "uacs_code": "1010202028",
+    "description": "Cash in Bank - Local Currency, Current Account - Philippine Business Bank",
+    "object_code": "020",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "29",
+    "uacs_code": "1010202029",
+    "description": "Cash in Bank - Local Currency, Current Account - Philippine National Bank (PNB)",
+    "object_code": "020",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "30",
+    "uacs_code": "1010202030",
+    "description": "Cash in Bank - Local Currency, Current Account - Philippine Postal Savings Bank (PPSB)",
+    "object_code": "020",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "31",
+    "uacs_code": "1010202031",
+    "description": "Cash in Bank - Local Currency, Current Account - Philippine Trust Company",
+    "object_code": "020",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "32",
+    "uacs_code": "1010202032",
+    "description": "Cash in Bank - Local Currency, Current Account - Philippine Veterans Bank (PVB)",
+    "object_code": "020",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "33",
+    "uacs_code": "1010202033",
+    "description": "Cash in Bank - Local Currency, Current Account - Rizal Commercial Banking Corporation (RCBC)",
+    "object_code": "020",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "34",
+    "uacs_code": "1010202034",
+    "description": "Cash in Bank - Local Currency, Current Account - Robinsons Bank",
+    "object_code": "020",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "35",
+    "uacs_code": "1010202035",
+    "description": "Cash in Bank - Local Currency, Current Account - Security Bank",
+    "object_code": "020",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "36",
+    "uacs_code": "1010202036",
+    "description": "Cash in Bank - Local Currency, Current Account - Standard Chartered Bank",
+    "object_code": "020",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "37",
+    "uacs_code": "1010202037",
+    "description": "Cash in Bank - Local Currency, Current Account - Sterling Bank of Asia",
+    "object_code": "020",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "38",
+    "uacs_code": "1010202038",
+    "description": "Cash in Bank - Local Currency, Current Account - Union Bank of the Philippines",
+    "object_code": "020",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "39",
+    "uacs_code": "1010202039",
+    "description": "Cash in Bank - Local Currency, Current Account - United Coconut Planters Bank (UCPB)",
+    "object_code": "020",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "01",
+    "uacs_code": "1010203001",
+    "description": "Cash in Bank - Local Currency, Savings Accounts - Land Bank of the Philippines (LBP)",
+    "object_code": "030",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "02",
+    "uacs_code": "1010203002",
+    "description": "Cash in Bank - Local Currency, Savings Accounts - Development Bank of the Philippines (DBP)",
+    "object_code": "030",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "03",
+    "uacs_code": "1010203003",
+    "description": "Cash in Bank - Local Currency, Savings Accounts - Philippine Veterans Bank (PVB)",
+    "object_code": "030",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "04",
+    "uacs_code": "1010203004",
+    "description": "Cash in Bank - Local Currency, Savings Accounts - Philippine National Bank (PNB)",
+    "object_code": "030",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "05",
+    "uacs_code": "1010203005",
+    "description": "Cash in Bank - Local Currency, Savings Accounts - Philippine Amanah Bank (PAB)",
+    "object_code": "030",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "06",
+    "uacs_code": "1010203006",
+    "description": "Cash in Bank - Local Currency, Savings Accounts - Philippine Postal Savings Bank (PPSB)",
+    "object_code": "030",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "07",
+    "uacs_code": "1010203007",
+    "description": "Cash in Bank - Local Currency, Savings Accounts - United Coconut Planters Bank (UCPB)",
+    "object_code": "030",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "01",
+    "uacs_code": "1010204001",
+    "description": "Cash in Bank - Local Currency, Time Deposits - Land Bank of the Philippines (LBP)",
+    "object_code": "040",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "02",
+    "uacs_code": "1010204002",
+    "description": "Cash in Bank - Local Currency, Time Deposits - Development Bank of the Philippines (DBP)",
+    "object_code": "040",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "03",
+    "uacs_code": "1010204003",
+    "description": "Cash in Bank - Local Currency, Time Deposits - Philippine Veterans Bank (PVB)",
+    "object_code": "040",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "04",
+    "uacs_code": "1010204004",
+    "description": "Cash in Bank - Local Currency, Time Deposits - Philippine National Bank (PNB)",
+    "object_code": "040",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "05",
+    "uacs_code": "1010204005",
+    "description": "Cash in Bank - Local Currency, Time Deposits - United Coconut Planters Bank (UCPB)",
+    "object_code": "040",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "01",
+    "uacs_code": "1010302001",
+    "description": "Cash in Bank - Foreign Currency, Current Account - Foreign Banks",
+    "object_code": "020",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "01",
+    "uacs_code": "1010303001",
+    "description": "Cash in Bank - Foreign Currency, Savings Account - Land Bank of the Philippines (LBP)",
+    "object_code": "030",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "02",
+    "uacs_code": "1010303002",
+    "description": "Cash in Bank - Foreign Currency, Savings Account - Development Bank of the Philippines (DBP)",
+    "object_code": "030",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "03",
+    "uacs_code": "1010303003",
+    "description": "Cash in Bank - Foreign Currency, Savings Account - Philippine National Bank (PNB)",
+    "object_code": "030",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "04",
+    "uacs_code": "1010303004",
+    "description": "Cash in Bank - Foreign Currency, Savings Account - United Coconut Planters Bank (UCPB)",
+    "object_code": "030",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "05",
+    "uacs_code": "1010303005",
+    "description": "Cash in Bank - Foreign Currency, Savings Account - Foreign Banks",
+    "object_code": "030",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "01",
+    "uacs_code": "1010304001",
+    "description": "Cash in Bank - Foreign Currency, Time Deposits - Land Bank of the Philippines (LBP)",
+    "object_code": "040",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "02",
+    "uacs_code": "1010304002",
+    "description": "Cash in Bank - Foreign Currency, Time Deposits - Development Bank of the Philippines (DBP)",
+    "object_code": "040",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "03",
+    "uacs_code": "1010304003",
+    "description": "Cash in Bank - Foreign Currency, Time Deposits - Philippine National Bank (PNB)",
+    "object_code": "040",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "04",
+    "uacs_code": "1010304004",
+    "description": "Cash in Bank - Foreign Currency, Time Deposits - United Coconut Planters Bank (UCPB)",
+    "object_code": "040",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "01",
+    "uacs_code": "1010502001",
+    "description": "Time Deposits - Local Currency - Land Bank of the Philippines (LBP)",
+    "object_code": "020",
+    "group_code": "05",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "02",
+    "uacs_code": "1010502002",
+    "description": "Time Deposits - Local Currency - Development Bank of the Philippines (DBP)",
+    "object_code": "020",
+    "group_code": "05",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "03",
+    "uacs_code": "1010502003",
+    "description": "Time Deposits - Local Currency - Philippine Veterans Bank (PVB)",
+    "object_code": "020",
+    "group_code": "05",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "04",
+    "uacs_code": "1010502004",
+    "description": "Time Deposits - Local Currency - Philippine National Bank (PNB)",
+    "object_code": "020",
+    "group_code": "05",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "05",
+    "uacs_code": "1010502005",
+    "description": "Time Deposits - Local Currency - United Coconut Planters Bank (UCPB)",
+    "object_code": "020",
+    "group_code": "05",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "01",
+    "uacs_code": "1010503001",
+    "description": "Time Deposits - Foreign Currency - Land Bank of the Philippines (LBP)",
+    "object_code": "030",
+    "group_code": "05",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "02",
+    "uacs_code": "1010503002",
+    "description": "Time Deposits - Foreign Currency - Development Bank of the Philippines (DBP)",
+    "object_code": "030",
+    "group_code": "05",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "03",
+    "uacs_code": "1010503003",
+    "description": "Time Deposits - Foreign Currency - Philippine National Bank (PNB)",
+    "object_code": "030",
+    "group_code": "05",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "04",
+    "uacs_code": "1010503004",
+    "description": "Time Deposits - Foreign Currency - United Coconut Planters Bank (UCPB)",
+    "object_code": "030",
+    "group_code": "05",
+    "sub_class_code": "01",
+    "classification_code": "1",
+    "expense_category": "01"
+  },
+  {
+    "code": "01",
+    "uacs_code": "1030125001",
+    "description": "Land Bank of the Philippines (LBP)",
+    "object_code": "250",
+    "group_code": "01",
+    "sub_class_code": "03",
+    "classification_code": "1",
+    "expense_category": "03"
+  },
+  {
+    "code": "02",
+    "uacs_code": "1030125002",
+    "description": "Development Bank of the Philippines (DBP)",
+    "object_code": "250",
+    "group_code": "01",
+    "sub_class_code": "03",
+    "classification_code": "1",
+    "expense_category": "03"
+  },
+  {
+    "code": "03",
+    "uacs_code": "1030125003",
+    "description": "Philippine Veterans Bank (PVB)",
+    "object_code": "250",
+    "group_code": "01",
+    "sub_class_code": "03",
+    "classification_code": "1",
+    "expense_category": "03"
+  },
+  {
+    "code": "04",
+    "uacs_code": "1030125004",
+    "description": "Philippine National Bank (PNB)",
+    "object_code": "250",
+    "group_code": "01",
+    "sub_class_code": "03",
+    "classification_code": "1",
+    "expense_category": "03"
+  },
+  {
+    "code": "05",
+    "uacs_code": "1030125005",
+    "description": "Philippine Amanah Bank (PAB)",
+    "object_code": "250",
+    "group_code": "01",
+    "sub_class_code": "03",
+    "classification_code": "1",
+    "expense_category": "03"
+  },
+  {
+    "code": "06",
+    "uacs_code": "1030125006",
+    "description": "Philippine Postal Savings Bank (PPSB)",
+    "object_code": "250",
+    "group_code": "01",
+    "sub_class_code": "03",
+    "classification_code": "1",
+    "expense_category": "03"
+  },
+  {
+    "code": "07",
+    "uacs_code": "1030125007",
+    "description": "United Coconut Planters Bank (UCPB)",
+    "object_code": "250",
+    "group_code": "01",
+    "sub_class_code": "03",
+    "classification_code": "1",
+    "expense_category": "03"
+  },
+  {
+    "code": "08",
+    "uacs_code": "1030125008",
+    "description": "Agents (PSA)",
+    "object_code": "250",
+    "group_code": "01",
+    "sub_class_code": "03",
+    "classification_code": "1",
+    "expense_category": "03"
+  },
+  {
+    "code": "01",
+    "uacs_code": "1040101001",
+    "description": "Supplies and Materials",
+    "object_code": "010",
+    "group_code": "01",
+    "sub_class_code": "04",
+    "classification_code": "1",
+    "expense_category": "04"
+  },
+  {
+    "code": "02",
+    "uacs_code": "1040101002",
+    "description": "Drugs and Medicines",
+    "object_code": "010",
+    "group_code": "01",
+    "sub_class_code": "04",
+    "classification_code": "1",
+    "expense_category": "04"
+  },
+  {
+    "code": "03",
+    "uacs_code": "1040101003",
+    "description": "Agricultural Produce",
+    "object_code": "010",
+    "group_code": "01",
+    "sub_class_code": "04",
+    "classification_code": "1",
+    "expense_category": "04"
+  },
+  {
+    "code": "04",
+    "uacs_code": "1040101004",
+    "description": "Ammunitions",
+    "object_code": "010",
+    "group_code": "01",
+    "sub_class_code": "04",
+    "classification_code": "1",
+    "expense_category": "04"
+  },
+  {
+    "code": "05",
+    "uacs_code": "1040101005",
+    "description": "Property and Equipment",
+    "object_code": "010",
+    "group_code": "01",
+    "sub_class_code": "04",
+    "classification_code": "1",
+    "expense_category": "04"
+  },
+  {
+    "code": "99",
+    "uacs_code": "1040101099",
+    "description": "Others",
+    "object_code": "010",
+    "group_code": "01",
+    "sub_class_code": "04",
+    "classification_code": "1",
+    "expense_category": "04"
+  },
+  {
+    "code": "01",
+    "uacs_code": "1060509001",
+    "description": "Firefighting Equipment and Accessories",
+    "object_code": "090",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "expense_category": "06"
+  },
+  {
+    "code": "02",
+    "uacs_code": "1060509002",
+    "description": "Flood and Rescue Equipment",
+    "object_code": "090",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "expense_category": "06"
+  },
+  {
+    "code": "03",
+    "uacs_code": "1060509003",
+    "description": "Earthquake Rescue Equipment",
+    "object_code": "090",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "expense_category": "06"
+  },
+  {
+    "code": "04",
+    "uacs_code": "1060509004",
+    "description": "Volcanic Eruption Rescue Equipment",
+    "object_code": "090",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "expense_category": "06"
+  },
+  {
+    "code": "05",
+    "uacs_code": "1060509005",
+    "description": "Landslide Rescue Equipment",
+    "object_code": "090",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "1",
+    "expense_category": "06"
+  },
+  {
+    "code": "01",
+    "uacs_code": "1070201001",
+    "description": "Livestock Held for Consumption",
+    "object_code": "010",
+    "group_code": "02",
+    "sub_class_code": "07",
+    "classification_code": "1",
+    "expense_category": "07"
+  },
+  {
+    "code": "02",
+    "uacs_code": "1070201002",
+    "description": "Livestock Held for Sale",
+    "object_code": "010",
+    "group_code": "02",
+    "sub_class_code": "07",
+    "classification_code": "1",
+    "expense_category": "07"
+  },
+  {
+    "code": "03",
+    "uacs_code": "1070201003",
+    "description": "Livestock Held for Distribution",
+    "object_code": "010",
+    "group_code": "02",
+    "sub_class_code": "07",
+    "classification_code": "1",
+    "expense_category": "07"
+  },
+  {
+    "code": "01",
+    "uacs_code": "1070202001",
+    "description": "Trees, Plants and Crops Held for Consumption",
+    "object_code": "020",
+    "group_code": "02",
+    "sub_class_code": "07",
+    "classification_code": "1",
+    "expense_category": "07"
+  },
+  {
+    "code": "02",
+    "uacs_code": "1070202002",
+    "description": "Trees, Plants and Crops Held for Sale",
+    "object_code": "020",
+    "group_code": "02",
+    "sub_class_code": "07",
+    "classification_code": "1",
+    "expense_category": "07"
+  },
+  {
+    "code": "03",
+    "uacs_code": "1070202003",
+    "description": "Trees, Plants and Crops Held for Distribution",
+    "object_code": "020",
+    "group_code": "02",
+    "sub_class_code": "07",
+    "classification_code": "1",
+    "expense_category": "07"
+  },
+  {
+    "code": "01",
+    "uacs_code": "1990210001",
+    "description": "ICT Software Subscription",
+    "object_code": "100",
+    "group_code": "02",
+    "sub_class_code": "99",
+    "classification_code": "1",
+    "expense_category": "99"
+  },
+  {
+    "code": "02",
+    "uacs_code": "1990210002",
+    "description": "Data Center Service",
+    "object_code": "100",
+    "group_code": "02",
+    "sub_class_code": "99",
+    "classification_code": "1",
+    "expense_category": "99"
+  },
+  {
+    "code": "03",
+    "uacs_code": "1990210003",
+    "description": "Cloud Computing Service",
+    "object_code": "100",
+    "group_code": "02",
+    "sub_class_code": "99",
+    "classification_code": "1",
+    "expense_category": "99"
+  },
+  {
+    "code": "04",
+    "uacs_code": "1990210004",
+    "description": "Library and Other Reading Materials Subscription Expenses",
+    "object_code": "100",
+    "group_code": "02",
+    "sub_class_code": "99",
+    "classification_code": "1",
+    "expense_category": "99"
+  },
+  {
+    "code": "99",
+    "uacs_code": "1990210099",
+    "description": "Other Subscription Expenses",
+    "object_code": "100",
+    "group_code": "02",
+    "sub_class_code": "99",
+    "classification_code": "1",
+    "expense_category": "99"
+  },
+  {
+    "code": "01",
+    "uacs_code": "2020102001",
+    "description": "Life and Retirement Premium",
+    "object_code": "020",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "2",
+    "expense_category": "02"
+  },
+  {
+    "code": "02",
+    "uacs_code": "2020102002",
+    "description": "ECC",
+    "object_code": "020",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "2",
+    "expense_category": "02"
+  },
+  {
+    "code": "03",
+    "uacs_code": "2020102003",
+    "description": "Salary Loan",
+    "object_code": "020",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "2",
+    "expense_category": "02"
+  },
+  {
+    "code": "04",
+    "uacs_code": "2020102004",
+    "description": "Policy Loan",
+    "object_code": "020",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "2",
+    "expense_category": "02"
+  },
+  {
+    "code": "01",
+    "uacs_code": "2020103001",
+    "description": "Pag-IBIG Premium",
+    "object_code": "030",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "2",
+    "expense_category": "02"
+  },
+  {
+    "code": "02",
+    "uacs_code": "2020103002",
+    "description": "Pag-IBIG Multi-Purpose Loan",
+    "object_code": "030",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "2",
+    "expense_category": "02"
+  },
+  {
+    "code": "03",
+    "uacs_code": "2020103003",
+    "description": "Pag-IBIG Housing Loan",
+    "object_code": "030",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "2",
+    "expense_category": "02"
+  },
+  {
+    "code": "01",
+    "uacs_code": "2040101001",
+    "description": "Trust Liabilities",
+    "object_code": "010",
+    "group_code": "01",
+    "sub_class_code": "04",
+    "classification_code": "2",
+    "expense_category": "04"
+  },
+  {
+    "code": "02",
+    "uacs_code": "2040101002",
+    "description": "Trust Liabilities - Fuel Marking Trust Account",
+    "object_code": "010",
+    "group_code": "01",
+    "sub_class_code": "04",
+    "classification_code": "2",
+    "expense_category": "04"
+  },
+  {
+    "code": "01",
+    "uacs_code": "4010101001",
+    "description": "Income Tax - Individual",
+    "object_code": "010",
+    "group_code": "01",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "expense_category": "01"
+  },
+  {
+    "code": "02",
+    "uacs_code": "4010101002",
+    "description": "Income Tax - Partnerships",
+    "object_code": "010",
+    "group_code": "01",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "expense_category": "01"
+  },
+  {
+    "code": "03",
+    "uacs_code": "4010101003",
+    "description": "Income Tax - Corporations",
+    "object_code": "010",
+    "group_code": "01",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "expense_category": "01"
+  },
+  {
+    "code": "01",
+    "uacs_code": "4010203001",
+    "description": "Capital Gains Tax - Individuals",
+    "object_code": "030",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "expense_category": "01"
+  },
+  {
+    "code": "02",
+    "uacs_code": "4010203002",
+    "description": "Capital Gains Tax - Corporations and Other Enterprises",
+    "object_code": "030",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "expense_category": "01"
+  },
+  {
+    "code": "01",
+    "uacs_code": "4010301001",
+    "description": "Live Animals, Animals Products",
+    "object_code": "010",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "expense_category": "01"
+  },
+  {
+    "code": "02",
+    "uacs_code": "4010301002",
+    "description": "Vegetable Products",
+    "object_code": "010",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "expense_category": "01"
+  },
+  {
+    "code": "03",
+    "uacs_code": "4010301003",
+    "description": "Animal or Vegetable Fats and Oils and their Cleavage Products; Prepared Edible Fats; Animal or Vegetable Waxes",
+    "object_code": "010",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "expense_category": "01"
+  },
+  {
+    "code": "04",
+    "uacs_code": "4010301004",
+    "description": "Prepared Foodstuffs; Beverages, Spirits and Vinegar; Tobacco and Manufactured Tobacco Substitutes",
+    "object_code": "010",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "expense_category": "01"
+  },
+  {
+    "code": "05",
+    "uacs_code": "4010301005",
+    "description": "Mineral Products",
+    "object_code": "010",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "expense_category": "01"
+  },
+  {
+    "code": "06",
+    "uacs_code": "4010301006",
+    "description": "Products of the Chemical or Allied Industries",
+    "object_code": "010",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "expense_category": "01"
+  },
+  {
+    "code": "07",
+    "uacs_code": "4010301007",
+    "description": "Plastics and Articles Thereof; Rubber and Articles Thereof",
+    "object_code": "010",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "expense_category": "01"
+  },
+  {
+    "code": "08",
+    "uacs_code": "4010301008",
+    "description": "Raw Hides and Skins, Leather, Furskins and Articles Thereof; Saddlery and Harness; Travel Goods, Handbags and Similar Containers; Articles of Animal Gut (Other than Silk-Worm Gut)",
+    "object_code": "010",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "expense_category": "01"
+  },
+  {
+    "code": "09",
+    "uacs_code": "4010301009",
+    "description": "Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, or of Esparto or of other Plaiting Materials; Basketware and Wickerwork",
+    "object_code": "010",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "expense_category": "01"
+  },
+  {
+    "code": "10",
+    "uacs_code": "4010301010",
+    "description": "Pulp of Wood or of other Fibrous Cellulosic Material; Recovered (Waste and Scrap) Paper or Paperboard; Paper and Paperboard and Articles Thereof",
+    "object_code": "010",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "expense_category": "01"
+  },
+  {
+    "code": "11",
+    "uacs_code": "4010301011",
+    "description": "Textiles and Textile Articles",
+    "object_code": "010",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "expense_category": "01"
+  },
+  {
+    "code": "12",
+    "uacs_code": "4010301012",
+    "description": "Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking-Sticks, Seat-Sticks, Whips, Riding-Crops and Parts Thereof; Prepared Feathers and Articles made Therewith; Artificial Flowers; Articles of Human Hair",
+    "object_code": "010",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "expense_category": "01"
+  },
+  {
+    "code": "13",
+    "uacs_code": "4010301013",
+    "description": "Articles of Stone, Plaster, Cement, Asbestos, Mica or Similar Materials; Ceramic Products; Glass and Glassware",
+    "object_code": "010",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "expense_category": "01"
+  },
+  {
+    "code": "14",
+    "uacs_code": "4010301014",
+    "description": "Natural or Cultured Pearls, Precious or Semi-Precious Stones, Precious Metals, Metals Clad with Precious Metal, and Articles Thereof; Imitation Jewellery; Coin",
+    "object_code": "010",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "expense_category": "01"
+  },
+  {
+    "code": "15",
+    "uacs_code": "4010301015",
+    "description": "Base Metals and Articles of Base Metal",
+    "object_code": "010",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "expense_category": "01"
+  },
+  {
+    "code": "16",
+    "uacs_code": "4010301016",
+    "description": "Machinery and Mechanical Appliances; Electrical Equipment; Parts Thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders and Reproducers, and Parts and Accesories of Such Articles",
+    "object_code": "010",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "expense_category": "01"
+  },
+  {
+    "code": "17",
+    "uacs_code": "4010301017",
+    "description": "Vehicles, Aircraft, Vessels And Associated Transport Equipment",
+    "object_code": "010",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "expense_category": "01"
+  },
+  {
+    "code": "18",
+    "uacs_code": "4010301018",
+    "description": "Optical, Photographic, Cinematographic, Measuring, Checking, Precision, Medical or Surgical Instruments and Apparatus; Clocks and Watches; Musical Instruments; Parts and Accessories Thereof",
+    "object_code": "010",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "expense_category": "01"
+  },
+  {
+    "code": "19",
+    "uacs_code": "4010301019",
+    "description": "Arms and Ammunition; Parts and Accessories Thereof",
+    "object_code": "010",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "expense_category": "01"
+  },
+  {
+    "code": "20",
+    "uacs_code": "4010301020",
+    "description": "Miscellaneous Manufactured Articles",
+    "object_code": "010",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "expense_category": "01"
+  },
+  {
+    "code": "21",
+    "uacs_code": "4010301021",
+    "description": "Works of Arts, Collectors' Pieces And Antiques",
+    "object_code": "010",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "expense_category": "01"
+  },
+  {
+    "code": "22",
+    "uacs_code": "4010301022",
+    "description": "Rice Tariff Revenue",
+    "object_code": "010",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "expense_category": "01"
+  },
+  {
+    "code": "99",
+    "uacs_code": "4010301099",
+    "description": "Other Import Duties",
+    "object_code": "010",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "expense_category": "01"
+  },
+  {
+    "code": "01",
+    "uacs_code": "4010302001",
+    "description": "Excise - Tobacco Products",
+    "object_code": "020",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "expense_category": "01"
+  },
+  {
+    "code": "02",
+    "uacs_code": "4010302002",
+    "description": "Excise - Alcoholic Beverages",
+    "object_code": "020",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "expense_category": "01"
+  },
+  {
+    "code": "03",
+    "uacs_code": "4010302003",
+    "description": "Excise - Mining - Non-Metallic Products",
+    "object_code": "020",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "expense_category": "01"
+  },
+  {
+    "code": "04",
+    "uacs_code": "4010302004",
+    "description": "Excise - Mining - Metallic Products",
+    "object_code": "020",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "expense_category": "01"
+  },
+  {
+    "code": "05",
+    "uacs_code": "4010302005",
+    "description": "Excise - Petroleum Products",
+    "object_code": "020",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "expense_category": "01"
+  },
+  {
+    "code": "06",
+    "uacs_code": "4010302006",
+    "description": "Excise - Motor Vehicles",
+    "object_code": "020",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "expense_category": "01"
+  },
+  {
+    "code": "07",
+    "uacs_code": "4010302007",
+    "description": "Excise - Mineral Products",
+    "object_code": "020",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "expense_category": "01"
+  },
+  {
+    "code": "99",
+    "uacs_code": "4010302099",
+    "description": "Excise - Others",
+    "object_code": "020",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "expense_category": "01"
+  },
+  {
+    "code": "01",
+    "uacs_code": "4010303001",
+    "description": "Value Added Tax",
+    "object_code": "030",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "expense_category": "01"
+  },
+  {
+    "code": "02",
+    "uacs_code": "4010303002",
+    "description": "Expanded Value Added Tax",
+    "object_code": "030",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "expense_category": "01"
+  },
+  {
+    "code": "03",
+    "uacs_code": "4010303003",
+    "description": "Percentage Tax",
+    "object_code": "030",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "expense_category": "01"
+  },
+  {
+    "code": "01",
+    "uacs_code": "4010402001",
+    "description": "MVUC Proper",
+    "object_code": "020",
+    "group_code": "04",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "expense_category": "01"
+  },
+  {
+    "code": "02",
+    "uacs_code": "4010402002",
+    "description": "MVUC Fines and Penalties",
+    "object_code": "020",
+    "group_code": "04",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "expense_category": "01"
+  },
+  {
+    "code": "03",
+    "uacs_code": "4010402003",
+    "description": "Axle Overloading",
+    "object_code": "020",
+    "group_code": "04",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "expense_category": "01"
+  },
+  {
+    "code": "01",
+    "uacs_code": "4010499001",
+    "description": "Other Taxes - Business",
+    "object_code": "990",
+    "group_code": "04",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "expense_category": "01"
+  },
+  {
+    "code": "02",
+    "uacs_code": "4010499002",
+    "description": "Other Taxes - Other than Business",
+    "object_code": "990",
+    "group_code": "04",
+    "sub_class_code": "01",
+    "classification_code": "4",
+    "expense_category": "01"
+  },
+  {
+    "code": "01",
+    "uacs_code": "4020101001",
+    "description": "Permit Fees Import",
+    "object_code": "010",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "02",
+    "uacs_code": "4020101002",
+    "description": "Permit Fees Export",
+    "object_code": "010",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "99",
+    "uacs_code": "4020101099",
+    "description": "Other Permit Fees",
+    "object_code": "010",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "01",
+    "uacs_code": "4020103001",
+    "description": "Regular Plates",
+    "object_code": "030",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "02",
+    "uacs_code": "4020103002",
+    "description": "Optional Motor Vehicle Special Plate",
+    "object_code": "030",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "03",
+    "uacs_code": "4020103003",
+    "description": "Vanity Licensed Plates",
+    "object_code": "030",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "04",
+    "uacs_code": "4020103004",
+    "description": "Validating Tags/Stickers",
+    "object_code": "030",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "01",
+    "uacs_code": "4020104001",
+    "description": "Clearance Fees",
+    "object_code": "040",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "02",
+    "uacs_code": "4020104002",
+    "description": "Certification Fees",
+    "object_code": "040",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "03",
+    "uacs_code": "4020104003",
+    "description": "Endorsement Fees",
+    "object_code": "040",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "04",
+    "uacs_code": "4020104004",
+    "description": "Identification of Specimens",
+    "object_code": "040",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "01",
+    "uacs_code": "4020111001",
+    "description": "Accreditation Fees",
+    "object_code": "110",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "02",
+    "uacs_code": "4020111002",
+    "description": "Weights and Measures Fees",
+    "object_code": "110",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "99",
+    "uacs_code": "4020111099",
+    "description": "Other Verification and Authentication Fees",
+    "object_code": "110",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "01",
+    "uacs_code": "4020112001",
+    "description": "Passport Fees",
+    "object_code": "120",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "02",
+    "uacs_code": "4020112002",
+    "description": "Visa Fees",
+    "object_code": "120",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "01",
+    "uacs_code": "4020113001",
+    "description": "Analysis Fees",
+    "object_code": "130",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "02",
+    "uacs_code": "4020113002",
+    "description": "Appeal Fees",
+    "object_code": "130",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "03",
+    "uacs_code": "4020113003",
+    "description": "Application Fees",
+    "object_code": "130",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "04",
+    "uacs_code": "4020113004",
+    "description": "Assessment Fees",
+    "object_code": "130",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "05",
+    "uacs_code": "4020113005",
+    "description": "Execution Fees",
+    "object_code": "130",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "06",
+    "uacs_code": "4020113006",
+    "description": "Express Lane or Special Lane Fees",
+    "object_code": "130",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "07",
+    "uacs_code": "4020113007",
+    "description": "Filing Fees",
+    "object_code": "130",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "08",
+    "uacs_code": "4020113008",
+    "description": "Identity Card Fees",
+    "object_code": "130",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "09",
+    "uacs_code": "4020113009",
+    "description": "Import Processing Fees",
+    "object_code": "130",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "10",
+    "uacs_code": "4020113010",
+    "description": "Oathtaking Fees",
+    "object_code": "130",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "11",
+    "uacs_code": "4020113011",
+    "description": "Review Fees",
+    "object_code": "130",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "12",
+    "uacs_code": "4020113012",
+    "description": "Testing Fees",
+    "object_code": "130",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "99",
+    "uacs_code": "4020113099",
+    "description": "Other Processing Fees",
+    "object_code": "130",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "01",
+    "uacs_code": "4020199001",
+    "description": "Amendment Fees",
+    "object_code": "990",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "02",
+    "uacs_code": "4020199002",
+    "description": "Calibration Fees",
+    "object_code": "990",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "03",
+    "uacs_code": "4020199003",
+    "description": "Escheat Fees of Unclaimed Balances",
+    "object_code": "990",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "04",
+    "uacs_code": "4020199004",
+    "description": "Service Fees on Relent Loan",
+    "object_code": "990",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "05",
+    "uacs_code": "4020199005",
+    "description": "Technology Development Transfer and Commercialization",
+    "object_code": "990",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "06",
+    "uacs_code": "4020199006",
+    "description": "Other Geological and Energy Data",
+    "object_code": "990",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "99",
+    "uacs_code": "4020199099",
+    "description": "Other Service Income",
+    "object_code": "990",
+    "group_code": "01",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "01",
+    "uacs_code": "4020201001",
+    "description": "Tuition Fees",
+    "object_code": "010",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "02",
+    "uacs_code": "4020201002",
+    "description": "Income Collected from Students",
+    "object_code": "010",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "03",
+    "uacs_code": "4020201003",
+    "description": "Income from Other Sources",
+    "object_code": "010",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "99",
+    "uacs_code": "4020201099",
+    "description": "Other School Fees",
+    "object_code": "010",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "01",
+    "uacs_code": "4020216001",
+    "description": "Book Sales",
+    "object_code": "160",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "02",
+    "uacs_code": "4020216002",
+    "description": "Consultancy Fees",
+    "object_code": "160",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "03",
+    "uacs_code": "4020216003",
+    "description": "Entrance Fees",
+    "object_code": "160",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "04",
+    "uacs_code": "4020216004",
+    "description": "Film Showing Fees",
+    "object_code": "160",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "05",
+    "uacs_code": "4020216005",
+    "description": "Sales of Accountable Forms",
+    "object_code": "160",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "06",
+    "uacs_code": "4020216006",
+    "description": "Sale of Animals, Meat and Dairy",
+    "object_code": "160",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "07",
+    "uacs_code": "4020216007",
+    "description": "Sale of Technology thru Payback",
+    "object_code": "160",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "08",
+    "uacs_code": "4020216008",
+    "description": "Sale of Training Manuals",
+    "object_code": "160",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "09",
+    "uacs_code": "4020216009",
+    "description": "Sale of Drugs, Medicines and Other Medical Supplies",
+    "object_code": "160",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "99",
+    "uacs_code": "4020216099",
+    "description": "Other Sales",
+    "object_code": "160",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "01",
+    "uacs_code": "4020217001",
+    "description": "Drugs and Medicines",
+    "object_code": "170",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "02",
+    "uacs_code": "4020217002",
+    "description": "Medical Supplies",
+    "object_code": "170",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "03",
+    "uacs_code": "4020217003",
+    "description": "Medical Fees - Operating Room",
+    "object_code": "170",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "04",
+    "uacs_code": "4020217004",
+    "description": "Medical Fees - Radiology",
+    "object_code": "170",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "05",
+    "uacs_code": "4020217005",
+    "description": "Medical Fees - Laboratory",
+    "object_code": "170",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "06",
+    "uacs_code": "4020217006",
+    "description": "Medical Fees - Hemodialysis",
+    "object_code": "170",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "07",
+    "uacs_code": "4020217007",
+    "description": "Medical Fees - Cardio-Vascular Services",
+    "object_code": "170",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "08",
+    "uacs_code": "4020217008",
+    "description": "Medical Fees - Nuclear Medicine Services",
+    "object_code": "170",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "09",
+    "uacs_code": "4020217009",
+    "description": "Medical Fees - Physical Medicine & Rehabilitation Services",
+    "object_code": "170",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "10",
+    "uacs_code": "4020217010",
+    "description": "Medical Fees - Pulmonary Services",
+    "object_code": "170",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "11",
+    "uacs_code": "4020217011",
+    "description": "Medical Fees - Neurology Services",
+    "object_code": "170",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "12",
+    "uacs_code": "4020217012",
+    "description": "Medical Fees - Emergency Room Services",
+    "object_code": "170",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "99",
+    "uacs_code": "4020217099",
+    "description": "Other Fees",
+    "object_code": "170",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "01",
+    "uacs_code": "4020221001",
+    "description": "Interest on NG Deposits",
+    "object_code": "210",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "02",
+    "uacs_code": "4020221002",
+    "description": "Interest on Advances to GOCCs",
+    "object_code": "210",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "99",
+    "uacs_code": "4020221099",
+    "description": "Interest Income - Others",
+    "object_code": "210",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "01",
+    "uacs_code": "4020299001",
+    "description": "Income from Compromise Agreement",
+    "object_code": "990",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "02",
+    "uacs_code": "4020299002",
+    "description": "Pasture Income",
+    "object_code": "990",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "03",
+    "uacs_code": "4020299003",
+    "description": "Warehousing Fees",
+    "object_code": "990",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "99",
+    "uacs_code": "4020299099",
+    "description": "Other Business Income",
+    "object_code": "990",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "4",
+    "expense_category": "02"
+  },
+  {
+    "code": "01",
+    "uacs_code": "4040101001",
+    "description": "Tobacco Excise Tax (Virginia) per R.A. 7171",
+    "object_code": "010",
+    "group_code": "01",
+    "sub_class_code": "04",
+    "classification_code": "4",
+    "expense_category": "04"
+  },
+  {
+    "code": "02",
+    "uacs_code": "4040101002",
+    "description": "Tobacco Excise Tax (Burley and Native) per R.A. 8240",
+    "object_code": "010",
+    "group_code": "01",
+    "sub_class_code": "04",
+    "classification_code": "4",
+    "expense_category": "04"
+  },
+  {
+    "code": "03",
+    "uacs_code": "4040101003",
+    "description": "Mining Taxes per R.A. 7160",
+    "object_code": "010",
+    "group_code": "01",
+    "sub_class_code": "04",
+    "classification_code": "4",
+    "expense_category": "04"
+  },
+  {
+    "code": "04",
+    "uacs_code": "4040101004",
+    "description": "Royalties per R.A.7160",
+    "object_code": "010",
+    "group_code": "01",
+    "sub_class_code": "04",
+    "classification_code": "4",
+    "expense_category": "04"
+  },
+  {
+    "code": "05",
+    "uacs_code": "4040101005",
+    "description": "Forestry Charges per R.A.7160",
+    "object_code": "010",
+    "group_code": "01",
+    "sub_class_code": "04",
+    "classification_code": "4",
+    "expense_category": "04"
+  },
+  {
+    "code": "06",
+    "uacs_code": "4040101006",
+    "description": "Fishery Charges per R.A.7160",
+    "object_code": "010",
+    "group_code": "01",
+    "sub_class_code": "04",
+    "classification_code": "4",
+    "expense_category": "04"
+  },
+  {
+    "code": "07",
+    "uacs_code": "4040101007",
+    "description": "Renewable Energy charges per R.A.9513",
+    "object_code": "010",
+    "group_code": "01",
+    "sub_class_code": "04",
+    "classification_code": "4",
+    "expense_category": "04"
+  },
+  {
+    "code": "08",
+    "uacs_code": "4040101008",
+    "description": "Income Tax Collections in ECO ZONES per R.A. 7922 and R.A. 8748",
+    "object_code": "010",
+    "group_code": "01",
+    "sub_class_code": "04",
+    "classification_code": "4",
+    "expense_category": "04"
+  },
+  {
+    "code": "09",
+    "uacs_code": "4040101009",
+    "description": "Value Added Tax per R.A. 7643",
+    "object_code": "010",
+    "group_code": "01",
+    "sub_class_code": "04",
+    "classification_code": "4",
+    "expense_category": "04"
+  },
+  {
+    "code": "10",
+    "uacs_code": "4040101010",
+    "description": "Value Added Tax in lieu of Franchise Tax per R.A. 7953 and R.A. 8407",
+    "object_code": "010",
+    "group_code": "01",
+    "sub_class_code": "04",
+    "classification_code": "4",
+    "expense_category": "04"
+  },
+  {
+    "code": "01",
+    "uacs_code": "4040301001",
+    "description": "Grants in cash from domestic sources",
+    "object_code": "010",
+    "group_code": "03",
+    "sub_class_code": "04",
+    "classification_code": "4",
+    "expense_category": "04"
+  },
+  {
+    "code": "02",
+    "uacs_code": "4040301002",
+    "description": "Grants in cash from foreign sources",
+    "object_code": "010",
+    "group_code": "03",
+    "sub_class_code": "04",
+    "classification_code": "4",
+    "expense_category": "04"
+  },
+  {
+    "code": "01",
+    "uacs_code": "4040302001",
+    "description": "Grants in kind from domestic sources",
+    "object_code": "020",
+    "group_code": "03",
+    "sub_class_code": "04",
+    "classification_code": "4",
+    "expense_category": "04"
+  },
+  {
+    "code": "02",
+    "uacs_code": "4040302002",
+    "description": "Grants in kind from foreign sources",
+    "object_code": "020",
+    "group_code": "03",
+    "sub_class_code": "04",
+    "classification_code": "4",
+    "expense_category": "04"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5010101001",
+    "description": "Basic Salary - Civilian",
+    "object_code": "010",
+    "group_code": "01",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5010101002",
+    "description": "Base Pay - Military/Uniformed Personnel",
+    "object_code": "010",
+    "group_code": "01",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5010201001",
+    "description": "PERA - Civilian",
+    "object_code": "010",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5010201002",
+    "description": "PERA - Military/Uniformed Personnel",
+    "object_code": "010",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5010203001",
+    "description": "Transportation Allowance (TA)",
+    "object_code": "030",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5010203002",
+    "description": "RATA of Sectoral/Alternate Sectoral Representatives",
+    "object_code": "030",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5010204001",
+    "description": "Clothing/Uniform Allowance - Civilian",
+    "object_code": "040",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5010204002",
+    "description": "Shoe Allowance - Civilian",
+    "object_code": "040",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "03",
+    "uacs_code": "5010204003",
+    "description": "Clothing/Uniform Allowance - Military/Uniformed Personnel",
+    "object_code": "040",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "04",
+    "uacs_code": "5010204004",
+    "description": "Clothing/Uniform Allowance - Initial - Military/Uniformed Personnel",
+    "object_code": "040",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "05",
+    "uacs_code": "5010204005",
+    "description": "Clothing/Uniform Allowance - Special - Military/Uniformed Personnel",
+    "object_code": "040",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "06",
+    "uacs_code": "5010204006",
+    "description": "Clothing/Uniform Allowance - Cold Weather - Military/Uniformed Personnel",
+    "object_code": "040",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "07",
+    "uacs_code": "5010204007",
+    "description": "Clothing/Uniform Allowance - Reenlistment - Military/Uniformed Personnel",
+    "object_code": "040",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "08",
+    "uacs_code": "5010204008",
+    "description": "Clothing/Uniform Allowance - Winter - Military/Uniformed Personnel",
+    "object_code": "040",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "09",
+    "uacs_code": "5010204009",
+    "description": "Clothing/Uniform Allowance - Combat - Military/Uniformed Personnel",
+    "object_code": "040",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "10",
+    "uacs_code": "5010204010",
+    "description": "Clothing/Uniform Allowance - Maintenance Cold Weather - Military/Uniformed Personnel",
+    "object_code": "040",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "11",
+    "uacs_code": "5010204011",
+    "description": "Clothing/Uniform Allowance - Replacement - Military/Uniformed Personnel",
+    "object_code": "040",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5010205001",
+    "description": "Subsistence Allowance - Military/Uniformed Personnel",
+    "object_code": "050",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5010205002",
+    "description": "Subsistence Allowance - Magna Carta Benefits for Science and Technology under R.A. 8439",
+    "object_code": "050",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "03",
+    "uacs_code": "5010205003",
+    "description": "Subsistence Allowance - Magna Carta Benefits for Public Health Workers under R.A. 7305",
+    "object_code": "050",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "04",
+    "uacs_code": "5010205004",
+    "description": "Subsistence Allowance - Magna Carta Benefits for Public Social Workers under R.A. 9432",
+    "object_code": "050",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5010206001",
+    "description": "Laundry Allowance - Civilian",
+    "object_code": "060",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5010206002",
+    "description": "Laundry Allowance - Military/Uniformed Personnel",
+    "object_code": "060",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "03",
+    "uacs_code": "5010206003",
+    "description": "Laundry Allowance - Magna Carta Benefits for Science and Technology under R.A. 8439",
+    "object_code": "060",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "04",
+    "uacs_code": "5010206004",
+    "description": "Laundry Allowance - Magna Carta Benefits for Public Health Workers under R.A. 7305",
+    "object_code": "060",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "05",
+    "uacs_code": "5010206005",
+    "description": "Laundry Allowance - Magna Carta Benefits for Public Social Workers under R.A. 9432",
+    "object_code": "060",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5010207001",
+    "description": "Quarters Allowance - Civilian",
+    "object_code": "070",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5010207002",
+    "description": "Quarters Allowance - Military/Uniformed Personnel",
+    "object_code": "070",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "03",
+    "uacs_code": "5010207003",
+    "description": "Quarters Allowance - Magna Carta Benefits for Science and Technology under R.A. 8439",
+    "object_code": "070",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "04",
+    "uacs_code": "5010207004",
+    "description": "Quarters Allowance - Magna Carta Benefits for Public Health Workers under R.A. 7305",
+    "object_code": "070",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "05",
+    "uacs_code": "5010207005",
+    "description": "Quarters Allowance - Magna Carta Benefits for Public Social Workers under R.A. 9432",
+    "object_code": "070",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5010208001",
+    "description": "Productivity Incentive Allowance - Civilian",
+    "object_code": "080",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5010208002",
+    "description": "Productivity Incentive Allowance - Military/Uniformed Personnel",
+    "object_code": "080",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5010209001",
+    "description": "Overseas Allowance - Civilian",
+    "object_code": "090",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5010209002",
+    "description": "Overseas Allowance - Military/Uniformed Personnel",
+    "object_code": "090",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5010210001",
+    "description": "Honoraria - Civilian",
+    "object_code": "100",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5010210002",
+    "description": "Honoraria - Military/Uniformed Personnel",
+    "object_code": "100",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "03",
+    "uacs_code": "5010210003",
+    "description": "Honoraria - Magna Carta Benefits for Science and Technology under R.A. 8439",
+    "object_code": "100",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "04",
+    "uacs_code": "5010210004",
+    "description": "Honoraria - Magna Carta Benefits for Public Health Workers under R.A. 7305",
+    "object_code": "100",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "05",
+    "uacs_code": "5010210005",
+    "description": "Honoraria - Magna Carta Benefits for Public Social Workers under R.A. 9432",
+    "object_code": "100",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5010211001",
+    "description": "Hazard Pay",
+    "object_code": "110",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5010211002",
+    "description": "Hazard Duty Pay - Civilian",
+    "object_code": "110",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "03",
+    "uacs_code": "5010211003",
+    "description": "Hazard Duty Pay - Military/Uniformed Personnel",
+    "object_code": "110",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "04",
+    "uacs_code": "5010211004",
+    "description": "HP - Magna Carta Benefits for Science and Technology under R.A. 8439",
+    "object_code": "110",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "05",
+    "uacs_code": "5010211005",
+    "description": "HP - Magna Carta Benefits for Public Health Workers under R.A. 7305",
+    "object_code": "110",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "06",
+    "uacs_code": "5010211006",
+    "description": "HP - Magna Carta Benefits for Public Social Workers under R.A. 9432",
+    "object_code": "110",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "07",
+    "uacs_code": "5010211007",
+    "description": "Radiation Hazard Pay not exceeding 15% of Basic Salary",
+    "object_code": "110",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "08",
+    "uacs_code": "5010211008",
+    "description": "High Risk Duty Pay",
+    "object_code": "110",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "09",
+    "uacs_code": "5010211009",
+    "description": "Hazardous Duty Pay",
+    "object_code": "110",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5010212001",
+    "description": "Longevity Pay - Civilian",
+    "object_code": "120",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5010212002",
+    "description": "Longevity Pay - Military/Uniformed Personnel",
+    "object_code": "120",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "03",
+    "uacs_code": "5010212003",
+    "description": "Longevity Pay - Magna Carta Benefits for Science and Technology under R.A. 8439",
+    "object_code": "120",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "04",
+    "uacs_code": "5010212004",
+    "description": "Longevity Pay - Magna Carta Benefits fo Public Health Workers under R.A. 7305",
+    "object_code": "120",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "05",
+    "uacs_code": "5010212005",
+    "description": "Longevity Pay - Magna Carta Benefits for Public Social Workers under R.A. 9432",
+    "object_code": "120",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5010213001",
+    "description": "Overtime Pay",
+    "object_code": "130",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5010213002",
+    "description": "Night-shift Differential Pay",
+    "object_code": "130",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5010214001",
+    "description": "Year-End Bonus - Civilian",
+    "object_code": "140",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5010214002",
+    "description": "Year-End Bonus - Military/Uniformed Personnel",
+    "object_code": "140",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5010215001",
+    "description": "Cash Gift - Civilian",
+    "object_code": "150",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5010215002",
+    "description": "Cash Gift - Military/Uniformed Personnel",
+    "object_code": "150",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5010216001",
+    "description": "Mid-Year Bonus - Civilian",
+    "object_code": "160",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5010216002",
+    "description": "Mid-Year Bonus - Military/Uniformed Personnel",
+    "object_code": "160",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5010299001",
+    "description": "Per Diems - Civilian",
+    "object_code": "990",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5010299002",
+    "description": "Allowance of PAO Lawyers and Employees Assigned in Night Courts - Civilian",
+    "object_code": "990",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "03",
+    "uacs_code": "5010299003",
+    "description": "Allowance of Attorney's de Officio - Civilian",
+    "object_code": "990",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "04",
+    "uacs_code": "5010299004",
+    "description": "Special Hardship Allowance - Civilian",
+    "object_code": "990",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "05",
+    "uacs_code": "5010299005",
+    "description": "Private Messenger Fee - Civilian",
+    "object_code": "990",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "06",
+    "uacs_code": "5010299006",
+    "description": "Inquest Allowance - Civilian",
+    "object_code": "990",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "07",
+    "uacs_code": "5010299007",
+    "description": "Special Duty Allowance - Civilian",
+    "object_code": "990",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "08",
+    "uacs_code": "5010299008",
+    "description": "Special Duty Allowance - Military/Uniformed Personnel",
+    "object_code": "990",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "09",
+    "uacs_code": "5010299009",
+    "description": "Special Allowance for Judges and Justices - Civilian",
+    "object_code": "990",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "10",
+    "uacs_code": "5010299010",
+    "description": "Special Allowance for the Members of the Prosecution Service",
+    "object_code": "990",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "11",
+    "uacs_code": "5010299011",
+    "description": "Collective Negotiation Agreement Incentive - Civilian",
+    "object_code": "990",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "12",
+    "uacs_code": "5010299012",
+    "description": "Productivity Enhancement Incentive - Civilian",
+    "object_code": "990",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "13",
+    "uacs_code": "5010299013",
+    "description": "Productivity Enhancement Incentive - Military/Uniformed Personnel",
+    "object_code": "990",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "14",
+    "uacs_code": "5010299014",
+    "description": "Performance Based Bonus - Civilian",
+    "object_code": "990",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "15",
+    "uacs_code": "5010299015",
+    "description": "Performance Based Bonus - Military/Uniformed Personnel",
+    "object_code": "990",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "16",
+    "uacs_code": "5010299016",
+    "description": "Flying Pay - Duty Based Allowance - Military/Uniformed Personnel",
+    "object_code": "990",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "17",
+    "uacs_code": "5010299017",
+    "description": "Special Group Term Insurance - Duty Based Allowance - Military/Uniformed Personnel",
+    "object_code": "990",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "18",
+    "uacs_code": "5010299018",
+    "description": "Sea Duty Pay - Duty Based Allowance - Military/Uniformed Personnel",
+    "object_code": "990",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "19",
+    "uacs_code": "5010299019",
+    "description": "Combat Incentive Pay - Duty Based Allowance - Military/Uniformed Personnel",
+    "object_code": "990",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "20",
+    "uacs_code": "5010299020",
+    "description": "Reenlistment Pay - Duty Based Allowance - Military/Uniformed Personnel",
+    "object_code": "990",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "21",
+    "uacs_code": "5010299021",
+    "description": "Other Subsistence Allowance - Duty Based Allowance - Military/Uniformed Personnel",
+    "object_code": "990",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "22",
+    "uacs_code": "5010299022",
+    "description": "Training Subsistence Allowance - Duty Based Allowance - Military/Uniformed Personnel",
+    "object_code": "990",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "23",
+    "uacs_code": "5010299023",
+    "description": "Civil Disturbance Control Subsistence Allowance - Duty Based Allowance - Military/Uniformed Personnel",
+    "object_code": "990",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "24",
+    "uacs_code": "5010299024",
+    "description": "Subsistence of Detainees - Duty Based Allowance - Military/Uniformed Personnel",
+    "object_code": "990",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "25",
+    "uacs_code": "5010299025",
+    "description": "Hardship Allowance - Duty Based Allowance - Military/Uniformed Personnel",
+    "object_code": "990",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "26",
+    "uacs_code": "5010299026",
+    "description": "Combat Duty Pay - Duty Based Allowance - Military/Uniformed Personnel",
+    "object_code": "990",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "27",
+    "uacs_code": "5010299027",
+    "description": "Incentive Pay - Duty Based Allowance - Military/Uniformed Personnel",
+    "object_code": "990",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "28",
+    "uacs_code": "5010299028",
+    "description": "Instructor's Duty Pay - Duty Based Allowance - Military/Uniformed Personnel",
+    "object_code": "990",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "29",
+    "uacs_code": "5010299029",
+    "description": "Reservist's Pay - Duty Based Allowance - Military/Uniformed Personnel",
+    "object_code": "990",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "30",
+    "uacs_code": "5010299030",
+    "description": "Medal of Valor Award - Duty Based Allowance - Military/Uniformed Personnel",
+    "object_code": "990",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "31",
+    "uacs_code": "5010299031",
+    "description": "Hospitalization Expenses - Duty Based Allowance - Military/Uniformed Personnel",
+    "object_code": "990",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "32",
+    "uacs_code": "5010299032",
+    "description": "Specialist's Pay - Duty Based Allowance - Military/Uniformed Personnel",
+    "object_code": "990",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "33",
+    "uacs_code": "5010299033",
+    "description": "Parachutist Pay - Duty Based Allowance - Military/Uniformed Personnel",
+    "object_code": "990",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "34",
+    "uacs_code": "5010299034",
+    "description": "Provisional Allowance - Military/Uniformed Personnel",
+    "object_code": "990",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "35",
+    "uacs_code": "5010299035",
+    "description": "Officers' Allowance - Military/Uniformed Personnel",
+    "object_code": "990",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "36",
+    "uacs_code": "5010299036",
+    "description": "Mid-Year Bonus - Civilian",
+    "object_code": "990",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "37",
+    "uacs_code": "5010299037",
+    "description": "Mid-Year Bonus - Military / Uniformed Personnel",
+    "object_code": "990",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "38",
+    "uacs_code": "5010299038",
+    "description": "Anniversary Bonus - Civilian",
+    "object_code": "990",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "39",
+    "uacs_code": "5010299039",
+    "description": "Anniversary Bonus - Military/Uniformed Personnel",
+    "object_code": "990",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "40",
+    "uacs_code": "5010299040",
+    "description": "Special Counsel Allowance",
+    "object_code": "990",
+    "group_code": "02",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5010302001",
+    "description": "Pag-IBIG - Civilian",
+    "object_code": "020",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5010302002",
+    "description": "Pag-IBIG - Military/Uniformed Personnel",
+    "object_code": "020",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5010303001",
+    "description": "PhilHealth - Civilian",
+    "object_code": "030",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5010303002",
+    "description": "PhilHealth - Military/Uniformed Personnel",
+    "object_code": "030",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5010304001",
+    "description": "ECIP - Civilian",
+    "object_code": "040",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5010304002",
+    "description": "ECIP - Military/Uniformed Personnel",
+    "object_code": "040",
+    "group_code": "03",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5010401001",
+    "description": "Pension Benefits - Civilian",
+    "object_code": "010",
+    "group_code": "04",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5010401002",
+    "description": "Pension Benefits - Military/Uniformed Personnel",
+    "object_code": "010",
+    "group_code": "04",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "03",
+    "uacs_code": "5010401003",
+    "description": "Pension Benefits - Veterans",
+    "object_code": "010",
+    "group_code": "04",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5010402001",
+    "description": "Retirement Gratuity - Civilian",
+    "object_code": "020",
+    "group_code": "04",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5010402002",
+    "description": "Retirement Gratuity - Military/Uniformed Personnel",
+    "object_code": "020",
+    "group_code": "04",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5010403001",
+    "description": "Terminal Leave Benefits - Civilian",
+    "object_code": "030",
+    "group_code": "04",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5010403002",
+    "description": "Terminal Leave Benefits - Military/Uniformed Personnel",
+    "object_code": "030",
+    "group_code": "04",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5010499001",
+    "description": "Lump-sum for Creation of New Positions - Civilian",
+    "object_code": "990",
+    "group_code": "04",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5010499002",
+    "description": "Lump-sum for Creation of New Positions - Military/Uniformed Personnel",
+    "object_code": "990",
+    "group_code": "04",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "03",
+    "uacs_code": "5010499003",
+    "description": "Lump-sum for Reclassification of Positions",
+    "object_code": "990",
+    "group_code": "04",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "04",
+    "uacs_code": "5010499004",
+    "description": "Lump-sum for Equivalent-Record Form",
+    "object_code": "990",
+    "group_code": "04",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "05",
+    "uacs_code": "5010499005",
+    "description": "Lump-sum for Master Teachers",
+    "object_code": "990",
+    "group_code": "04",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "06",
+    "uacs_code": "5010499006",
+    "description": "Lump-sum for Compensation Adjustment",
+    "object_code": "990",
+    "group_code": "04",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "07",
+    "uacs_code": "5010499007",
+    "description": "Lump-sum for Filling of Positions - Civilian",
+    "object_code": "990",
+    "group_code": "04",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "08",
+    "uacs_code": "5010499008",
+    "description": "Lump-sum for NBC No. 308",
+    "object_code": "990",
+    "group_code": "04",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "09",
+    "uacs_code": "5010499009",
+    "description": "Lump-sum for Personnel Services",
+    "object_code": "990",
+    "group_code": "04",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "10",
+    "uacs_code": "5010499010",
+    "description": "Lump-sum for Step Increments - Length of Service",
+    "object_code": "990",
+    "group_code": "04",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "11",
+    "uacs_code": "5010499011",
+    "description": "Lump-sum for Step Increments - Meritorious Performance",
+    "object_code": "990",
+    "group_code": "04",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "12",
+    "uacs_code": "5010499012",
+    "description": "Other Lump-sum",
+    "object_code": "990",
+    "group_code": "04",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "13",
+    "uacs_code": "5010499013",
+    "description": "Police Benefits (NAPOLCOM)",
+    "object_code": "990",
+    "group_code": "04",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "14",
+    "uacs_code": "5010499014",
+    "description": "Lump-sum for Filling of Positions - Military/Uniformed Personnel",
+    "object_code": "990",
+    "group_code": "04",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "15",
+    "uacs_code": "5010499015",
+    "description": "Loyalty Award - Civilian",
+    "object_code": "990",
+    "group_code": "04",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "99",
+    "uacs_code": "5010499099",
+    "description": "Other Personnel Benefits",
+    "object_code": "990",
+    "group_code": "04",
+    "sub_class_code": "01",
+    "classification_code": "5",
+    "expense_category": "01"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5020201001",
+    "description": "ICT Training Expenses",
+    "object_code": "010",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5020201002",
+    "description": "Training Expenses",
+    "object_code": "010",
+    "group_code": "02",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5020301001",
+    "description": "ICT Office Supplies Expenses",
+    "object_code": "010",
+    "group_code": "03",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5020301002",
+    "description": "Office Supplies Expenses",
+    "object_code": "010",
+    "group_code": "03",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5020311001",
+    "description": "Textbooks and Instructional Materials Expenses",
+    "object_code": "110",
+    "group_code": "03",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5020311002",
+    "description": "Chalk Allowance",
+    "object_code": "110",
+    "group_code": "03",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5020321001",
+    "description": "Machinery",
+    "object_code": "210",
+    "group_code": "03",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5020321002",
+    "description": "Office Equipment",
+    "object_code": "210",
+    "group_code": "03",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "03",
+    "uacs_code": "5020321003",
+    "description": "Information and Communications Technology Equipment",
+    "object_code": "210",
+    "group_code": "03",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "04",
+    "uacs_code": "5020321004",
+    "description": "Agricultural and Forestry Equipment",
+    "object_code": "210",
+    "group_code": "03",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "05",
+    "uacs_code": "5020321005",
+    "description": "Marine and Fishery Equipment",
+    "object_code": "210",
+    "group_code": "03",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "06",
+    "uacs_code": "5020321006",
+    "description": "Airport Equipment",
+    "object_code": "210",
+    "group_code": "03",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "07",
+    "uacs_code": "5020321007",
+    "description": "Communications Equipment",
+    "object_code": "210",
+    "group_code": "03",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "08",
+    "uacs_code": "5020321008",
+    "description": "Disaster Response and Rescue Equipment",
+    "object_code": "210",
+    "group_code": "03",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "09",
+    "uacs_code": "5020321009",
+    "description": "Military, Police and Security Equipment",
+    "object_code": "210",
+    "group_code": "03",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "10",
+    "uacs_code": "5020321010",
+    "description": "Medical Equipment",
+    "object_code": "210",
+    "group_code": "03",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "11",
+    "uacs_code": "5020321011",
+    "description": "Printing Equipment",
+    "object_code": "210",
+    "group_code": "03",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "12",
+    "uacs_code": "5020321012",
+    "description": "Sports Equipment",
+    "object_code": "210",
+    "group_code": "03",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "13",
+    "uacs_code": "5020321013",
+    "description": "Technical and Scientific Equipment",
+    "object_code": "210",
+    "group_code": "03",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "99",
+    "uacs_code": "5020321099",
+    "description": "Other Equipment",
+    "object_code": "210",
+    "group_code": "03",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5020322001",
+    "description": "Furniture and Fixtures",
+    "object_code": "220",
+    "group_code": "03",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5020322002",
+    "description": "Books",
+    "object_code": "220",
+    "group_code": "03",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5020502001",
+    "description": "Mobile",
+    "object_code": "020",
+    "group_code": "05",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5020502002",
+    "description": "Landline",
+    "object_code": "020",
+    "group_code": "05",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5020601001",
+    "description": "Awards/Rewards Expenses",
+    "object_code": "010",
+    "group_code": "06",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5020601002",
+    "description": "Rewards and Incentives",
+    "object_code": "010",
+    "group_code": "06",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5020701001",
+    "description": "ICT Survey Expenses",
+    "object_code": "010",
+    "group_code": "07",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5020701002",
+    "description": "Survey Expenses",
+    "object_code": "010",
+    "group_code": "07",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5020702001",
+    "description": "ICT Research, Exploration and Development Expenses",
+    "object_code": "020",
+    "group_code": "07",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5020702002",
+    "description": "Research, Exploration and Development Expenses",
+    "object_code": "020",
+    "group_code": "07",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5020901001",
+    "description": "ICT Generation, Transmission and Distribution Expenses",
+    "object_code": "010",
+    "group_code": "09",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5020901002",
+    "description": "Generation, Transmission and Distribution Expenses",
+    "object_code": "010",
+    "group_code": "09",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5021103001",
+    "description": "ICT Consultancy Services",
+    "object_code": "030",
+    "group_code": "11",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5021103002",
+    "description": "Consultancy Services",
+    "object_code": "030",
+    "group_code": "11",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5021299001",
+    "description": "Other General Services - ICT Services",
+    "object_code": "990",
+    "group_code": "12",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "99",
+    "uacs_code": "5021299099",
+    "description": "Other General Services",
+    "object_code": "990",
+    "group_code": "12",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5021302001",
+    "description": "Aquaculture Structures",
+    "object_code": "020",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5021302002",
+    "description": "Reforestation Projects",
+    "object_code": "020",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "99",
+    "uacs_code": "5021302099",
+    "description": "Other Land Improvements",
+    "object_code": "020",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5021303001",
+    "description": "Road Networks",
+    "object_code": "030",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5021303002",
+    "description": "Flood Control Systems",
+    "object_code": "030",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "03",
+    "uacs_code": "5021303003",
+    "description": "Sewer Systems",
+    "object_code": "030",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "04",
+    "uacs_code": "5021303004",
+    "description": "Water Supply Systems",
+    "object_code": "030",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "05",
+    "uacs_code": "5021303005",
+    "description": "Power Supply Systems",
+    "object_code": "030",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "06",
+    "uacs_code": "5021303006",
+    "description": "Communications Networks",
+    "object_code": "030",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "07",
+    "uacs_code": "5021303007",
+    "description": "Seaport Systems",
+    "object_code": "030",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "08",
+    "uacs_code": "5021303008",
+    "description": "Airport Systems",
+    "object_code": "030",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "09",
+    "uacs_code": "5021303009",
+    "description": "Parks, Plazas and Monuments",
+    "object_code": "030",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "10",
+    "uacs_code": "5021303010",
+    "description": "Railway Systems",
+    "object_code": "030",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "99",
+    "uacs_code": "5021303099",
+    "description": "Other Infrastructure Assets",
+    "object_code": "030",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5021304001",
+    "description": "Buildings",
+    "object_code": "040",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5021304002",
+    "description": "School Buildings",
+    "object_code": "040",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "03",
+    "uacs_code": "5021304003",
+    "description": "Hospitals and Health Centers",
+    "object_code": "040",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "04",
+    "uacs_code": "5021304004",
+    "description": "Markets",
+    "object_code": "040",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "05",
+    "uacs_code": "5021304005",
+    "description": "Slaughterhouses",
+    "object_code": "040",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "06",
+    "uacs_code": "5021304006",
+    "description": "Hostels and Dormitories",
+    "object_code": "040",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "99",
+    "uacs_code": "5021304099",
+    "description": "Other Structures",
+    "object_code": "040",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5021305001",
+    "description": "Machinery",
+    "object_code": "050",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5021305002",
+    "description": "Office Equipment",
+    "object_code": "050",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "03",
+    "uacs_code": "5021305003",
+    "description": "ICT Equipment",
+    "object_code": "050",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "04",
+    "uacs_code": "5021305004",
+    "description": "Agricultural and Forestry Equipment",
+    "object_code": "050",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "05",
+    "uacs_code": "5021305005",
+    "description": "Marine and Fishery Equipment",
+    "object_code": "050",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "06",
+    "uacs_code": "5021305006",
+    "description": "Airport Equipment",
+    "object_code": "050",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "07",
+    "uacs_code": "5021305007",
+    "description": "Communications Equipment",
+    "object_code": "050",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "08",
+    "uacs_code": "5021305008",
+    "description": "Construction and Heavy Equipment",
+    "object_code": "050",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "09",
+    "uacs_code": "5021305009",
+    "description": "Disaster Response and Rescue Equipment",
+    "object_code": "050",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "10",
+    "uacs_code": "5021305010",
+    "description": "Military, Police and Security Equipment",
+    "object_code": "050",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "11",
+    "uacs_code": "5021305011",
+    "description": "Medical Equipment",
+    "object_code": "050",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "12",
+    "uacs_code": "5021305012",
+    "description": "Printing Equipment",
+    "object_code": "050",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "13",
+    "uacs_code": "5021305013",
+    "description": "Sports Equipment",
+    "object_code": "050",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "14",
+    "uacs_code": "5021305014",
+    "description": "Technical and Scientific Equipment",
+    "object_code": "050",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "99",
+    "uacs_code": "5021305099",
+    "description": "Other Equipment",
+    "object_code": "050",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5021306001",
+    "description": "Motor Vehicles",
+    "object_code": "060",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5021306002",
+    "description": "Trains",
+    "object_code": "060",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "03",
+    "uacs_code": "5021306003",
+    "description": "Aircrafts and Aircrafts Ground Equipment",
+    "object_code": "060",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "04",
+    "uacs_code": "5021306004",
+    "description": "Watercrafts",
+    "object_code": "060",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "99",
+    "uacs_code": "5021306099",
+    "description": "Other Transportation Equipment",
+    "object_code": "060",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5021308001",
+    "description": "Buildings and Other Structures",
+    "object_code": "080",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5021308002",
+    "description": "Machinery and Equipment",
+    "object_code": "080",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "03",
+    "uacs_code": "5021308003",
+    "description": "Transportation Equipment",
+    "object_code": "080",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "04",
+    "uacs_code": "5021308004",
+    "description": "ICT Machinery and Equipment",
+    "object_code": "080",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "99",
+    "uacs_code": "5021308099",
+    "description": "Other Leased Assets",
+    "object_code": "080",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5021309001",
+    "description": "Land",
+    "object_code": "090",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5021309002",
+    "description": "Buildings",
+    "object_code": "090",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "99",
+    "uacs_code": "5021309099",
+    "description": "Other Leased Assets Improvements",
+    "object_code": "090",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5021310001",
+    "description": "Historical Buildings",
+    "object_code": "100",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5021310002",
+    "description": "Works of Arts and Archeological Specimens",
+    "object_code": "100",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "99",
+    "uacs_code": "5021310099",
+    "description": "Other Heritage Assets",
+    "object_code": "100",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5021321001",
+    "description": "Machinery",
+    "object_code": "210",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5021321002",
+    "description": "Office Equipment",
+    "object_code": "210",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "03",
+    "uacs_code": "5021321003",
+    "description": "Information and Communications Technology Equipment",
+    "object_code": "210",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "04",
+    "uacs_code": "5021321004",
+    "description": "Agricultural and Forestry Equipment",
+    "object_code": "210",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "05",
+    "uacs_code": "5021321005",
+    "description": "Marine and Fishery Equipment",
+    "object_code": "210",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "06",
+    "uacs_code": "5021321006",
+    "description": "Airport Equipment",
+    "object_code": "210",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "07",
+    "uacs_code": "5021321007",
+    "description": "Communications Equipment",
+    "object_code": "210",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "08",
+    "uacs_code": "5021321008",
+    "description": "Disaster Response and Rescue Equipment",
+    "object_code": "210",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "09",
+    "uacs_code": "5021321009",
+    "description": "Military, Police and Security Equipment",
+    "object_code": "210",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "10",
+    "uacs_code": "5021321010",
+    "description": "Medical Equipment",
+    "object_code": "210",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "11",
+    "uacs_code": "5021321011",
+    "description": "Printing Equipment",
+    "object_code": "210",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "12",
+    "uacs_code": "5021321012",
+    "description": "Sports Equipment",
+    "object_code": "210",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "13",
+    "uacs_code": "5021321013",
+    "description": "Technical and Scientific Equipment",
+    "object_code": "210",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "99",
+    "uacs_code": "5021321099",
+    "description": "Other Equipment",
+    "object_code": "210",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5021322001",
+    "description": "Furniture and Fixtures",
+    "object_code": "220",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5021322002",
+    "description": "Books",
+    "object_code": "220",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5021399001",
+    "description": "Work/Zoo Animals",
+    "object_code": "990",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "99",
+    "uacs_code": "5021399099",
+    "description": "Other Property, Plant and Equipment",
+    "object_code": "990",
+    "group_code": "13",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5021403001",
+    "description": "Tobacco Excise Tax (Virginia) per R.A. 7171",
+    "object_code": "030",
+    "group_code": "14",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5021403002",
+    "description": "Tobacco Excise Tax (Burley and Native) per R.A. 8240",
+    "object_code": "030",
+    "group_code": "14",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "03",
+    "uacs_code": "5021403003",
+    "description": "Mining Taxes per R.A. 7160",
+    "object_code": "030",
+    "group_code": "14",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "04",
+    "uacs_code": "5021403004",
+    "description": "Royalties per R.A. 7160",
+    "object_code": "030",
+    "group_code": "14",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "05",
+    "uacs_code": "5021403005",
+    "description": "Forestry Charges per R.A. 7160",
+    "object_code": "030",
+    "group_code": "14",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "06",
+    "uacs_code": "5021403006",
+    "description": "Fishery Charges per R.A. 7160",
+    "object_code": "030",
+    "group_code": "14",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "07",
+    "uacs_code": "5021403007",
+    "description": "Renewable Energy charges per R.A. 9513",
+    "object_code": "030",
+    "group_code": "14",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "08",
+    "uacs_code": "5021403008",
+    "description": "Income Tax Collections in ECO ZONES per R.A. 7922 and R.A. 8748",
+    "object_code": "030",
+    "group_code": "14",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "09",
+    "uacs_code": "5021403009",
+    "description": "Value Added Tax per R.A. 7643",
+    "object_code": "030",
+    "group_code": "14",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "10",
+    "uacs_code": "5021403010",
+    "description": "Value Added Tax in lieu of Franchise Tax per R.A. 7953 and R.A. 8407",
+    "object_code": "030",
+    "group_code": "14",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5021404001",
+    "description": "Subsidy Support to Operations of GOCCs",
+    "object_code": "040",
+    "group_code": "14",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5021404002",
+    "description": "Road Networks",
+    "object_code": "040",
+    "group_code": "14",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "03",
+    "uacs_code": "5021404003",
+    "description": "Flood Control Systems",
+    "object_code": "040",
+    "group_code": "14",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "04",
+    "uacs_code": "5021404004",
+    "description": "Sewer Systems",
+    "object_code": "040",
+    "group_code": "14",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "05",
+    "uacs_code": "5021404005",
+    "description": "Water Supply Systems",
+    "object_code": "040",
+    "group_code": "14",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "06",
+    "uacs_code": "5021404006",
+    "description": "Power Supply Systems",
+    "object_code": "040",
+    "group_code": "14",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "07",
+    "uacs_code": "5021404007",
+    "description": "Communications Networks",
+    "object_code": "040",
+    "group_code": "14",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "08",
+    "uacs_code": "5021404008",
+    "description": "Seaport Systems",
+    "object_code": "040",
+    "group_code": "14",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "09",
+    "uacs_code": "5021404009",
+    "description": "Airport Systems",
+    "object_code": "040",
+    "group_code": "14",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "10",
+    "uacs_code": "5021404010",
+    "description": "Parks, Plazas and Monuments",
+    "object_code": "040",
+    "group_code": "14",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "11",
+    "uacs_code": "5021404011",
+    "description": "Irrigation Systems",
+    "object_code": "040",
+    "group_code": "14",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "12",
+    "uacs_code": "5021404012",
+    "description": "Railway Systems",
+    "object_code": "040",
+    "group_code": "14",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "13",
+    "uacs_code": "5021404013",
+    "description": "Housing and Community Facilities",
+    "object_code": "040",
+    "group_code": "14",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "99",
+    "uacs_code": "5021404099",
+    "description": "Other Infrastructure Assets",
+    "object_code": "040",
+    "group_code": "14",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5021501001",
+    "description": "Taxes, Duties and Licenses",
+    "object_code": "010",
+    "group_code": "15",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5021501002",
+    "description": "Tax Refund",
+    "object_code": "010",
+    "group_code": "15",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5029905001",
+    "description": "Rents - Building and Structures",
+    "object_code": "050",
+    "group_code": "99",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5029905002",
+    "description": "Rents - Land",
+    "object_code": "050",
+    "group_code": "99",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "03",
+    "uacs_code": "5029905003",
+    "description": "Rents - Motor Vehicles",
+    "object_code": "050",
+    "group_code": "99",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "04",
+    "uacs_code": "5029905004",
+    "description": "Rents - Equipment",
+    "object_code": "050",
+    "group_code": "99",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "05",
+    "uacs_code": "5029905005",
+    "description": "Rents - Living Quarters",
+    "object_code": "050",
+    "group_code": "99",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "06",
+    "uacs_code": "5029905006",
+    "description": "Operating Lease",
+    "object_code": "050",
+    "group_code": "99",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "07",
+    "uacs_code": "5029905007",
+    "description": "Financial Lease",
+    "object_code": "050",
+    "group_code": "99",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "08",
+    "uacs_code": "5029905008",
+    "description": "Rents - ICT Machinery and Equipment",
+    "object_code": "050",
+    "group_code": "99",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5029907001",
+    "description": "ICT Software Subscription",
+    "object_code": "070",
+    "group_code": "99",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5029907002",
+    "description": "Data Center Service",
+    "object_code": "070",
+    "group_code": "99",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "03",
+    "uacs_code": "5029907003",
+    "description": "Cloud Computing Service",
+    "object_code": "070",
+    "group_code": "99",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "04",
+    "uacs_code": "5029907004",
+    "description": "Library and Other Reading Materials Subscription Expenses",
+    "object_code": "070",
+    "group_code": "99",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "99",
+    "uacs_code": "5029907099",
+    "description": "Other Subscription Expenses",
+    "object_code": "070",
+    "group_code": "99",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5029999001",
+    "description": "Website Maintenance",
+    "object_code": "990",
+    "group_code": "99",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "99",
+    "uacs_code": "5029999099",
+    "description": "Other Maintenance and Operating Expenses",
+    "object_code": "990",
+    "group_code": "99",
+    "sub_class_code": "02",
+    "classification_code": "5",
+    "expense_category": "02"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5030102001",
+    "description": "Interest Paid to Non Residents",
+    "object_code": "020",
+    "group_code": "01",
+    "sub_class_code": "03",
+    "classification_code": "5",
+    "expense_category": "03"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5030102002",
+    "description": "Interest Paid to Residents other than General Government",
+    "object_code": "020",
+    "group_code": "01",
+    "sub_class_code": "03",
+    "classification_code": "5",
+    "expense_category": "03"
+  },
+  {
+    "code": "03",
+    "uacs_code": "5030102003",
+    "description": "Interest Paid to other General Government Units",
+    "object_code": "020",
+    "group_code": "01",
+    "sub_class_code": "03",
+    "classification_code": "5",
+    "expense_category": "03"
+  },
+  {
+    "code": "04",
+    "uacs_code": "5030102004",
+    "description": "Interest Expense - Others",
+    "object_code": "020",
+    "group_code": "01",
+    "sub_class_code": "03",
+    "classification_code": "5",
+    "expense_category": "03"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5050102001",
+    "description": "Aquaculture Structures",
+    "object_code": "020",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5050102002",
+    "description": "Reforestation Projects",
+    "object_code": "020",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "99",
+    "uacs_code": "5050102099",
+    "description": "Other Land Improvements",
+    "object_code": "020",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5050103001",
+    "description": "Road Networks",
+    "object_code": "030",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5050103002",
+    "description": "Flood Control Systems",
+    "object_code": "030",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "03",
+    "uacs_code": "5050103003",
+    "description": "Sewer System",
+    "object_code": "030",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "04",
+    "uacs_code": "5050103004",
+    "description": "Water Supply Systems",
+    "object_code": "030",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "05",
+    "uacs_code": "5050103005",
+    "description": "Power Supply Systems",
+    "object_code": "030",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "06",
+    "uacs_code": "5050103006",
+    "description": "Communications Networks",
+    "object_code": "030",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "07",
+    "uacs_code": "5050103007",
+    "description": "Seaport Systems",
+    "object_code": "030",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "08",
+    "uacs_code": "5050103008",
+    "description": "Airport Systems",
+    "object_code": "030",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "09",
+    "uacs_code": "5050103009",
+    "description": "Parks, Plazas and Monuments",
+    "object_code": "030",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "10",
+    "uacs_code": "5050103010",
+    "description": "Railway Systems",
+    "object_code": "030",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "99",
+    "uacs_code": "5050103099",
+    "description": "Other Infrastructure Assets",
+    "object_code": "030",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5050104001",
+    "description": "Buildings",
+    "object_code": "040",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5050104002",
+    "description": "School Buildings",
+    "object_code": "040",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "03",
+    "uacs_code": "5050104003",
+    "description": "Hospitals and Health Centers",
+    "object_code": "040",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "04",
+    "uacs_code": "5050104004",
+    "description": "Markets",
+    "object_code": "040",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "05",
+    "uacs_code": "5050104005",
+    "description": "Slaughterhouses",
+    "object_code": "040",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "06",
+    "uacs_code": "5050104006",
+    "description": "Hostels and Dormitories",
+    "object_code": "040",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "99",
+    "uacs_code": "5050104099",
+    "description": "Other Structures",
+    "object_code": "040",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5050105001",
+    "description": "Machinery",
+    "object_code": "050",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5050105002",
+    "description": "Office Equipment",
+    "object_code": "050",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "03",
+    "uacs_code": "5050105003",
+    "description": "ICT Equipment",
+    "object_code": "050",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "04",
+    "uacs_code": "5050105004",
+    "description": "Agricultural and Forestry Equipment",
+    "object_code": "050",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "05",
+    "uacs_code": "5050105005",
+    "description": "Marine and Fishery Equipment",
+    "object_code": "050",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "06",
+    "uacs_code": "5050105006",
+    "description": "Airport Equipment",
+    "object_code": "050",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "07",
+    "uacs_code": "5050105007",
+    "description": "Communications Equipment",
+    "object_code": "050",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "08",
+    "uacs_code": "5050105008",
+    "description": "Construction and Heavy Equipment",
+    "object_code": "050",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "09",
+    "uacs_code": "5050105009",
+    "description": "Disaster Response and Rescue Equipment",
+    "object_code": "050",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "10",
+    "uacs_code": "5050105010",
+    "description": "Military, Police and Security Equipment",
+    "object_code": "050",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "11",
+    "uacs_code": "5050105011",
+    "description": "Medical Equipment",
+    "object_code": "050",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "12",
+    "uacs_code": "5050105012",
+    "description": "Printing Equipment",
+    "object_code": "050",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "13",
+    "uacs_code": "5050105013",
+    "description": "Sports Equipment",
+    "object_code": "050",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "14",
+    "uacs_code": "5050105014",
+    "description": "Technical and Scientific Equipment",
+    "object_code": "050",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "99",
+    "uacs_code": "5050105099",
+    "description": "Other Equipment",
+    "object_code": "050",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5050106001",
+    "description": "Motor Vehicles",
+    "object_code": "060",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5050106002",
+    "description": "Trains",
+    "object_code": "060",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "03",
+    "uacs_code": "5050106003",
+    "description": "Aircrafts and Aircrafts Ground Equipment",
+    "object_code": "060",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "04",
+    "uacs_code": "5050106004",
+    "description": "Watercrafts",
+    "object_code": "060",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "99",
+    "uacs_code": "5050106099",
+    "description": "Other Transportation Equipment",
+    "object_code": "060",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5050107001",
+    "description": "Furniture and Fixtures",
+    "object_code": "070",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5050107002",
+    "description": "Books",
+    "object_code": "070",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5050108001",
+    "description": "Buildings and Other Structures",
+    "object_code": "080",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5050108002",
+    "description": "Machinery and Equipment",
+    "object_code": "080",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "03",
+    "uacs_code": "5050108003",
+    "description": "Transportation Equipment",
+    "object_code": "080",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "99",
+    "uacs_code": "5050108099",
+    "description": "Other Leased Asets",
+    "object_code": "080",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5050109001",
+    "description": "Land",
+    "object_code": "090",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5050109002",
+    "description": "Buildings",
+    "object_code": "090",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "99",
+    "uacs_code": "5050109099",
+    "description": "Other Leased Assets Improvements",
+    "object_code": "090",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5050110001",
+    "description": "Historical Buildings",
+    "object_code": "100",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5050110002",
+    "description": "Works of Arts and Archeological Specimens",
+    "object_code": "100",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "99",
+    "uacs_code": "5050110099",
+    "description": "Other Heritage Assets",
+    "object_code": "100",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5050111001",
+    "description": "Road Networks",
+    "object_code": "110",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5050111002",
+    "description": "Flood Control Systems",
+    "object_code": "110",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "03",
+    "uacs_code": "5050111003",
+    "description": "Sewer Systems",
+    "object_code": "110",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "04",
+    "uacs_code": "5050111004",
+    "description": "Water Supply Systems",
+    "object_code": "110",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "05",
+    "uacs_code": "5050111005",
+    "description": "Power Supply Systems",
+    "object_code": "110",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "06",
+    "uacs_code": "5050111006",
+    "description": "Communications Networks",
+    "object_code": "110",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "07",
+    "uacs_code": "5050111007",
+    "description": "Seaport Systems",
+    "object_code": "110",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "08",
+    "uacs_code": "5050111008",
+    "description": "Airport Systems",
+    "object_code": "110",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "09",
+    "uacs_code": "5050111009",
+    "description": "Parks, Plazas and Monuments",
+    "object_code": "110",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "10",
+    "uacs_code": "5050111010",
+    "description": "Railway Systems",
+    "object_code": "110",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "11",
+    "uacs_code": "5050111011",
+    "description": "Buildings and Other Structures",
+    "object_code": "110",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "99",
+    "uacs_code": "5050111099",
+    "description": "Other Service Concession Assets",
+    "object_code": "110",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5050199001",
+    "description": "Work/Zoo Animals",
+    "object_code": "990",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "99",
+    "uacs_code": "5050199099",
+    "description": "Other Property, Plant and Equipment",
+    "object_code": "990",
+    "group_code": "01",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5050201001",
+    "description": "Patents/Copyrights",
+    "object_code": "010",
+    "group_code": "02",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5050201002",
+    "description": "Computer Software",
+    "object_code": "010",
+    "group_code": "02",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "03",
+    "uacs_code": "5050201003",
+    "description": "Websites",
+    "object_code": "010",
+    "group_code": "02",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "99",
+    "uacs_code": "5050201099",
+    "description": "Other Intangible Assets",
+    "object_code": "010",
+    "group_code": "02",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5050308001",
+    "description": "Investment Property, Land",
+    "object_code": "080",
+    "group_code": "03",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5050308002",
+    "description": "Investment Property, Buildings",
+    "object_code": "080",
+    "group_code": "03",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5050311001",
+    "description": "Patents/Copyrights",
+    "object_code": "110",
+    "group_code": "03",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5050311002",
+    "description": "Computer Software",
+    "object_code": "110",
+    "group_code": "03",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "03",
+    "uacs_code": "5050311003",
+    "description": "Websites",
+    "object_code": "110",
+    "group_code": "03",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "99",
+    "uacs_code": "5050311099",
+    "description": "Other Intangible Assets",
+    "object_code": "110",
+    "group_code": "03",
+    "sub_class_code": "05",
+    "classification_code": "5",
+    "expense_category": "05"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5060101001",
+    "description": "Investment in Government-Owned and/or Controlled Corporations",
+    "object_code": "010",
+    "group_code": "01",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5060101002",
+    "description": "Road Networks",
+    "object_code": "010",
+    "group_code": "01",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "03",
+    "uacs_code": "5060101003",
+    "description": "Flood Control Systems",
+    "object_code": "010",
+    "group_code": "01",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "04",
+    "uacs_code": "5060101004",
+    "description": "Sewer Systems",
+    "object_code": "010",
+    "group_code": "01",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "05",
+    "uacs_code": "5060101005",
+    "description": "Water Supply Systems",
+    "object_code": "010",
+    "group_code": "01",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "06",
+    "uacs_code": "5060101006",
+    "description": "Power Supply Systems",
+    "object_code": "010",
+    "group_code": "01",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "07",
+    "uacs_code": "5060101007",
+    "description": "Communications Networks",
+    "object_code": "010",
+    "group_code": "01",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "08",
+    "uacs_code": "5060101008",
+    "description": "Seaport Systems",
+    "object_code": "010",
+    "group_code": "01",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "09",
+    "uacs_code": "5060101009",
+    "description": "Airport Systems",
+    "object_code": "010",
+    "group_code": "01",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "10",
+    "uacs_code": "5060101010",
+    "description": "Parks, Plazas and Monuments",
+    "object_code": "010",
+    "group_code": "01",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "11",
+    "uacs_code": "5060101011",
+    "description": "Railway Systems",
+    "object_code": "010",
+    "group_code": "01",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "12",
+    "uacs_code": "5060101012",
+    "description": "Housing and Community Facilities",
+    "object_code": "010",
+    "group_code": "01",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "99",
+    "uacs_code": "5060101099",
+    "description": "Other Infrastructure Assets",
+    "object_code": "010",
+    "group_code": "01",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5060301001",
+    "description": "Investment Property - Land",
+    "object_code": "010",
+    "group_code": "03",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5060301002",
+    "description": "Investment Property - Buildings",
+    "object_code": "010",
+    "group_code": "03",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5060401001",
+    "description": "Land",
+    "object_code": "010",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5060402001",
+    "description": "Aquaculture Structures",
+    "object_code": "020",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5060402002",
+    "description": "Reforestation Projects",
+    "object_code": "020",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "99",
+    "uacs_code": "5060402099",
+    "description": "Other Land Improvements",
+    "object_code": "020",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5060403001",
+    "description": "Road Networks",
+    "object_code": "030",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5060403002",
+    "description": "Flood Control Systems",
+    "object_code": "030",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "03",
+    "uacs_code": "5060403003",
+    "description": "Sewer Systems",
+    "object_code": "030",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "04",
+    "uacs_code": "5060403004",
+    "description": "Water Supply Systems",
+    "object_code": "030",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "05",
+    "uacs_code": "5060403005",
+    "description": "Power Supply Systems",
+    "object_code": "030",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "06",
+    "uacs_code": "5060403006",
+    "description": "Communications Networks",
+    "object_code": "030",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "07",
+    "uacs_code": "5060403007",
+    "description": "Seaport Systems",
+    "object_code": "030",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "08",
+    "uacs_code": "5060403008",
+    "description": "Airport Systems",
+    "object_code": "030",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "09",
+    "uacs_code": "5060403009",
+    "description": "Parks, Plazas and Monuments",
+    "object_code": "030",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "10",
+    "uacs_code": "5060403010",
+    "description": "Railway Systems",
+    "object_code": "030",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "11",
+    "uacs_code": "5060403011",
+    "description": "Right-of-Way",
+    "object_code": "030",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "99",
+    "uacs_code": "5060403099",
+    "description": "Other Infrastructure Assets",
+    "object_code": "030",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5060404001",
+    "description": "Buildings",
+    "object_code": "040",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5060404002",
+    "description": "School Buildings",
+    "object_code": "040",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "03",
+    "uacs_code": "5060404003",
+    "description": "Hospitals and Health Centers",
+    "object_code": "040",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "04",
+    "uacs_code": "5060404004",
+    "description": "Markets",
+    "object_code": "040",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "05",
+    "uacs_code": "5060404005",
+    "description": "Slaughterhouses",
+    "object_code": "040",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "06",
+    "uacs_code": "5060404006",
+    "description": "Hostels and Dormitories",
+    "object_code": "040",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "07",
+    "uacs_code": "5060404007",
+    "description": "Ground Water Monitoring Stations",
+    "object_code": "040",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "99",
+    "uacs_code": "5060404099",
+    "description": "Other Structures",
+    "object_code": "040",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5060405001",
+    "description": "Machinery",
+    "object_code": "050",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5060405002",
+    "description": "Office Equipment",
+    "object_code": "050",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "03",
+    "uacs_code": "5060405003",
+    "description": "Information and Communication Technology Equipment",
+    "object_code": "050",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "04",
+    "uacs_code": "5060405004",
+    "description": "Agricultural and Forestry Equipment",
+    "object_code": "050",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "05",
+    "uacs_code": "5060405005",
+    "description": "Marine and Fishery Equipment",
+    "object_code": "050",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "06",
+    "uacs_code": "5060405006",
+    "description": "Airport Equipment",
+    "object_code": "050",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "07",
+    "uacs_code": "5060405007",
+    "description": "Communications Equipment",
+    "object_code": "050",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "08",
+    "uacs_code": "5060405008",
+    "description": "Construction and Heavy Equipment",
+    "object_code": "050",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "09",
+    "uacs_code": "5060405009",
+    "description": "Disaster Response and Rescue Equipment",
+    "object_code": "050",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "10",
+    "uacs_code": "5060405010",
+    "description": "Military, Police and Security Equipment",
+    "object_code": "050",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "11",
+    "uacs_code": "5060405011",
+    "description": "Medical Equipment",
+    "object_code": "050",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "12",
+    "uacs_code": "5060405012",
+    "description": "Printing Equipment",
+    "object_code": "050",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "13",
+    "uacs_code": "5060405013",
+    "description": "Sports Equipment",
+    "object_code": "050",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "14",
+    "uacs_code": "5060405014",
+    "description": "Technical and Scientific Equipment",
+    "object_code": "050",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "15",
+    "uacs_code": "5060405015",
+    "description": "ICT Software",
+    "object_code": "050",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "99",
+    "uacs_code": "5060405099",
+    "description": "Other Machinery and Equipment",
+    "object_code": "050",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5060406001",
+    "description": "Motor Vehicles",
+    "object_code": "060",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5060406002",
+    "description": "Trains",
+    "object_code": "060",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "03",
+    "uacs_code": "5060406003",
+    "description": "Aircrafts and Aircrafts Ground Equipment",
+    "object_code": "060",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "04",
+    "uacs_code": "5060406004",
+    "description": "Watercrafts",
+    "object_code": "060",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "99",
+    "uacs_code": "5060406099",
+    "description": "Other Transportation Equipment",
+    "object_code": "060",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5060407001",
+    "description": "Furniture and Fixtures",
+    "object_code": "070",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5060407002",
+    "description": "Books",
+    "object_code": "070",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5060408001",
+    "description": "Historical Buildings",
+    "object_code": "080",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5060408002",
+    "description": "Works of Arts and Archeological Specimens",
+    "object_code": "080",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "99",
+    "uacs_code": "5060408099",
+    "description": "Other Heritage Assets",
+    "object_code": "080",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5060409001",
+    "description": "Work/Zoo Animals",
+    "object_code": "090",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "99",
+    "uacs_code": "5060409099",
+    "description": "Other Property, Plant and Equipment",
+    "object_code": "090",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "99",
+    "uacs_code": "5060410099",
+    "description": "Other Leased Assets Improvements",
+    "object_code": "100",
+    "group_code": "04",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "01",
+    "uacs_code": "5060501001",
+    "description": "Breeding Stocks",
+    "object_code": "010",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "02",
+    "uacs_code": "5060501002",
+    "description": "Livestock",
+    "object_code": "010",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "03",
+    "uacs_code": "5060501003",
+    "description": "Trees, Plants and Crops",
+    "object_code": "010",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "04",
+    "uacs_code": "5060501004",
+    "description": "Aquaculture",
+    "object_code": "010",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  },
+  {
+    "code": "99",
+    "uacs_code": "5060501099",
+    "description": "Other Bearer Biological Assets",
+    "object_code": "010",
+    "group_code": "05",
+    "sub_class_code": "06",
+    "classification_code": "5",
+    "expense_category": "06"
+  }
+]

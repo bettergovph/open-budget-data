@@ -1,0 +1,27 @@
+[
+  {
+    "entity": "location",
+    "barangay_source": "UACS API",
+    "total_regions": 19,
+    "total_provinces": 100,
+    "total_cities_municipalities": 1937,
+    "total_barangays": 51207,
+    "total_locations": 51207,
+    "conversion_date": "2025-10-04T00:09:17.963782",
+    "input_files": [
+      "region 3.xlsx",
+      "province .xlsx",
+      "municipality.xlsx",
+      "barangay .xlsx (optional)"
+    ],
+    "output_files": [
+      "regions.json",
+      "provinces.json",
+      "cities_municipalities.json",
+      "barangays.json",
+      "locations.json",
+      "barangays_api_raw.json"
+    ],
+    "api_pages_fetched": "1-1025"
+  }
+]

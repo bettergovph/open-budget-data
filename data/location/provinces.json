@@ -1,0 +1,802 @@
+[
+  {
+    "code": "28",
+    "description": "Ilocos Norte",
+    "region_code": "01",
+    "region_name": "Region I - Ilocos",
+    "psgc_code": "0128",
+    "status": "Active"
+  },
+  {
+    "code": "29",
+    "description": "Ilocos Sur",
+    "region_code": "01",
+    "region_name": "Region I - Ilocos",
+    "psgc_code": "0129",
+    "status": "Active"
+  },
+  {
+    "code": "33",
+    "description": "La Union",
+    "region_code": "01",
+    "region_name": "Region I - Ilocos",
+    "psgc_code": "0133",
+    "status": "Active"
+  },
+  {
+    "code": "55",
+    "description": "Pangasinan",
+    "region_code": "01",
+    "region_name": "Region I - Ilocos",
+    "psgc_code": "0155",
+    "status": "Active"
+  },
+  {
+    "code": "09",
+    "description": "Batanes",
+    "region_code": "02",
+    "region_name": "Region II - Cagayan Valley",
+    "psgc_code": "0209",
+    "status": "Active"
+  },
+  {
+    "code": "15",
+    "description": "Cagayan",
+    "region_code": "02",
+    "region_name": "Region II - Cagayan Valley",
+    "psgc_code": "0215",
+    "status": "Active"
+  },
+  {
+    "code": "31",
+    "description": "Isabela",
+    "region_code": "02",
+    "region_name": "Region II - Cagayan Valley",
+    "psgc_code": "0231",
+    "status": "Active"
+  },
+  {
+    "code": "50",
+    "description": "Nueva Vizcaya",
+    "region_code": "02",
+    "region_name": "Region II - Cagayan Valley",
+    "psgc_code": "0250",
+    "status": "Active"
+  },
+  {
+    "code": "57",
+    "description": "Quirino",
+    "region_code": "02",
+    "region_name": "Region II - Cagayan Valley",
+    "psgc_code": "0257",
+    "status": "Active"
+  },
+  {
+    "code": "08",
+    "description": "Bataan",
+    "region_code": "03",
+    "region_name": "Region III - Central Luzon",
+    "psgc_code": "0308",
+    "status": "Active"
+  },
+  {
+    "code": "14",
+    "description": "Bulacan",
+    "region_code": "03",
+    "region_name": "Region III - Central Luzon",
+    "psgc_code": "0314",
+    "status": "Active"
+  },
+  {
+    "code": "30",
+    "description": "Pampanga",
+    "region_code": "03",
+    "region_name": "Region III - Central Luzon",
+    "psgc_code": "0330",
+    "status": "Inactive"
+  },
+  {
+    "code": "31",
+    "description": "Zambales",
+    "region_code": "03",
+    "region_name": "Region III - Central Luzon",
+    "psgc_code": "0331",
+    "status": "Inactive"
+  },
+  {
+    "code": "49",
+    "description": "Nueva Ecija",
+    "region_code": "03",
+    "region_name": "Region III - Central Luzon",
+    "psgc_code": "0349",
+    "status": "Active"
+  },
+  {
+    "code": "54",
+    "description": "Pampanga",
+    "region_code": "03",
+    "region_name": "Region III - Central Luzon",
+    "psgc_code": "0354",
+    "status": "Active"
+  },
+  {
+    "code": "69",
+    "description": "Tarlac",
+    "region_code": "03",
+    "region_name": "Region III - Central Luzon",
+    "psgc_code": "0369",
+    "status": "Active"
+  },
+  {
+    "code": "71",
+    "description": "Zambales",
+    "region_code": "03",
+    "region_name": "Region III - Central Luzon",
+    "psgc_code": "0371",
+    "status": "Active"
+  },
+  {
+    "code": "77",
+    "description": "Aurora",
+    "region_code": "03",
+    "region_name": "Region III - Central Luzon",
+    "psgc_code": "0377",
+    "status": "Active"
+  },
+  {
+    "code": "10",
+    "description": "Batangas",
+    "region_code": "04",
+    "region_name": "Region IVA - CALABARZON",
+    "psgc_code": "0410",
+    "status": "Active"
+  },
+  {
+    "code": "21",
+    "description": "Cavite",
+    "region_code": "04",
+    "region_name": "Region IVA - CALABARZON",
+    "psgc_code": "0421",
+    "status": "Active"
+  },
+  {
+    "code": "34",
+    "description": "Laguna",
+    "region_code": "04",
+    "region_name": "Region IVA - CALABARZON",
+    "psgc_code": "0434",
+    "status": "Active"
+  },
+  {
+    "code": "56",
+    "description": "Quezon",
+    "region_code": "04",
+    "region_name": "Region IVA - CALABARZON",
+    "psgc_code": "0456",
+    "status": "Active"
+  },
+  {
+    "code": "58",
+    "description": "Rizal",
+    "region_code": "04",
+    "region_name": "Region IVA - CALABARZON",
+    "psgc_code": "0458",
+    "status": "Active"
+  },
+  {
+    "code": "05",
+    "description": "Albay",
+    "region_code": "05",
+    "region_name": "Region V - Bicol",
+    "psgc_code": "0505",
+    "status": "Active"
+  },
+  {
+    "code": "16",
+    "description": "Camarines Norte",
+    "region_code": "05",
+    "region_name": "Region V - Bicol",
+    "psgc_code": "0516",
+    "status": "Active"
+  },
+  {
+    "code": "17",
+    "description": "Camarines Sur",
+    "region_code": "05",
+    "region_name": "Region V - Bicol",
+    "psgc_code": "0517",
+    "status": "Active"
+  },
+  {
+    "code": "20",
+    "description": "Catanduanes",
+    "region_code": "05",
+    "region_name": "Region V - Bicol",
+    "psgc_code": "0520",
+    "status": "Active"
+  },
+  {
+    "code": "41",
+    "description": "Masbate",
+    "region_code": "05",
+    "region_name": "Region V - Bicol",
+    "psgc_code": "0541",
+    "status": "Active"
+  },
+  {
+    "code": "62",
+    "description": "Sorsogon",
+    "region_code": "05",
+    "region_name": "Region V - Bicol",
+    "psgc_code": "0562",
+    "status": "Active"
+  },
+  {
+    "code": "04",
+    "description": "Aklan",
+    "region_code": "06",
+    "region_name": "Region VI - Western Visayas",
+    "psgc_code": "0604",
+    "status": "Active"
+  },
+  {
+    "code": "06",
+    "description": "Antique",
+    "region_code": "06",
+    "region_name": "Region VI - Western Visayas",
+    "psgc_code": "0606",
+    "status": "Active"
+  },
+  {
+    "code": "19",
+    "description": "Capiz",
+    "region_code": "06",
+    "region_name": "Region VI - Western Visayas",
+    "psgc_code": "0619",
+    "status": "Active"
+  },
+  {
+    "code": "30",
+    "description": "Iloilo",
+    "region_code": "06",
+    "region_name": "Region VI - Western Visayas",
+    "psgc_code": "0630",
+    "status": "Active"
+  },
+  {
+    "code": "45",
+    "description": "Negros Occidental",
+    "region_code": "06",
+    "region_name": "Region VI - Western Visayas",
+    "psgc_code": "0645",
+    "status": "Active"
+  },
+  {
+    "code": "79",
+    "description": "Guimaras",
+    "region_code": "06",
+    "region_name": "Region VI - Western Visayas",
+    "psgc_code": "0679",
+    "status": "Active"
+  },
+  {
+    "code": "12",
+    "description": "Bohol",
+    "region_code": "07",
+    "region_name": "Region VII - Central Visayas",
+    "psgc_code": "0712",
+    "status": "Active"
+  },
+  {
+    "code": "22",
+    "description": "Cebu",
+    "region_code": "07",
+    "region_name": "Region VII - Central Visayas",
+    "psgc_code": "0722",
+    "status": "Active"
+  },
+  {
+    "code": "46",
+    "description": "Negros Oriental",
+    "region_code": "07",
+    "region_name": "Region VII - Central Visayas",
+    "psgc_code": "0746",
+    "status": "Active"
+  },
+  {
+    "code": "61",
+    "description": "Siquijor",
+    "region_code": "07",
+    "region_name": "Region VII - Central Visayas",
+    "psgc_code": "0761",
+    "status": "Active"
+  },
+  {
+    "code": "26",
+    "description": "Eastern Samar",
+    "region_code": "08",
+    "region_name": "Region VIII - Eastern Visayas",
+    "psgc_code": "0826",
+    "status": "Active"
+  },
+  {
+    "code": "37",
+    "description": "Leyte",
+    "region_code": "08",
+    "region_name": "Region VIII - Eastern Visayas",
+    "psgc_code": "0837",
+    "status": "Active"
+  },
+  {
+    "code": "48",
+    "description": "Northern Samar",
+    "region_code": "08",
+    "region_name": "Region VIII - Eastern Visayas",
+    "psgc_code": "0848",
+    "status": "Active"
+  },
+  {
+    "code": "60",
+    "description": "Samar (Western Samar)",
+    "region_code": "08",
+    "region_name": "Region VIII - Eastern Visayas",
+    "psgc_code": "0860",
+    "status": "Active"
+  },
+  {
+    "code": "64",
+    "description": "Southern Leyte",
+    "region_code": "08",
+    "region_name": "Region VIII - Eastern Visayas",
+    "psgc_code": "0864",
+    "status": "Active"
+  },
+  {
+    "code": "78",
+    "description": "Biliran",
+    "region_code": "08",
+    "region_name": "Region VIII - Eastern Visayas",
+    "psgc_code": "0878",
+    "status": "Active"
+  },
+  {
+    "code": "66",
+    "description": "Sulu",
+    "region_code": "09",
+    "region_name": "Region IX - Zamboanga Peninsula",
+    "psgc_code": "0966",
+    "status": "Active"
+  },
+  {
+    "code": "72",
+    "description": "Zamboanga del Norte",
+    "region_code": "09",
+    "region_name": "Region IX - Zamboanga Peninsula",
+    "psgc_code": "0972",
+    "status": "Active"
+  },
+  {
+    "code": "73",
+    "description": "Zamboanga del Sur",
+    "region_code": "09",
+    "region_name": "Region IX - Zamboanga Peninsula",
+    "psgc_code": "0973",
+    "status": "Active"
+  },
+  {
+    "code": "83",
+    "description": "Zamboanga Sibugay",
+    "region_code": "09",
+    "region_name": "Region IX - Zamboanga Peninsula",
+    "psgc_code": "0983",
+    "status": "Active"
+  },
+  {
+    "code": "97",
+    "description": "City of Isabela (Not a Province)",
+    "region_code": "09",
+    "region_name": "Region IX - Zamboanga Peninsula",
+    "psgc_code": "0997",
+    "status": "Active"
+  },
+  {
+    "code": "13",
+    "description": "Bukidnon",
+    "region_code": "10",
+    "region_name": "Region X - Northern Mindanao",
+    "psgc_code": "1013",
+    "status": "Active"
+  },
+  {
+    "code": "18",
+    "description": "Camiguin",
+    "region_code": "10",
+    "region_name": "Region X - Northern Mindanao",
+    "psgc_code": "1018",
+    "status": "Active"
+  },
+  {
+    "code": "35",
+    "description": "Lanao del Norte",
+    "region_code": "10",
+    "region_name": "Region X - Northern Mindanao",
+    "psgc_code": "1035",
+    "status": "Active"
+  },
+  {
+    "code": "42",
+    "description": "Misamis Occidental",
+    "region_code": "10",
+    "region_name": "Region X - Northern Mindanao",
+    "psgc_code": "1042",
+    "status": "Active"
+  },
+  {
+    "code": "43",
+    "description": "Misamis Oriental",
+    "region_code": "10",
+    "region_name": "Region X - Northern Mindanao",
+    "psgc_code": "1043",
+    "status": "Active"
+  },
+  {
+    "code": "23",
+    "description": "Davao del Norte",
+    "region_code": "11",
+    "region_name": "Region XI - Davao",
+    "psgc_code": "1123",
+    "status": "Active"
+  },
+  {
+    "code": "24",
+    "description": "Davao del Sur",
+    "region_code": "11",
+    "region_name": "Region XI - Davao",
+    "psgc_code": "1124",
+    "status": "Active"
+  },
+  {
+    "code": "25",
+    "description": "Davao Oriental",
+    "region_code": "11",
+    "region_name": "Region XI - Davao",
+    "psgc_code": "1125",
+    "status": "Active"
+  },
+  {
+    "code": "82",
+    "description": "Davao de Oro",
+    "region_code": "11",
+    "region_name": "Region XI - Davao",
+    "psgc_code": "1182",
+    "status": "Active"
+  },
+  {
+    "code": "86",
+    "description": "Davao Occidental",
+    "region_code": "11",
+    "region_name": "Region XI - Davao",
+    "psgc_code": "1186",
+    "status": "Active"
+  },
+  {
+    "code": "47",
+    "description": "North Cotabato",
+    "region_code": "12",
+    "region_name": "Region XII - SOCCSKSARGEN",
+    "psgc_code": "1247",
+    "status": "Active"
+  },
+  {
+    "code": "63",
+    "description": "South Cotabato",
+    "region_code": "12",
+    "region_name": "Region XII - SOCCSKSARGEN",
+    "psgc_code": "1263",
+    "status": "Active"
+  },
+  {
+    "code": "65",
+    "description": "Sultan Kudarat",
+    "region_code": "12",
+    "region_name": "Region XII - SOCCSKSARGEN",
+    "psgc_code": "1265",
+    "status": "Active"
+  },
+  {
+    "code": "80",
+    "description": "Sarangani",
+    "region_code": "12",
+    "region_name": "Region XII - SOCCSKSARGEN",
+    "psgc_code": "1280",
+    "status": "Active"
+  },
+  {
+    "code": "98",
+    "description": "Cotabato City (Not a Province)",
+    "region_code": "12",
+    "region_name": "Region XII - SOCCSKSARGEN",
+    "psgc_code": "1298",
+    "status": "Active"
+  },
+  {
+    "code": "39",
+    "description": "NCR, City of Manila, First District (Not a Province)",
+    "region_code": "13",
+    "region_name": "National Capital Region (NCR)",
+    "psgc_code": "1339",
+    "status": "Active"
+  },
+  {
+    "code": "74",
+    "description": "NCR, Second District (Not a Province)",
+    "region_code": "13",
+    "region_name": "National Capital Region (NCR)",
+    "psgc_code": "1374",
+    "status": "Active"
+  },
+  {
+    "code": "75",
+    "description": "NCR, Third District (Not a Province)",
+    "region_code": "13",
+    "region_name": "National Capital Region (NCR)",
+    "psgc_code": "1375",
+    "status": "Active"
+  },
+  {
+    "code": "76",
+    "description": "NCR, Fourth District (Not a Province)",
+    "region_code": "13",
+    "region_name": "National Capital Region (NCR)",
+    "psgc_code": "1376",
+    "status": "Active"
+  },
+  {
+    "code": "01",
+    "description": "Abra",
+    "region_code": "14",
+    "region_name": "Cordillera Administrative Region (CAR)",
+    "psgc_code": "1401",
+    "status": "Active"
+  },
+  {
+    "code": "11",
+    "description": "Benguet",
+    "region_code": "14",
+    "region_name": "Cordillera Administrative Region (CAR)",
+    "psgc_code": "1411",
+    "status": "Active"
+  },
+  {
+    "code": "27",
+    "description": "Ifugao",
+    "region_code": "14",
+    "region_name": "Cordillera Administrative Region (CAR)",
+    "psgc_code": "1427",
+    "status": "Active"
+  },
+  {
+    "code": "32",
+    "description": "Kalinga",
+    "region_code": "14",
+    "region_name": "Cordillera Administrative Region (CAR)",
+    "psgc_code": "1432",
+    "status": "Active"
+  },
+  {
+    "code": "44",
+    "description": "Mountain Province",
+    "region_code": "14",
+    "region_name": "Cordillera Administrative Region (CAR)",
+    "psgc_code": "1444",
+    "status": "Active"
+  },
+  {
+    "code": "81",
+    "description": "Apayao",
+    "region_code": "14",
+    "region_name": "Cordillera Administrative Region (CAR)",
+    "psgc_code": "1481",
+    "status": "Active"
+  },
+  {
+    "code": "07",
+    "description": "Basilan",
+    "region_code": "15",
+    "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+    "psgc_code": "1507",
+    "status": "Inactive"
+  },
+  {
+    "code": "36",
+    "description": "Lanao del Sur",
+    "region_code": "15",
+    "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+    "psgc_code": "1536",
+    "status": "Active"
+  },
+  {
+    "code": "38",
+    "description": "Maguindanao",
+    "region_code": "15",
+    "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+    "psgc_code": "1538",
+    "status": "Active"
+  },
+  {
+    "code": "66",
+    "description": "Sulu",
+    "region_code": "15",
+    "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+    "psgc_code": "1566",
+    "status": "Active"
+  },
+  {
+    "code": "70",
+    "description": "Tawi-Tawi",
+    "region_code": "15",
+    "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+    "psgc_code": "1570",
+    "status": "Active"
+  },
+  {
+    "code": "02",
+    "description": "Agusan del Norte",
+    "region_code": "16",
+    "region_name": "Region XIII - CARAGA",
+    "psgc_code": "1602",
+    "status": "Active"
+  },
+  {
+    "code": "03",
+    "description": "Agusan del Sur",
+    "region_code": "16",
+    "region_name": "Region XIII - CARAGA",
+    "psgc_code": "1603",
+    "status": "Active"
+  },
+  {
+    "code": "67",
+    "description": "Surigao del Norte",
+    "region_code": "16",
+    "region_name": "Region XIII - CARAGA",
+    "psgc_code": "1667",
+    "status": "Active"
+  },
+  {
+    "code": "68",
+    "description": "Surigao del Sur",
+    "region_code": "16",
+    "region_name": "Region XIII - CARAGA",
+    "psgc_code": "1668",
+    "status": "Active"
+  },
+  {
+    "code": "85",
+    "description": "Dinagat Islands",
+    "region_code": "16",
+    "region_name": "Region XIII - CARAGA",
+    "psgc_code": "1685",
+    "status": "Active"
+  },
+  {
+    "code": "40",
+    "description": "Marinduque",
+    "region_code": "17",
+    "region_name": "Region IVB - MIMAROPA",
+    "psgc_code": "1740",
+    "status": "Active"
+  },
+  {
+    "code": "51",
+    "description": "Occidental Mindoro",
+    "region_code": "17",
+    "region_name": "Region IVB - MIMAROPA",
+    "psgc_code": "1751",
+    "status": "Active"
+  },
+  {
+    "code": "52",
+    "description": "Oriental Mindoro",
+    "region_code": "17",
+    "region_name": "Region IVB - MIMAROPA",
+    "psgc_code": "1752",
+    "status": "Active"
+  },
+  {
+    "code": "53",
+    "description": "Palawan",
+    "region_code": "17",
+    "region_name": "Region IVB - MIMAROPA",
+    "psgc_code": "1753",
+    "status": "Active"
+  },
+  {
+    "code": "59",
+    "description": "Romblon",
+    "region_code": "17",
+    "region_name": "Region IVB - MIMAROPA",
+    "psgc_code": "1759",
+    "status": "Active"
+  },
+  {
+    "code": "45",
+    "description": "Negros Occidental",
+    "region_code": "18",
+    "region_name": "Negros Island Region",
+    "psgc_code": "1845",
+    "status": "Active"
+  },
+  {
+    "code": "46",
+    "description": "Negros Oriental",
+    "region_code": "18",
+    "region_name": "Negros Island Region",
+    "psgc_code": "1846",
+    "status": "Active"
+  },
+  {
+    "code": "61",
+    "description": "Siquijor",
+    "region_code": "18",
+    "region_name": "Negros Island Region",
+    "psgc_code": "1861",
+    "status": "Active"
+  },
+  {
+    "code": "07",
+    "description": "Basilan",
+    "region_code": "19",
+    "region_name": "Bangsamoro Autonomous Region In Muslim Mindanao(BARMM)",
+    "psgc_code": "1907",
+    "status": "Active"
+  },
+  {
+    "code": "36",
+    "description": "Lanao del Sur",
+    "region_code": "19",
+    "region_name": "Bangsamoro Autonomous Region In Muslim Mindanao(BARMM)",
+    "psgc_code": "1936",
+    "status": "Active"
+  },
+  {
+    "code": "66",
+    "description": "Sulu",
+    "region_code": "19",
+    "region_name": "Bangsamoro Autonomous Region In Muslim Mindanao(BARMM)",
+    "psgc_code": "1966",
+    "status": "Inactive"
+  },
+  {
+    "code": "70",
+    "description": "Tawi-tawi",
+    "region_code": "19",
+    "region_name": "Bangsamoro Autonomous Region In Muslim Mindanao(BARMM)",
+    "psgc_code": "1970",
+    "status": "Active"
+  },
+  {
+    "code": "87",
+    "description": "Maguindanao del Norte",
+    "region_code": "19",
+    "region_name": "Bangsamoro Autonomous Region In Muslim Mindanao(BARMM)",
+    "psgc_code": "1987",
+    "status": "Active"
+  },
+  {
+    "code": "88",
+    "description": "Maguindanao del Sur",
+    "region_code": "19",
+    "region_name": "Bangsamoro Autonomous Region In Muslim Mindanao(BARMM)",
+    "psgc_code": "1988",
+    "status": "Active"
+  },
+  {
+    "code": "99",
+    "description": "Interim Province Code for 63 barangays of BARMM based on PSA Board Resolution No. 13 Series of 2021",
+    "region_code": "19",
+    "region_name": "Bangsamoro Autonomous Region In Muslim Mindanao(BARMM)",
+    "psgc_code": "1999",
+    "status": "Active"
+  }
+]

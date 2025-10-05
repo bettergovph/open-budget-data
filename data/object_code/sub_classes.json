@@ -1,0 +1,205 @@
+[
+  {
+    "code": "01",
+    "simple_code": "01",
+    "description": "Cash and Cash Equivalents",
+    "classification_code": "1",
+    "uacs_code": "10100000"
+  },
+  {
+    "code": "02",
+    "simple_code": "02",
+    "description": "Investments",
+    "classification_code": "1",
+    "uacs_code": "10200000"
+  },
+  {
+    "code": "03",
+    "simple_code": "03",
+    "description": "Receivables",
+    "classification_code": "1",
+    "uacs_code": "10300000"
+  },
+  {
+    "code": "04",
+    "simple_code": "04",
+    "description": "Inventories",
+    "classification_code": "1",
+    "uacs_code": "10400000"
+  },
+  {
+    "code": "05",
+    "simple_code": "05",
+    "description": "Investment Property",
+    "classification_code": "1",
+    "uacs_code": "10500000"
+  },
+  {
+    "code": "06",
+    "simple_code": "06",
+    "description": "Property, Plant and Equipment",
+    "classification_code": "1",
+    "uacs_code": "10600000"
+  },
+  {
+    "code": "07",
+    "simple_code": "07",
+    "description": "Biological Assets",
+    "classification_code": "1",
+    "uacs_code": "10700000"
+  },
+  {
+    "code": "08",
+    "simple_code": "08",
+    "description": "Intangible Assets",
+    "classification_code": "1",
+    "uacs_code": "10800000"
+  },
+  {
+    "code": "09",
+    "simple_code": "09",
+    "description": "Other Assets",
+    "classification_code": "1",
+    "uacs_code": "10900000"
+  },
+  {
+    "code": "01",
+    "simple_code": "01",
+    "description": "Financial Liabilities",
+    "classification_code": "2",
+    "uacs_code": "20100000"
+  },
+  {
+    "code": "02",
+    "simple_code": "02",
+    "description": "Inter-Agency Payables",
+    "classification_code": "2",
+    "uacs_code": "20200000"
+  },
+  {
+    "code": "03",
+    "simple_code": "03",
+    "description": "Intra-Agency Payables",
+    "classification_code": "2",
+    "uacs_code": "20300000"
+  },
+  {
+    "code": "04",
+    "simple_code": "04",
+    "description": "Trust Liabilities",
+    "classification_code": "2",
+    "uacs_code": "20400000"
+  },
+  {
+    "code": "05",
+    "simple_code": "05",
+    "description": "Deffered Credits/Unearned Income",
+    "classification_code": "2",
+    "uacs_code": "20500000"
+  },
+  {
+    "code": "06",
+    "simple_code": "06",
+    "description": "Provisions",
+    "classification_code": "2",
+    "uacs_code": "20600000"
+  },
+  {
+    "code": "01",
+    "simple_code": "01",
+    "description": "Government Equity",
+    "classification_code": "3",
+    "uacs_code": "30100000"
+  },
+  {
+    "code": "03",
+    "simple_code": "03",
+    "description": "Intermediate Accounts",
+    "classification_code": "3",
+    "uacs_code": "30300000"
+  },
+  {
+    "code": "01",
+    "simple_code": "01",
+    "description": "Tax Revenue",
+    "classification_code": "4",
+    "uacs_code": "40100000"
+  },
+  {
+    "code": "02",
+    "simple_code": "02",
+    "description": "Service and Business Income",
+    "classification_code": "4",
+    "uacs_code": "40200000"
+  },
+  {
+    "code": "03",
+    "simple_code": "03",
+    "description": "Assistance/Subsidy from",
+    "classification_code": "4",
+    "uacs_code": "40300000"
+  },
+  {
+    "code": "04",
+    "simple_code": "04",
+    "description": "Shares, Grants and Donations",
+    "classification_code": "4",
+    "uacs_code": "40400000"
+  },
+  {
+    "code": "05",
+    "simple_code": "05",
+    "description": "Gains",
+    "classification_code": "4",
+    "uacs_code": "40500000"
+  },
+  {
+    "code": "06",
+    "simple_code": "06",
+    "description": "Non-Operating Income",
+    "classification_code": "4",
+    "uacs_code": "40600000"
+  },
+  {
+    "code": "01",
+    "simple_code": "01",
+    "description": "Personnel Services",
+    "classification_code": "5",
+    "uacs_code": "50100000"
+  },
+  {
+    "code": "02",
+    "simple_code": "02",
+    "description": "Maintenance and Other Operating Expenses",
+    "classification_code": "5",
+    "uacs_code": "50200000"
+  },
+  {
+    "code": "03",
+    "simple_code": "03",
+    "description": "Financial Expenses",
+    "classification_code": "5",
+    "uacs_code": "50300000"
+  },
+  {
+    "code": "04",
+    "simple_code": "04",
+    "description": "Direct Costs",
+    "classification_code": "5",
+    "uacs_code": "50400000"
+  },
+  {
+    "code": "05",
+    "simple_code": "05",
+    "description": "Non-Cash Expenses",
+    "classification_code": "5",
+    "uacs_code": "50500000"
+  },
+  {
+    "code": "06",
+    "simple_code": "06",
+    "description": "Capital Outlays",
+    "classification_code": "5",
+    "uacs_code": "50600000"
+  }
+]

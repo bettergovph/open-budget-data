@@ -1,0 +1,18 @@
+[
+  {
+    "code": "00",
+    "description": "None"
+  },
+  {
+    "code": "01",
+    "description": "Disaster Related"
+  },
+  {
+    "code": "02",
+    "description": "Climate Change Mitigation"
+  },
+  {
+    "code": "03",
+    "description": "Climate Change Adaptation"
+  }
+]

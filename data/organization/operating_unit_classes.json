@@ -1,0 +1,132 @@
+[
+  {
+    "code": "01",
+    "description": "Central Office",
+    "status": "Active"
+  },
+  {
+    "code": "02",
+    "description": "Staff Bureaus",
+    "status": "Active"
+  },
+  {
+    "code": "03",
+    "description": "Department/Agency Regional Offices/Centers for Health Development/Regional Field Units - DA",
+    "status": "Active"
+  },
+  {
+    "code": "04",
+    "description": "State Universities and Colleges - Campuses",
+    "status": "Active"
+  },
+  {
+    "code": "05",
+    "description": "Provincial Offices - DAR and DENR",
+    "status": "Active"
+  },
+  {
+    "code": "06",
+    "description": "National Irrigation Administration Regional Offices - DA",
+    "status": "Active"
+  },
+  {
+    "code": "07",
+    "description": "Extension or Field Office - CDA-DOF/Penal Colonies - BUCOR",
+    "status": "Active"
+  },
+  {
+    "code": "08",
+    "description": "Schools Division/District Offices - DEPED",
+    "status": "Active"
+  },
+  {
+    "code": "09",
+    "description": "Secondary Schools - DEPED/Campuses - PSHS",
+    "status": "Active"
+  },
+  {
+    "code": "10",
+    "description": "Collection Districts** - BOC",
+    "status": "Active"
+  },
+  {
+    "code": "11",
+    "description": "Revenue Regional Offices* - BIR",
+    "status": "Active"
+  },
+  {
+    "code": "12",
+    "description": "Revenue District Offices** - BIR",
+    "status": "Active"
+  },
+  {
+    "code": "13",
+    "description": "Embassies/Consulates General/Manila and Regional Consular Offices - DFA",
+    "status": "Active"
+  },
+  {
+    "code": "14",
+    "description": "Special/Retained Hospitals - DOH",
+    "status": "Active"
+  },
+  {
+    "code": "15",
+    "description": "Treatment and Rehabilitation Centers - DOH",
+    "status": "Active"
+  },
+  {
+    "code": "16",
+    "description": "Technical/Vocational Schools - TESDA",
+    "status": "Active"
+  },
+  {
+    "code": "17",
+    "description": "Key Budgetary Units - DND",
+    "status": "Active"
+  },
+  {
+    "code": "18",
+    "description": "District Engineering Offices and Sub District Engineering Offices - DPWH",
+    "status": "Active"
+  },
+  {
+    "code": "19",
+    "description": "Land Transportation Offices - DOTC",
+    "status": "Active"
+  },
+  {
+    "code": "20",
+    "description": "Land Transportation Franchising and Regulatory Board - DOTC",
+    "status": "Active"
+  },
+  {
+    "code": "21",
+    "description": "Regional Development Councils - NEDA",
+    "status": "Active"
+  },
+  {
+    "code": "22",
+    "description": "Autonomous Region in Muslim Mindanao",
+    "status": "Active"
+  },
+  {
+    "code": "23",
+    "description": "Philippine National Railways - DOTC",
+    "status": "Active"
+  },
+  {
+    "code": "24",
+    "description": "BSGC Subsidiary",
+    "status": "Active"
+  },
+  {
+    "code": "25",
+    "description": "National/Sub-National Reference Laboratories - DOH",
+    "status": "Active"
+  },
+  {
+    "code": "26",
+    "description": "Clustered Regional Offices",
+    "status": "Active"
+  }
+]

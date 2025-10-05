@@ -1,0 +1,38 @@
+[
+  {
+    "code": "1",
+    "description": "Personnel Services",
+    "abbreviation": "PS",
+    "sub_class_code": "01"
+  },
+  {
+    "code": "2",
+    "description": "Maintenance and Other Operating Expenses",
+    "abbreviation": "MOOE",
+    "sub_class_code": "02"
+  },
+  {
+    "code": "3",
+    "description": "Financial Expenses",
+    "abbreviation": "FinEx",
+    "sub_class_code": "03"
+  },
+  {
+    "code": "4",
+    "description": "Direct Costs",
+    "abbreviation": "DirectCost",
+    "sub_class_code": "04"
+  },
+  {
+    "code": "5",
+    "description": "Non-Cash Expenses",
+    "abbreviation": "NonCash",
+    "sub_class_code": "05"
+  },
+  {
+    "code": "6",
+    "description": "Capital Outlays",
+    "abbreviation": "CO",
+    "sub_class_code": "06"
+  }
+]

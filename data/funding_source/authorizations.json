@@ -1,0 +1,50 @@
+[
+  {
+    "code": "01",
+    "description": "New General Appropriations",
+    "financing_source": "General Fund",
+    "status": "Active"
+  },
+  {
+    "code": "02",
+    "description": "Continuing Appropriations",
+    "financing_source": "General Fund",
+    "status": "Active"
+  },
+  {
+    "code": "03",
+    "description": "Supplemental Appropriations",
+    "financing_source": "General Fund",
+    "status": "Active"
+  },
+  {
+    "code": "04",
+    "description": "Automatic Appropriations",
+    "financing_source": "General Fund",
+    "status": "Active"
+  },
+  {
+    "code": "05",
+    "description": "Unprogrammed Appropriations",
+    "financing_source": "General Fund",
+    "status": "Active"
+  },
+  {
+    "code": "06",
+    "description": "Retained Income/Funds",
+    "financing_source": "Off - Budgetary Funds",
+    "status": "Active"
+  },
+  {
+    "code": "07",
+    "description": "Revolving Funds",
+    "financing_source": "Off - Budgetary Funds",
+    "status": "Active"
+  },
+  {
+    "code": "08",
+    "description": "Trust Receipts",
+    "financing_source": "Custodial Funds",
+    "status": "Active"
+  }
+]

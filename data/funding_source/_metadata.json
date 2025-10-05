@@ -1,0 +1,24 @@
+[
+  {
+    "entity": "funding_source",
+    "total_fund_clusters": 7,
+    "total_financing_sources": 3,
+    "total_authorizations": 8,
+    "total_fund_categories": 838,
+    "total_funding_sources": 838,
+    "conversion_date": "2025-10-05T11:51:48.528171",
+    "input_files": [
+      "fundcluster.xlsx",
+      "financingsource.xlsx",
+      "authorizationcode.xlsx",
+      "fundcategory.xlsx"
+    ],
+    "output_files": [
+      "fund_clusters.json",
+      "financing_sources.json",
+      "authorizations.json",
+      "fund_categories.json",
+      "funding_sources.json"
+    ]
+  }
+]

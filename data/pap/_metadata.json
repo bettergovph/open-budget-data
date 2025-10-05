@@ -1,0 +1,22 @@
+[
+  {
+    "entity": "pap_prexc",
+    "total_sector_outcomes": 88,
+    "total_horizontal_programs": 4,
+    "conversion_date": "2025-10-04T00:41:45.727669",
+    "prexc_structure": {
+      "digit_1": "Sector/Horizontal Outcome",
+      "digit_2": "Cost Structure (1=GAS, 2=STO, 3=Ops, 4=SPF)",
+      "digits_3_4": "Organizational Outcome",
+      "digits_5_6": "Program",
+      "digits_7_8": "Sub-program",
+      "digit_9": "Identifier (1=Activity, 2=LFP, 3=FAP)",
+      "digits_10_14": "Activity/Project Code",
+      "digit_15": "Reserved"
+    },
+    "output_files": [
+      "sector_outcomes.json",
+      "horizontal_programs.json"
+    ]
+  }
+]
