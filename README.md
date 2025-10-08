@@ -671,6 +671,31 @@ Contributions are welcome! Please ensure:
 - Comprehensive error handling and logging
 - Documentation for new data sources
 
+### How to Contribute
+
+1. **Fork the repository** and create a new branch for your feature
+2. **Test your changes** thoroughly with sample data
+3. **Update documentation** to reflect any new features or changes
+4. **Submit a pull request** with a clear description of your changes
+
+### Areas for Contribution
+
+- **Data Quality**: Improve validation and error handling
+- **Performance**: Optimize batch processing and database queries
+- **Visualization**: Create analysis tools and dashboards
+- **Documentation**: Improve guides, examples, and API documentation
+- **Data Sources**: Add new budget years or reference datasets
+
+## 👥 Contributors
+
+This project is made possible by contributors dedicated to government transparency:
+
+- **Project Lead**: [BetterGov.PH Team](https://bettergov.ph/)
+- **Data Engineering**: Community contributors
+- **Special Thanks**: Department of Budget and Management (DBM) for open data access
+
+Want to see your name here? [Contribute to the project!](#-contributing)
+
 ---
 
 **Last Updated**: October 2025
