@@ -572,6 +572,11 @@ RETURN r.description AS region,
 ORDER BY total_amount DESC
 ```
 
+This query matches `BudgetRecord` nodes with `fiscal_year: "2025"` and an
+outgoing `LOCATED_IN_REGION` relationship to a `Region`. It does not filter by
+`budget_type`. To select one budget stage, add `budget_type: "NEP"` or
+`budget_type: "GAA"` to the `BudgetRecord` pattern.
+
 ### Query 3: Budget by Expense Category
 
 ```cypher
